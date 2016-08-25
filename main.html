@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		
+		<!-- import CSS -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+		<!-- import jQuery -->
+		<script defer src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+		<!-- import HighMaps -->
+		<script defer src="http://code.highcharts.com/maps/highmaps.js"></script>
+		<script defer src="http://code.highcharts.com/maps/modules/exporting.js"></script>
+		<script defer src="http://code.highcharts.com/mapdata/countries/tz/tz-all.js"></script>
+
+		<!-- import my scripts -->
+		<script defer src="clientscript.js"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="map-div"></div>
+			<div id="list-div">
+				<select id="list" name="data" onChange="reload()">
+					<option value="query.php/?table=keys_data">Ratio of Top 3 Division to Total</option>
+					<option value="query.php/?table=csee2015_passrate">Pass Rate (Top 4 Divisions)</option>
+				</select>
+			</div>
+		</div>
+	</body>
+</html>

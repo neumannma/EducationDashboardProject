@@ -1,0 +1,25 @@
+/* fill the whole viewport */
+html, body
+{
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper
+{
+	height: 100%;
+	width: 100%;
+	display: flex;			/* use the flexbox model */
+	flex-direction: column;	/* organize contained elements vertically */
+}
+
+#map-div
+{
+	flex: auto;				/* element will grow to fill all remaining space in the viewport */
+}
+
+#list-div
+{
+	text-align: center;		/* center element in the container */
+}
