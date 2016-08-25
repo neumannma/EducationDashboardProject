@@ -26,5 +26,4 @@
 	// print data as JSON
 	$json = json_encode($data);
 	echo $json;
-	
 ?>
