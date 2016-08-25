@@ -12,7 +12,7 @@ function reload()
 	$.getJSON(listVal, draw_map);
 }
 
-function draw_map(data)
+function draw_map(source)
 {
 	var properties = 
 	{
@@ -34,16 +34,16 @@ function draw_map(data)
                 verticalAlign: 'middle'
             }
         },
-
+		
         colorAxis: 
         {
-            min: 0.15,
-            max: 0.3
+            min: source.min,
+            max: source.max
         },
 
         series: 
         [{
-            data: data,
+            data: source.data,
             mapData: Highcharts.maps['countries/tz/tz-all'],
             joinBy: 'hc-key',
             name: 'Region Averages',

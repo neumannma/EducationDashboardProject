@@ -18,12 +18,29 @@
 	$sql = "SELECT * FROM " . $tablename;
 	$result = $connection->query($sql);
 	
-	// format results as associative array
+	// format result as associative array
 	$data = array();
 	while ($row = $result->fetch_assoc())
 		$data[] = $row;
 	
+	// calculate min and max
+	$min = INF;
+	$max = 0;
+	foreach ($data as $value)
+	{
+		$max = $max > $value["value"] ? $max : $value["value"];
+		$min = $min < $value["value"] ? $min : $value["value"];
+	}
+	
+	// create object with 
+	$pre_json = array
+	(
+		"min" => $min,
+		"max" => $max,
+		"data" => $data
+	);
+	
 	// print data as JSON
-	$json = json_encode($data);
+	$json = json_encode($pre_json, JSON_PRETTY_PRINT);
 	echo $json;
 ?>
