@@ -26,7 +26,7 @@
 						$servername = "localhost";
 						$username = "remote";
 						$password = "password";
-						$dbname = "data";
+						$dbname = "map";
 
 						// connect to database
 						$connection = new mysqli($servername, $username, $password, $dbname);

@@ -2,7 +2,7 @@
 	$servername = "localhost";
 	$username = "remote";
 	$password = "password";
-	$dbname = "data";
+	$dbname = "map";
 
 	// get table name from URL
 	$tablename = $_REQUEST["table"];
