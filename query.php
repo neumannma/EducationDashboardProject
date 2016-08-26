@@ -15,7 +15,7 @@
 		die("connection failed: " . $connection->connect_error);
 	
 	// send SQL query
-	$sql = "SELECT * FROM " . $tablename;
+	$sql = "SELECT * FROM `" . $tablename . "`";
 	$result = $connection->query($sql);
 	
 	// format result as associative array
