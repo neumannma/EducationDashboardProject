@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # # #
-# csv2db.sh
+# csv-to-sql.sh
 #
 # Used to automate the process of importing a .csv file into a MySQL table
 #
@@ -10,33 +10,71 @@
 #	- A MySQL compatible database shell
 # # #
 
-# variables
-scriptname_default="maketable.sql"
-database="data"
-username="remote"
+# USER CONFIGURABLE
+default_username="remote"
+default_database="data"
 
-# check if an in-file was specified
+# configure environment
+set -e	# exit on nonzero return value from command
+
+# variables
+scriptname="maketable.sql"
+force=false
+
+# functions
+usage() { echo "Usage: $0 [-f (force table creation, overwrites existing table)] [-u username] [-d database] csv_file"; }
+
+# parse tagged args
+while getopts ":fu:d:" opts; do
+	case "${opts}" in
+		f)
+			force=true
+			;;
+		u)
+			username=${OPTARG}
+			;;
+		d)
+			database=${OPTARG}
+			;;
+		*)
+			usage
+			exit 1
+			;;
+	esac
+done
+
+# parse remaining args
+shift $(($OPTIND - 1))
 if [ -z $1 ]; then
-	echo "Usage: $0 [in-data.csv] [out-script.sql (default: maketable.sql)]"
+	usage
 	exit 1
 fi
+infile=$1
+tablename=${infile:0:-4}
 
-# if the optional out-file name was not specified, use the default
-if [ -z $2 ]; then
-	scriptname=$scriptname_default
-else
-	scriptname=$2
+# use defaults if not specified with tags
+if [ -z $username ]; then
+	username=$default_username
+fi
+if [ -z $database ]; then
+	database=$default_database
 fi
 
 # generate the SQL script to create the table
-csvsql --dialect mysql --snifflimit 100000 $1 > $scriptname
+if $force = true ; then
+	echo "DROP TABLE IF EXISTS $tablename;" > $scriptname
+fi
+csvsql --dialect mysql --snifflimit 100000 $infile >> $scriptname
 
 # append the SQL query to import the CSV data
-tablename=$1
-echo "LOAD DATA LOCAL INFILE '$PWD/$1' INTO TABLE ${tablename:0:-4}" >> $scriptname
+echo "LOAD DATA LOCAL INFILE '$PWD/$1' INTO TABLE $tablename" >> $scriptname
 echo "FIELDS TERMINATED BY ','" >> $scriptname
 echo "ENCLOSED BY '\"'" >> $scriptname
 echo "LINES TERMINATED BY '\n';" >> $scriptname
 
 # run the SQL script
 mysql -u $username -p $database < $scriptname
+echo "Table '$tablename' created in database '$database' by user '$username'."
+
+# delete the script when done
+rm $scriptname
