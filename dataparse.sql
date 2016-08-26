@@ -16,6 +16,19 @@ FROM 2015_csee_data_by_school
 GROUP BY region;
 
 /* create from 2015_csee_data_by_school into hc-key, %pass/total */
+CREATE TABLE csee2015_top3div AS
+SELECT hc_key AS 'hc-key', top3div AS 'value'
+FROM
+(
+	(
+		SELECT region, (( SUM(DI) + SUM(DII) + SUM(DIII) ) / ( SUM(DI) + SUM(DII) + SUM(DIII) + SUM(`DIV`) + SUM(`0`) + SUM(`ABS`) )) AS 'top3div'
+		FROM 2015_csee_data_by_school
+		GROUP BY region
+	) aggregate1
+	JOIN RegionCodes ON RegionCodes.region=aggregate1.region
+);
+
+/* create from 2015_csee_data_by_school into hc-key, %pass/total */
 CREATE TABLE csee2015_passrate AS
 SELECT hc_key AS 'hc-key', pass AS 'value'
 FROM
@@ -27,3 +40,7 @@ FROM
 	) aggregate1
 	JOIN RegionCodes ON RegionCodes.region=aggregate1.region
 );
+
+/* copy table from 'data' to 'map' */
+CREATE TABLE map.`Pass Rate` SELECT * FROM data.csee2015_passrate;
+CREATE TABLE map.`Top 3 Divisions Rate` SELECT * FROM data.csee2015_top3div;
