@@ -1,14 +1,16 @@
 <?php
-	$servername = "localhost";
-	$username = "remote";
-	$password = "password";
-	$dbname = "map";
+	// fetch settings from INI file
+	$ini = parse_ini_file("server.ini");
+	$hostname = $ini["hostname"];
+	$username = $ini["username"];
+	$password = $ini["password"];
+	$database = $ini["database"];
 
 	// get table name from URL
 	$tablename = $_REQUEST["table"];
 	
 	// create connection to database
-	$connection = new mysqli($servername, $username, $password, $dbname);
+	$connection = new mysqli($hostname, $username, $password, $database);
 	
 	// check connection
 	if ($connection->connect_error)

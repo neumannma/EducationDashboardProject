@@ -23,27 +23,30 @@
 			<div id="list-div">
 				<select id="list" name="data" onChange="reload()">
 					<?php
-						$servername = "localhost";
-						$username = "remote";
-						$password = "password";
-						$dbname = "map";
+						// fetch settings from INI file
+						$ini = parse_ini_file("server.ini");
+						$hostname = $ini["hostname"];
+						$username = $ini["username"];
+						$password = $ini["password"];
+						$database = $ini["database"];
 
 						// connect to database
-						$connection = new mysqli($servername, $username, $password, $dbname);
+						$connection = new mysqli($hostname, $username, $password, $database);
 
 						// check connection
 						if ($connection->connect_error)
 							die("connection failed: " . $connection->connect_error);
 	
-						// send SQL query
+						// send SQL query and receive result
 						$sql = "SHOW TABLES";
 						$result = $connection->query($sql);
 
 						// format results as array of strings
 						$data = array();
 						while ($row = $result->fetch_assoc())
-							$data[] = $row["Tables_in_" . $dbname];
-	
+							$data[] = $row["Tables_in_" . $database];
+						
+						// output HTML
 						foreach ($data as $value)
 							echo "<option value=\"query.php/?table=" . $value ."\">" . $value . "</option>\n";
 					?>
