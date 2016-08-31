@@ -1,0 +1,4 @@
+# Apache: must set 'AllowOverride All' for the webpage directory in 'httpd.conf' for these settings to stick
+
+# only allow server-side scripts to interact with files in this directory
+Deny from all
