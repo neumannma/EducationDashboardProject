@@ -23,12 +23,12 @@
 			<div id="list-div">
 				<select id="list" name="data" onChange="reload()">
 					<?php
-						// fetch settings from INI file
-						$ini = parse_ini_file("server.ini");
-						$hostname = $ini["hostname"];
-						$username = $ini["username"];
-						$password = $ini["password"];
-						$database = $ini["database"];
+						// fetch configuration settings
+						$config = parse_ini_file("config.ini");
+						$hostname = $config["hostname"];
+						$username = $config["username"];
+						$password = $config["password"];
+						$database = $config["database"];
 
 						// connect to database
 						$connection = new mysqli($hostname, $username, $password, $database);
