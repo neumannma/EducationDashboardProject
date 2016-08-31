@@ -1,10 +1,10 @@
 <?php
 	// fetch settings from INI file
-	$ini = parse_ini_file("server.ini");
-	$hostname = $ini["hostname"];
-	$username = $ini["username"];
-	$password = $ini["password"];
-	$database = $ini["database"];
+	$config = parse_ini_file("resources/config.ini");
+	$hostname = $config["hostname"];
+	$username = $config["username"];
+	$password = $config["password"];
+	$database = $config["database"];
 
 	// get table name from URL
 	$tablename = $_REQUEST["table"];

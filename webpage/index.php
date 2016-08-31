@@ -24,7 +24,7 @@
 				<select id="list" name="data" onChange="reload()">
 					<?php
 						// fetch configuration settings
-						$config = parse_ini_file("config.ini");
+						$config = parse_ini_file("resources/config.ini");
 						$hostname = $config["hostname"];
 						$username = $config["username"];
 						$password = $config["password"];
