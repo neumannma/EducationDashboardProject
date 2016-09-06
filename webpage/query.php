@@ -43,6 +43,6 @@
 	);
 	
 	// print data as JSON
-	$json = json_encode($pre_json, JSON_PRETTY_PRINT);
+	$json = json_encode($pre_json);
 	echo $json;
 ?>
