@@ -7,12 +7,12 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 
 		<!-- import jQuery -->
-		<script defer src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script defer src="jquery.min.js"></script>
 
 		<!-- import HighMaps -->
-		<script defer src="http://code.highcharts.com/maps/highmaps.js"></script>
-		<script defer src="http://code.highcharts.com/maps/modules/exporting.js"></script>
-		<script defer src="http://code.highcharts.com/mapdata/countries/tz/tz-all.js"></script>
+		<script defer src="highmaps.js"></script>
+		<script defer src="exporting.js"></script>
+		<script defer src="tz-all.js"></script>
 
 		<!-- import my scripts -->
 		<script defer src="client.js"></script>
