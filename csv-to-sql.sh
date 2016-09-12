@@ -61,13 +61,13 @@ if [ -z $database ]; then
 fi
 
 # generate the SQL script to create the table
-if $force = true ; then
-	echo "DROP TABLE IF EXISTS $tablename;" > $scriptname
+if $force; then
+	echo "DROP TABLE IF EXISTS \`$tablename\`;" > $scriptname
 fi
 csvsql --dialect mysql --snifflimit 100000 $infile >> $scriptname
 
 # append the SQL query to import the CSV data
-echo "LOAD DATA LOCAL INFILE '$PWD/$1' INTO TABLE $tablename" >> $scriptname
+echo "LOAD DATA LOCAL INFILE '$PWD/$1' INTO TABLE \`$tablename\`" >> $scriptname
 echo "FIELDS TERMINATED BY ','" >> $scriptname
 echo "ENCLOSED BY '\"'" >> $scriptname
 echo "LINES TERMINATED BY '\n';" >> $scriptname
