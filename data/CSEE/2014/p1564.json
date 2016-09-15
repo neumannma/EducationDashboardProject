@@ -1,0 +1,79 @@
+[
+    {
+        "CNO":  "P1564/0001",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;ARABIC;LANGUAGE:D;CHEM:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1564/0002",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "E-D-KIISLAMU:D;KISW:E;ENGL:F;ARABIC;LANGUAGE:B"
+    },
+    {
+        "CNO":  "P1564/0003",
+        "SEX":  "F",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:E;KISW:E;ENGL:F;ARABIC;LANGUAGE:C;B-MATH:F"
+    },
+    {
+        "CNO":  "P1564/0004",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;ARABIC;LANGUAGE:F;CHEM:F;BIO:F"
+    },
+    {
+        "CNO":  "P1564/0005",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1564/0006",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:E;KISW:E;ENGL:F;ARABIC;LANGUAGE:E;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1564/0007",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:E;E-D-KIISLAMU:E;KISW:E;ENGL:F;PHY:F;CHEM:F;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P1564/0008",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:E;KISW:E;ENGL:F;ARABIC;LANGUAGE:E;PHY:F;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P1564/0009",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:F;E-D-KIISLAMU:E;KISW:X;ENGL:E;ARABIC;LANGUAGE:E;B-MATH:X"
+    },
+    {
+        "CNO":  "P1564/0010",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;KISW:E;CHEM:E;BIO:C"
+    },
+    {
+        "CNO":  "P1564/0011",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:F;E-D-KIISLAMU:D;KISW:E;ENGL:F;BIO:F"
+    }
+]

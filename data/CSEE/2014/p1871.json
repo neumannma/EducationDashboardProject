@@ -1,0 +1,79 @@
+[
+    {
+        "CNO":  "P1871/0001",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "HIST:F;GEO:F;KISW:E;ENGL:E;PHY:F;CHEM:F;BIO:F"
+    },
+    {
+        "CNO":  "P1871/0002",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "HIST:E;GEO:D;KISW:E;ENGL:E;PHY:F;CHEM:E;BIO:E"
+    },
+    {
+        "CNO":  "P1871/0003",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:C;ENGL:B"
+    },
+    {
+        "CNO":  "P1871/0004",
+        "SEX":  "M",
+        "GPA":  "0.7",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:D;KISW:C;ENGL:D;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P1871/0005",
+        "SEX":  "M",
+        "GPA":  "1.6",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:C;KISW:C;ENGL:C;CHEM:C;BIO:C;B-MATH:E"
+    },
+    {
+        "CNO":  "P1871/0006",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:E;KISW:D;ENGL:D;BIO:D"
+    },
+    {
+        "CNO":  "P1871/0007",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:E;KISW:C;ENGL:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P1871/0008",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;PHY:F;B-MATH:D"
+    },
+    {
+        "CNO":  "P1871/0009",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KISW:C"
+    },
+    {
+        "CNO":  "P1871/0010",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:D;ENGL:D"
+    },
+    {
+        "CNO":  "P1871/0011",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;LIT;ENG:X"
+    }
+]

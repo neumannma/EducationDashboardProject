@@ -1,0 +1,386 @@
+[
+    {
+        "CNO":  "0001",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ADELLA W KIMARO",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;KIS:C;ENG:C;PHY:D;CHE:C;BIO:D;BAS:F;FOO:B"
+    },
+    {
+        "CNO":  "0002",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ALLU MWANGA",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:F;KIS:D;ENG:C;CHE:F;BIO:F;BAS:F;FOO:C;TEX:D"
+    },
+    {
+        "CNO":  "0003",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ALPHONCINA A SHIRIMA",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:D;ENG:C;CHE:D;BIO:D;BAS:F;FOO:B;TEX:B"
+    },
+    {
+        "CNO":  "0004",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ANJELINA T MGALE",
+        "AGGT":  "20",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:C;ENG:B;CHE:D;BIO:F;BAS:F;FOO:B;TEX:B"
+    },
+    {
+        "CNO":  "0005",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ASHA S MALEMBEKA",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C;CHE:D;BIO:F;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0006",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "BEATRICE BENNY",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C;PHY:F;CHE:D;BIO:D;BAS:F;FOO:C"
+    },
+    {
+        "CNO":  "0007",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "BRIGITA C URIO",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:D;ENG:C;CHE:D;BIO:D;BAS:F;FOO:B;TEX:B"
+    },
+    {
+        "CNO":  "0008",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "CECILIA MARCO",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:D;ENG:C;CHE:C;BIO:D;BAS:F;FOO:B;TEX:C"
+    },
+    {
+        "CNO":  "0009",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "CHRISTINA R KOMBA",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:D;ENG:C;PHY:D;CHE:C;BIO:D;BAS:F;FOO:C"
+    },
+    {
+        "CNO":  "0011",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "DAINA E MWALWEBE",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D;KIS:B;ENG:B;PHY:F;CHE:C;BIO:C;BAS:C;FOO:A"
+    },
+    {
+        "CNO":  "0012",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "DORICE BENEDICT",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:F;KIS:D;ENG:C;CHE:F;BIO:F;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0013",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "DOROTH S SEUGENDO",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:D;ENG:B;PHY:F;CHE:D;BIO:D;BAS:F;FOO:B"
+    },
+    {
+        "CNO":  "0014",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "EDITH J MWINYIMVUA",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;KIS:D;ENG:B;PHY:D;CHE:C;BIO:D;BAS:F;FOO:B"
+    },
+    {
+        "CNO":  "0015",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FATUMA WAZIRI",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:D;ENG:C;CHE:D;BIO:D;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0016",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "GETRUDA FABIAN",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C;CHE:C;BIO:F;BAS:F;FOO:B;TEX:C"
+    },
+    {
+        "CNO":  "0017",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "GRACE JOSEPH",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D;KIS:D;ENG:B;PHY:D;CHE:C;BIO:D;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0018",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "GRACE MUNUO",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D;CHE:D;BIO:F;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0019",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HADIJA J CHIKWANA",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;KIS:D;ENG:C;PHY:F;CHE:C;BIO:D;BAS:F;FOO:C"
+    },
+    {
+        "CNO":  "0020",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HAPPINESS A D CHIBALI",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:D;ENG:C;CHE:C;BIO:D;BAS:D;FOO:B;TEX:C"
+    },
+    {
+        "CNO":  "0021",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HAPPINESS MKONGWA",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C;PHY:D;CHE:B;BIO:D;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0022",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HAPPINESS E SHAYO",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;KIS:D;ENG:D;PHY:F;CHE:C;BIO:D;BAS:F;FOO:C"
+    },
+    {
+        "CNO":  "0023",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "IMACULLATHA S BULEGI",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:D;ENG:C;PHY:F;CHE:C;BIO:D;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0024",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "JAMILA H MAKUKA",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:B;CHE:D;BIO:D;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0025",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "JOANA BENEDICT",
+        "AGGT":  "18",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:C;ENG:B;CHE:C;BIO:D;BAS:F;FOO:A;TEX:A"
+    },
+    {
+        "CNO":  "0026",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "JULIETH P SANYE",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:C;ENG:B;PHY:D;CHE:C;BIO:C;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0027",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "LIDYA I MASSAWE",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;KIS:D;ENG:B;PHY:D;CHE:C;BIO:D;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0028",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "LILIAN PETER",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:C;GEO:B;KIS:D;ENG:B;PHY:C;CHE:B;BIO:C;BAS:C;FOO:A"
+    },
+    {
+        "CNO":  "0029",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "LILIAN TOTERA",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:D;ENG:B;PHY:D;CHE:C;BIO:D;BAS:C;FOO:C"
+    },
+    {
+        "CNO":  "0030",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "LUCY A MCHIWA",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:B;GEO:D;KIS:C;ENG:B;PHY:C;CHE:C;BIO:C;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0031",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARIAM AYO",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:D;ENG:C;PHY:D;CHE:C;BIO:F;BAS:C;FOO:B"
+    },
+    {
+        "CNO":  "0032",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARIAM VENANCE",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D;KIS:D;ENG:B;PHY:F;CHE:C;BIO:D;BAS:D;FOO:C"
+    },
+    {
+        "CNO":  "0033",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARY J SILO",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:D;ENG:C;CHE:F;BIO:F;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0034",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARY W RAMADHANI",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:F;ENG:C;PHY:D;CHE:D;BIO:D;BAS:F;FOO:C"
+    },
+    {
+        "CNO":  "0035",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARYGRACE P SALUFU",
+        "AGGT":  "21",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:C;ENG:B;PHY:F;CHE:C;BIO:C;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0036",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MIKAELA J MSAFIRI",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:F;KIS:D;ENG:C;CHE:D;BIO:F;BAS:F;FOO:C;TEX:D"
+    },
+    {
+        "CNO":  "0037",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "NEEMA ZAKAYO",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:C;KIS:D;ENG:C;PHY:D;CHE:C;BIO:C;BAS:F;FOO:C"
+    },
+    {
+        "CNO":  "0038",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "NOMENCIA THOMAS",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D;CHE:C;BIO:D;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0039",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "NYABUTUI NYAMASAGARA",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C;CHE:D;BIO:D;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0040",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "QUEEN SAID",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:C;GEO:C;KIS:C;ENG:A;PHY:C;CHE:B;BIO:C;BAS:C;FOO:A"
+    },
+    {
+        "CNO":  "0041",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "REGINA KASABAGO",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C;CHE:D;BIO:F;BAS:F;FOO:C;TEX:C"
+    },
+    {
+        "CNO":  "0042",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "REGINA SAMANI",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:D;ENG:C;CHE:D;BIO:D;BAS:F;FOO:B;TEX:C"
+    },
+    {
+        "CNO":  "0043",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "RENATA RAYMOND",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:B;KIS:C;ENG:C;PHY:D;CHE:C;BIO:C;BAS:D;FOO:A"
+    },
+    {
+        "CNO":  "0044",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ROSEMARY KISIMBO",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D;KIS:D;ENG:C;PHY:F;CHE:C;BIO:D;BAS:D;FOO:B"
+    },
+    {
+        "CNO":  "0045",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ROSALIA DOMINICK",
+        "AGGT":  "21",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:D;ENG:B;CHE:C;BIO:F;BAS:D;FOO:C;TEX:B"
+    },
+    {
+        "CNO":  "0046",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SAJA C GANDAWEGA",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:D;KIS:C;ENG:B;PHY:C;CHE:C;BIO:C;BAS:C;FOO:C"
+    },
+    {
+        "CNO":  "0047",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "THERESIA NZIKU",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:B;GEO:C;KIS:C;ENG:B;PHY:D;CHE:B;BIO:D;BAS:D;FOO:A"
+    },
+    {
+        "CNO":  "0048",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "VERONICA ATANASI",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:F;ENG:C;CHE:D;BIO:D;BAS:F;FOO:C;TEX:D"
+    },
+    {
+        "CNO":  "0049",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "VERONICA CHIZUMI",
+        "AGGT":  "21",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D;KIS:D;ENG:C;PHY:D;CHE:B;BIO:C;BAS:D;FOO:B"
+    }
+]

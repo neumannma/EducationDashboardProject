@@ -1,0 +1,282 @@
+[
+    {
+        "CNO":  "S0310/0001",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:E;ENGL:D;BIO:E;B-MATH:F;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0002",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:D;ENGL:F;BIO:E;B-MATH:F;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0003",
+        "SEX":  "F",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:F;KISW:C;ENGL:F;PHY:F;CHEM:F;BIO:F;B-MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0004",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;B-KNOWL:F;KISW:D;ENGL:F;PHY:F;CHEM:F;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "S0310/0005",
+        "SEX":  "F",
+        "GPA":  "0.9",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:E;ENGL:B;PHY:E;CHEM:E;BIO:C;B-MATH:D;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0006",
+        "SEX":  "F",
+        "GPA":  "1.0",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:C;ENGL:B;BIO:C;B-MATH:F;COMM:E;B-KEEPING:E"
+    },
+    {
+        "CNO":  "S0310/0007",
+        "SEX":  "F",
+        "GPA":  "1.7",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:C;KISW:C;ENGL:B;PHY:E;CHEM:D;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0310/0008",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X;COMM:X;B-KEEPING:X"
+    },
+    {
+        "CNO":  "S0310/0009",
+        "SEX":  "F",
+        "GPA":  "2.6",
+        "CLASS":  "MERIT",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:C;KISW:B;ENGL:B+;PHY:D;CHEM:D;BIO:B+;B-MATH:C;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0010",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:E;ENGL:F;BIO:F;B-MATH:F;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0011",
+        "SEX":  "F",
+        "GPA":  "0.9",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:E;ENGL:B+;BIO:E;B-MATH:D;COMM:D;B-KEEPING:E"
+    },
+    {
+        "CNO":  "S0310/0012",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:F;KISW:E;ENGL:E;BIO:E;B-MATH:F;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0013",
+        "SEX":  "M",
+        "GPA":  "1.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:E;KISW:D;ENGL:C;PHY:D;CHEM:C;BIO:C;B-MATH:F;B-KEEPING:E"
+    },
+    {
+        "CNO":  "S0310/0014",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:C;ENGL:E;PHY:E;CHEM:E;BIO:E;B-MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0015",
+        "SEX":  "M",
+        "GPA":  "1.7",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;KISW:C;ENGL:C;PHY:D;CHEM:C;BIO:C;B-MATH:C;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0016",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;GEO:E;KISW:E;ENGL:E;PHY:D;CHEM:E;BIO:E;B-MATH:E;ADD;MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0017",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:E;BIO:F;B-MATH:F;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0018",
+        "SEX":  "M",
+        "GPA":  "0.6",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:D;ENGL:D;BIO:D;B-MATH:F;COMM:D;B-KEEPING:E"
+    },
+    {
+        "CNO":  "S0310/0019",
+        "SEX":  "M",
+        "GPA":  "1.0",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;GEO:E;KISW:F;ENGL:B;PHY:E;CHEM:D;BIO:D;B-MATH:C;ADD;MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0020",
+        "SEX":  "M",
+        "GPA":  "0.6",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:E;KISW:C;ENGL:D;BIO:E;B-MATH:F;COMM:E;B-KEEPING:E"
+    },
+    {
+        "CNO":  "S0310/0021",
+        "SEX":  "M",
+        "GPA":  "2.0",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:B;GEO:D;KISW:B;ENGL:B;PHY:E;CHEM:E;BIO:C;B-MATH:E;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0022",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:E;KISW:C;ENGL:E;PHY:E;CHEM:E;BIO:E;B-MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0023",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:F;KISW:E;ENGL:E;PHY:E;CHEM:F;BIO:E;B-MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0024",
+        "SEX":  "M",
+        "GPA":  "1.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KISW:E;ENGL:B+;PHY:E;CHEM:E;BIO:B;B-MATH:D;ADD;MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0025",
+        "SEX":  "M",
+        "GPA":  "1.0",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:C;ENGL:B;PHY:E;CHEM:E;BIO:C;B-MATH:E;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0026",
+        "SEX":  "M",
+        "GPA":  "3.7",
+        "CLASS":  "DISTINCTION",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:B;KISW:B+;ENGL:B+;PHY:B;CHEM:B+;BIO:A;B-MATH:B;ADD;MATH:C;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0027",
+        "SEX":  "M",
+        "GPA":  "2.0",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;KISW:D;ENGL:B;PHY:D;CHEM:C;BIO:B+;B-MATH:C;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0028",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:D;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0029",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:F;KISW:F;ENGL:E;BIO:E;B-MATH:F;COMM:E;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0030",
+        "SEX":  "M",
+        "GPA":  "1.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KISW:E;ENGL:C;PHY:E;CHEM:E;BIO:C;B-MATH:B;ADD;MATH:D;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0031",
+        "SEX":  "M",
+        "GPA":  "1.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:D;ENGL:B;BIO:C;B-MATH:F;COMM:D;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0032",
+        "SEX":  "M",
+        "GPA":  "2.6",
+        "CLASS":  "MERIT",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:D;KISW:B;ENGL:B+;PHY:C;CHEM:C;BIO:B;B-MATH:C;B-KEEPING:E"
+    },
+    {
+        "CNO":  "S0310/0033",
+        "SEX":  "M",
+        "GPA":  "2.7",
+        "CLASS":  "MERIT",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:B;KISW:D;ENGL:B+;PHY:C;CHEM:C;BIO:B;B-MATH:B;ADD;MATH:D;B-KEEPING:E"
+    },
+    {
+        "CNO":  "S0310/0034",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:E;ENGL:E;BIO:E;B-MATH:F;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0035",
+        "SEX":  "M",
+        "GPA":  "0.7",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;GEO:D;KISW:F;ENGL:D;PHY:E;CHEM:E;BIO:B;B-MATH:F;ADD;MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0036",
+        "SEX":  "M",
+        "GPA":  "2.0",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:E;KISW:E;ENGL:C;PHY:C;CHEM:C;BIO:C;B-MATH:B;ADD;MATH:C;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0037",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:F;KISW:E;ENGL:D;PHY:E;CHEM:F;BIO:E;B-MATH:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0038",
+        "SEX":  "M",
+        "GPA":  "1.1",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;GEO:E;KISW:C;ENGL:D;PHY:E;CHEM:E;BIO:E;B-MATH:B;ADD;MATH:C;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0039",
+        "SEX":  "M",
+        "GPA":  "0.9",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;GEO:E;KISW:E;ENGL:B+;PHY:E;CHEM:F;BIO:D;B-MATH:D;ADD;MATH:E;B-KEEPING:F"
+    },
+    {
+        "CNO":  "S0310/0040",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:E;ENGL:F;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    }
+]

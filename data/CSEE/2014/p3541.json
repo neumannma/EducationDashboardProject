@@ -1,0 +1,30 @@
+[
+    {
+        "CNO":  "P3541/0001",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KISW:D;ENGL:F;PHY:F;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P3541/0002",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:X;E-D-KIISLAMU:F;KISW:F;ENGL:F;ARABIC;LANGUAGE:C"
+    },
+    {
+        "CNO":  "P3541/0003",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ARABIC;LANGUAGE:F"
+    },
+    {
+        "CNO":  "P3541/0004",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;ENGL:D;B-MATH:F"
+    }
+]

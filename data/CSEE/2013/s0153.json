@@ -1,0 +1,443 @@
+[
+    {
+        "CNO":  "S0153/0001",
+        "SEX":  "M",
+        "AGGT":  "31",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:B;ENGL:B;LIT;ENG:D;PHY:E;CHEM:E;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0002",
+        "SEX":  "M",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;LIT;ENG:X;BIO:X"
+    },
+    {
+        "CNO":  "S0153/0003",
+        "SEX":  "M",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:B;GEO:C;KISW:B;ENGL:B+;PHY:B;CHEM:C;BIO:A;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0004",
+        "SEX":  "M",
+        "AGGT":  "27",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:C;KISW:D;ENGL:B;LIT;ENG:E;PHY:D;CHEM:C;BIO:B;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0005",
+        "SEX":  "M",
+        "AGGT":  "31",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:C;KISW:B;ENGL:D;LIT;ENG:D;PHY:D;CHEM:D;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0006",
+        "SEX":  "M",
+        "AGGT":  "31",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;KISW:C;ENGL:C;LIT;ENG:E;PHY:D;CHEM:E;BIO:B;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0007",
+        "SEX":  "M",
+        "AGGT":  "29",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:D;GEO:C;KISW:B;ENGL:C;PHY:E;CHEM:E;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0008",
+        "SEX":  "M",
+        "AGGT":  "21",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B;GEO:B;KISW:B+;ENGL:B;LIT;ENG:D;PHY:E;CHEM:E;BIO:B;B-MATH:C"
+    },
+    {
+        "CNO":  "S0153/0009",
+        "SEX":  "M",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:C;ENGL:C;PHY:F;CHEM:D;BIO:C;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0010",
+        "SEX":  "M",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B+;GEO:B+;KISW:B+;ENGL:B+;LIT;ENG:D;PHY:C;CHEM:D;BIO:B+;B-MATH:B"
+    },
+    {
+        "CNO":  "S0153/0011",
+        "SEX":  "M",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B+;ENGL:B;LIT;ENG:D;PHY:B+;CHEM:B;BIO:B+;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0012",
+        "SEX":  "M",
+        "AGGT":  "24",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:B;GEO:C;KISW:B;ENGL:B+;LIT;ENG:D;PHY:D;CHEM:D;BIO:B;B-MATH:E"
+    },
+    {
+        "CNO":  "S0153/0013",
+        "SEX":  "M",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;GEO:D;KISW:C;ENGL:D;LIT;ENG:E;PHY:D;CHEM:D;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0014",
+        "SEX":  "M",
+        "AGGT":  "30",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;GEO:C;KISW:C;ENGL:C;LIT;ENG:C;PHY:E;CHEM:E;BIO:D;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0015",
+        "SEX":  "M",
+        "AGGT":  "27",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:C;KISW:C;ENGL:D;PHY:D;CHEM:C;BIO:B;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0016",
+        "SEX":  "M",
+        "AGGT":  "34",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:D;KISW:D;ENGL:D;LIT;ENG:E;PHY:E;CHEM:E;BIO:C;B-MATH:C"
+    },
+    {
+        "CNO":  "S0153/0017",
+        "SEX":  "M",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B;GEO:C;KISW:B;ENGL:B+;LIT;ENG:D;PHY:B+;CHEM:B+;BIO:A;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0018",
+        "SEX":  "M",
+        "AGGT":  "11",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B+;KISW:B;ENGL:B+;PHY:A;CHEM:A;BIO:A;B-MATH:A"
+    },
+    {
+        "CNO":  "S0153/0019",
+        "SEX":  "M",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:D;GEO:C;KISW:D;ENGL:D;PHY:E;CHEM:E;BIO:C;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0020",
+        "SEX":  "M",
+        "AGGT":  "38",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:B;ENGL:E;PHY:E;CHEM:E;BIO:E;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0021",
+        "SEX":  "M",
+        "AGGT":  "38",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:D;KISW:D;ENGL:E;LIT;ENG:F;PHY:E;CHEM:F;BIO:C;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0022",
+        "SEX":  "M",
+        "AGGT":  "31",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:B;ENGL:C;PHY:D;CHEM:E;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0023",
+        "SEX":  "M",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B;GEO:B;KISW:B;ENGL:B+;LIT;ENG:C;PHY:B;CHEM:B+;BIO:B+;B-MATH:A"
+    },
+    {
+        "CNO":  "S0153/0024",
+        "SEX":  "M",
+        "AGGT":  "19",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B;GEO:B;KISW:B;ENGL:B+;LIT;ENG:D;PHY:C;CHEM:C;BIO:B+;B-MATH:B"
+    },
+    {
+        "CNO":  "S0153/0025",
+        "SEX":  "M",
+        "AGGT":  "12",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B+;GEO:B;KISW:B+;ENGL:B+;LIT;ENG:C;PHY:B+;CHEM:B+;BIO:A;B-MATH:A"
+    },
+    {
+        "CNO":  "S0153/0026",
+        "SEX":  "M",
+        "AGGT":  "14",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B;ENGL:B+;LIT;ENG:D;PHY:B+;CHEM:B+;BIO:A;B-MATH:A"
+    },
+    {
+        "CNO":  "S0153/0027",
+        "SEX":  "M",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;LIT;ENG:X;BIO:X"
+    },
+    {
+        "CNO":  "S0153/0028",
+        "SEX":  "M",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:C;KISW:B;ENGL:D;PHY:E;CHEM:E;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0029",
+        "SEX":  "M",
+        "AGGT":  "40",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:E;KISW:D;ENGL:D;PHY:E;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0030",
+        "SEX":  "M",
+        "AGGT":  "24",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B;ENGL:C;LIT;ENG:E;PHY:C;CHEM:C;BIO:B;B-MATH:B"
+    },
+    {
+        "CNO":  "S0153/0031",
+        "SEX":  "M",
+        "AGGT":  "27",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:E;GEO:C;KISW:C;ENGL:C;LIT;ENG:D;PHY:D;CHEM:D;BIO:B;B-MATH:B"
+    },
+    {
+        "CNO":  "S0153/0032",
+        "SEX":  "M",
+        "AGGT":  "19",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B+;ENGL:B;LIT;ENG:C;PHY:C;CHEM:B;BIO:B+;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0033",
+        "SEX":  "M",
+        "AGGT":  "36",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:D;ENGL:D;PHY:E;CHEM:E;BIO:D;B-MATH:E"
+    },
+    {
+        "CNO":  "S0153/0034",
+        "SEX":  "M",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B;ENGL:B+;PHY:B+;CHEM:B;BIO:B+;B-MATH:A"
+    },
+    {
+        "CNO":  "S0153/0035",
+        "SEX":  "M",
+        "AGGT":  "44",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:E;KISW:E;ENGL:F;PHY:E;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0036",
+        "SEX":  "M",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B;ENGL:B+;PHY:B;CHEM:B;BIO:B+;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0037",
+        "SEX":  "M",
+        "AGGT":  "42",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;KISW:D;ENGL:F;PHY:F;CHEM:E;BIO:E;B-MATH:E"
+    },
+    {
+        "CNO":  "S0153/0038",
+        "SEX":  "M",
+        "AGGT":  "45",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:E;KISW:E;ENGL:E;LIT;ENG:X;PHY:F;CHEM:F;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0039",
+        "SEX":  "M",
+        "AGGT":  "45",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:E;KISW:E;ENGL:E;LIT;ENG:X;PHY:F;CHEM:F;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0040",
+        "SEX":  "M",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:D;GEO:C;KISW:C;ENGL:D;PHY:E;CHEM:E;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0041",
+        "SEX":  "M",
+        "AGGT":  "26",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:C;KISW:B;ENGL:C;PHY:E;CHEM:C;BIO:B;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0042",
+        "SEX":  "M",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:B;GEO:B;KISW:B;ENGL:B;LIT;ENG:E;PHY:C;CHEM:C;BIO:B+;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0043",
+        "SEX":  "M",
+        "AGGT":  "22",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:B;GEO:B;KISW:B+;ENGL:C;LIT;ENG:C;PHY:C;CHEM:C;BIO:B+;B-MATH:C"
+    },
+    {
+        "CNO":  "S0153/0044",
+        "SEX":  "M",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:C;KISW:C;ENGL:E;PHY:E;CHEM:D;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0045",
+        "SEX":  "M",
+        "AGGT":  "31",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;GEO:D;KISW:C;ENGL:C;LIT;ENG:D;PHY:E;CHEM:D;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0046",
+        "SEX":  "M",
+        "AGGT":  "48",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:E;ENGL:F;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0047",
+        "SEX":  "M",
+        "AGGT":  "42",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;KISW:C;ENGL:E;PHY:F;CHEM:F;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0048",
+        "SEX":  "M",
+        "AGGT":  "44",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:E;KISW:C;ENGL:F;LIT;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "S0153/0049",
+        "SEX":  "M",
+        "AGGT":  "27",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:D;KISW:B;ENGL:C;LIT;ENG:D;PHY:D;CHEM:C;BIO:D;B-MATH:B"
+    },
+    {
+        "CNO":  "S0153/0050",
+        "SEX":  "M",
+        "AGGT":  "28",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:B;GEO:C;KISW:C;ENGL:C;LIT;ENG:D;PHY:E;CHEM:E;BIO:B;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0051",
+        "SEX":  "M",
+        "AGGT":  "35",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;KISW:B;ENGL:D;PHY:F;CHEM:F;BIO:C;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0052",
+        "SEX":  "M",
+        "AGGT":  "38",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:D;KISW:D;ENGL:F;LIT;ENG:E;PHY:E;CHEM:F;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0053",
+        "SEX":  "M",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B+;ENGL:B;LIT;ENG:D;PHY:B+;CHEM:B;BIO:B+;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0054",
+        "SEX":  "M",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B;ENGL:B+;LIT;ENG:D;PHY:B;CHEM:B;BIO:B+;B-MATH:A"
+    },
+    {
+        "CNO":  "S0153/0055",
+        "SEX":  "M",
+        "AGGT":  "10",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B+;GEO:B;KISW:B+;ENGL:A;LIT;ENG:D;PHY:A;CHEM:B+;BIO:A;B-MATH:A"
+    },
+    {
+        "CNO":  "S0153/0056",
+        "SEX":  "M",
+        "AGGT":  "45",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:E;KISW:D;ENGL:F;LIT;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "S0153/0057",
+        "SEX":  "M",
+        "AGGT":  "24",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:C;GEO:B;KISW:B;ENGL:B;LIT;ENG:E;PHY:D;CHEM:C;BIO:B;B-MATH:C"
+    },
+    {
+        "CNO":  "S0153/0058",
+        "SEX":  "M",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIST:D;GEO:C;KISW:B;ENGL:B;PHY:E;CHEM:C;BIO:B;B-MATH:C"
+    },
+    {
+        "CNO":  "S0153/0059",
+        "SEX":  "M",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;HIST:B;GEO:B;KISW:B+;ENGL:B;PHY:B+;CHEM:B+;BIO:B+;B-MATH:B+"
+    },
+    {
+        "CNO":  "S0153/0060",
+        "SEX":  "M",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:D;KISW:D;ENGL:C;LIT;ENG:E;PHY:E;CHEM:D;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "S0153/0061",
+        "SEX":  "M",
+        "AGGT":  "34",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:D;KISW:D;ENGL:D;PHY:F;CHEM:E;BIO:D;B-MATH:C"
+    },
+    {
+        "CNO":  "S0153/0062",
+        "SEX":  "M",
+        "AGGT":  "45",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;KISW:E;ENGL:F;PHY:F;CHEM:F;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "S0153/0063",
+        "SEX":  "M",
+        "AGGT":  "49",
+        "DIV":  "0",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    }
+]

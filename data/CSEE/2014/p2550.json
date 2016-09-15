@@ -1,0 +1,37 @@
+[
+    {
+        "CNO":  "P2550/0001",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "GEO:F;ENGL:F;PHY:F;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P2550/0002",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;KISW:D;BIO:E"
+    },
+    {
+        "CNO":  "P2550/0003",
+        "SEX":  "F",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;KISW:C;ENGL:D;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P2550/0004",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:B;GEO:C;KISW:B;ENGL:B;BIO:C"
+    },
+    {
+        "CNO":  "P2550/0005",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:D;ENGL:D;BIO:F"
+    }
+]

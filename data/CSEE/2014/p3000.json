@@ -1,0 +1,506 @@
+[
+    {
+        "CNO":  "P3000/0001",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;ARABIC;LANGUAGE:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0002",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;E-D-KIISLAMU:F;KISW:D;ENGL:F;ARABIC;LANGUAGE:F;CHEM:F;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0003",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:X;ENGL:F;ARABIC;LANGUAGE:C;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0004",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:F;E-D-KIISLAMU:F;KISW:E;ENGL:F;ARABIC;LANGUAGE:F;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0005",
+        "SEX":  "F",
+        "GPA":  "0.6",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;KISW:B;ENGL:E;ARABIC;LANGUAGE:D;PHY:F;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0006",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:F;KISW:D;ENGL:F;PHY:F;CHEM:E;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0007",
+        "SEX":  "F",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:D;KISW:D;ENGL:E;ARABIC;LANGUAGE:D;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0008",
+        "SEX":  "F",
+        "GPA":  "0.7",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:C;KISW:C;ENGL:F;ARABIC;LANGUAGE:D;PHY:F;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0009",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:E;ENGL:F;ARABIC;LANGUAGE:E;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0010",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;ENGL:F;ARABIC;LANGUAGE:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0011",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KISW:E;ENGL:E;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0012",
+        "SEX":  "F",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:D;KISW:C;ENGL:F;ARABIC;LANGUAGE:F;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0013",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:D;KISW:C;ENGL:F;ARABIC;LANGUAGE:E"
+    },
+    {
+        "CNO":  "P3000/0014",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;KISW:F;ENGL:F;CHEM:X;B-MATH:F;COMM:F;B-KEEPING:F"
+    },
+    {
+        "CNO":  "P3000/0015",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;ENGL:F"
+    },
+    {
+        "CNO":  "P3000/0016",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KISW:E;ENGL:F;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0017",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:E;KISW:D;ENGL:E;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0018",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:E;KISW:C;CHEM:E"
+    },
+    {
+        "CNO":  "P3000/0019",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:E;KISW:D;ENGL:F;PHY:F;CHEM:E;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0020",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:F;GEO:E;E-D-KIISLAMU:D;ENGL:D;BIO:E"
+    },
+    {
+        "CNO":  "P3000/0021",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:X;E-D-KIISLAMU:F;KISW:X;ENGL:E;PHY:F;CHEM:D;B-MATH:E"
+    },
+    {
+        "CNO":  "P3000/0022",
+        "SEX":  "F",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:X;KISW:D;ENGL:E;ARABIC;LANGUAGE:D;CHEM:X;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0023",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;E-D-KIISLAMU:E;KISW:E;ENGL:F;ARABIC;LANGUAGE:D"
+    },
+    {
+        "CNO":  "P3000/0024",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0025",
+        "SEX":  "F",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:D;KISW:D;ENGL:E;ARABIC;LANGUAGE:D;PHY:F;CHEM:F;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0026",
+        "SEX":  "F",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:X;KISW:D;ENGL:F;ARABIC;LANGUAGE:D;CHEM:X;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0027",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;ARABIC;LANGUAGE:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0028",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "HIST:F;GEO:F;KISW:F"
+    },
+    {
+        "CNO":  "P3000/0029",
+        "SEX":  "F",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:X;E-D-KIISLAMU:F;KISW:F;ENGL:F;ARABIC;LANGUAGE:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0030",
+        "SEX":  "F",
+        "GPA":  "1.1",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:C;KISW:B;ENGL:F;ARABIC;LANGUAGE:B"
+    },
+    {
+        "CNO":  "P3000/0031",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;KISW:X;ENGL:X;PHY:X;CHEM:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P3000/0032",
+        "SEX":  "M",
+        "GPA":  "0.9",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;E-D-KIISLAMU:C;KISW:C;ENGL:E;PHY:E;BIO:C;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0033",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:D;KISW:D;ENGL:F;ARABIC;LANGUAGE:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0034",
+        "SEX":  "M",
+        "GPA":  "0.6",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:F;E-D-KIISLAMU:C;KISW:D;ENGL:D;ARABIC;LANGUAGE:E"
+    },
+    {
+        "CNO":  "P3000/0035",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;GEO:D;KISW:B;ENGL:D;CHEM:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0036",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:E;KISW:E;ENGL:F;ARABIC;LANGUAGE:F"
+    },
+    {
+        "CNO":  "P3000/0037",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0038",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0039",
+        "SEX":  "M",
+        "GPA":  "0.9",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;E-D-KIISLAMU:D;KISW:X;ENGL:D;PHY:F;CHEM:D;BIO:B;B-MATH:X"
+    },
+    {
+        "CNO":  "P3000/0040",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;E-D-KIISLAMU:D;KISW:E;ENGL:F;ARABIC;LANGUAGE:D;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0041",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;E-D-KIISLAMU:D;KISW:E;ENGL:E;PHY:E;CHEM:E;BIO:D;B-MATH:E"
+    },
+    {
+        "CNO":  "P3000/0042",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:E;ENGL:D;ARABIC;LANGUAGE:C;BIO:E"
+    },
+    {
+        "CNO":  "P3000/0043",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:D;E-D-KIISLAMU:E;KISW:D;ENGL:F;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0044",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;E-D-KIISLAMU:E;KISW:D;ENGL:E;ARABIC;LANGUAGE:E;PHY:F;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0045",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:E;KISW:D;ENGL:F;PHY:F;CHEM:D;BIO:E;B-MATH:E"
+    },
+    {
+        "CNO":  "P3000/0046",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;KISW:D;ENGL:E;ARABIC;LANGUAGE:X;PHY:F;CHEM:E;BIO:D"
+    },
+    {
+        "CNO":  "P3000/0047",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0048",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;E-D-KIISLAMU:D;KISW:D;ENGL:F;ARABIC;LANGUAGE:F"
+    },
+    {
+        "CNO":  "P3000/0049",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;ARABIC;LANGUAGE:F;BIO:F"
+    },
+    {
+        "CNO":  "P3000/0050",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;KISW:C;ENGL:C;BIO:E"
+    },
+    {
+        "CNO":  "P3000/0051",
+        "SEX":  "M",
+        "GPA":  "0.6",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;E-D-KIISLAMU:D;KISW:D;ENGL:E;ARABIC;LANGUAGE:C;CHEM:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0052",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F"
+    },
+    {
+        "CNO":  "P3000/0053",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;KISW:X;ENGL:X;PHY:X;CHEM:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P3000/0054",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0055",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:C;ENGL:D"
+    },
+    {
+        "CNO":  "P3000/0056",
+        "SEX":  "M",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;E-D-KIISLAMU:D;KISW:D;ENGL:F;ARABIC;LANGUAGE:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0057",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "GEO:F;ENGL:E;PHY:F;CHEM:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0058",
+        "SEX":  "M",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:D;KISW:D;ENGL:D;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0059",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "GEO:F;E-D-KIISLAMU:D;KISW:D;ENGL:F;PHY:F;CHEM:F;BIO:E;B-MATH:F;COMM:F"
+    },
+    {
+        "CNO":  "P3000/0060",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;KISW:X;ENGL:X;PHY:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P3000/0061",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;E-D-KIISLAMU:F;KISW:E;PHY:F;CHEM:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0062",
+        "SEX":  "M",
+        "GPA":  "0.9",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;E-D-KIISLAMU:D;KISW:D;ENGL:D;PHY:E;BIO:C;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0063",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;E-D-KIISLAMU:E;KISW:E;ENGL:E"
+    },
+    {
+        "CNO":  "P3000/0064",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;ENGL:D;PHY:D;CHEM:D;B-MATH:D"
+    },
+    {
+        "CNO":  "P3000/0065",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;GEO:D;KISW:D;ENGL:E;CHEM:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0066",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;E-D-KIISLAMU:F;KISW:F;ENGL:F"
+    },
+    {
+        "CNO":  "P3000/0067",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:D;KISW:E;ENGL:F;ARABIC;LANGUAGE:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0068",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;E-D-KIISLAMU:X;KISW:X;ENGL:X;ARABIC;LANGUAGE:X;PHY:X;CHEM:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P3000/0069",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:F;KISW:E;ENGL:F;ARABIC;LANGUAGE:F;BIO:X;B-MATH:F"
+    },
+    {
+        "CNO":  "P3000/0070",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KISW:C;ENGL:X;PHY:F;CHEM:F;B-MATH:E"
+    },
+    {
+        "CNO":  "P3000/0071",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;E-D-KIISLAMU:E;KISW:F;ENGL:F;LIT;ENG:F"
+    },
+    {
+        "CNO":  "P3000/0072",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "GEO:F;E-D-KIISLAMU:E;KISW:D;ENGL:F;CHEM:F;BIO:F"
+    }
+]

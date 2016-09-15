@@ -1,0 +1,30 @@
+[
+    {
+        "CNO":  "P1394/0001",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:D;E-D-KIISLAMU:D;KISW:C;ENGL:D"
+    },
+    {
+        "CNO":  "P1394/0002",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:E;KISW:D;ENGL:E;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1394/0003",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;E-D-KIISLAMU:B;KISW:C;ENGL:C"
+    },
+    {
+        "CNO":  "P1394/0004",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:C;E-D-KIISLAMU:C;KISW:B;ENGL:B"
+    }
+]

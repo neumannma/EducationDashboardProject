@@ -1,0 +1,30 @@
+[
+    {
+        "CNO":  "P2935/0001",
+        "SEX":  "F",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;KISW:D;ENGL:D;PHY:F;CHEM:E;BIO:D"
+    },
+    {
+        "CNO":  "P2935/0002",
+        "SEX":  "F",
+        "GPA":  "0.7",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:E;GEO:F;KISW:D;ENGL:D;CHEM:D;BIO:C"
+    },
+    {
+        "CNO":  "P2935/0003",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:F;KISW:E;ENGL:D;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P2935/0004",
+        "SEX":  "M",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:F;B-KNOWL:D;KISW:E;ENGL:D;LIT;ENG:F"
+    }
+]

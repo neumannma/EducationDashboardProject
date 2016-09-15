@@ -1,0 +1,79 @@
+[
+    {
+        "CNO":  "P0633/0001",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:D;ENGL:E;PHY:F;CHEM:E;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P0633/0002",
+        "SEX":  "F",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:F;KISW:D;ENGL:E;PHY:F;CHEM:E;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P0633/0003",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;GEO:D;KISW:B;ENGL:C;BIO:D"
+    },
+    {
+        "CNO":  "P0633/0004",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "HIST:X;GEO:X;ENGL:X;BIO:X"
+    },
+    {
+        "CNO":  "P0633/0005",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:C;ENGL:B;B-MATH:B"
+    },
+    {
+        "CNO":  "P0633/0006",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;CHEM:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P0633/0007",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:E;GEO:E;E-D-KIISLAMU:C;KISW:C"
+    },
+    {
+        "CNO":  "P0633/0008",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "GEO:C;PHY:D;CHEM:C;BIO:B"
+    },
+    {
+        "CNO":  "P0633/0009",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;KISW:D;ENGL:C"
+    },
+    {
+        "CNO":  "P0633/0010",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:D;LIT;ENG:D;B-MATH:X"
+    },
+    {
+        "CNO":  "P0633/0011",
+        "SEX":  "M",
+        "GPA":  "0.0",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:E;ENGL:F;PHY:F;CHEM:F;BIO:F;B-MATH:F"
+    }
+]

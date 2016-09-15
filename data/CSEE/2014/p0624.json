@@ -1,0 +1,86 @@
+[
+    {
+        "CNO":  "P0624/0001",
+        "SEX":  "F",
+        "GPA":  "0.9",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;KISW:C;ENGL:D;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P0624/0002",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:X;GEO:F;KISW:D"
+    },
+    {
+        "CNO":  "P0624/0003",
+        "SEX":  "F",
+        "GPA":  "0.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:F;GEO:E;KISW:C;ENGL:E;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P0624/0004",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P0624/0005",
+        "SEX":  "M",
+        "GPA":  "1.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:B;ENGL:D;BIO:C;B-MATH:E"
+    },
+    {
+        "CNO":  "P0624/0006",
+        "SEX":  "M",
+        "GPA":  "1.6",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:C;KISW:C;ENGL:B;BIO:C;B-MATH:E"
+    },
+    {
+        "CNO":  "P0624/0007",
+        "SEX":  "M",
+        "GPA":  "2.3",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;GEO:B;KISW:B;ENGL:B;BIO:B;B-MATH:D"
+    },
+    {
+        "CNO":  "P0624/0008",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:E;ENGL:D;PHY:E;B-MATH:E"
+    },
+    {
+        "CNO":  "P0624/0009",
+        "SEX":  "M",
+        "GPA":  "1.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;GEO:E;E-D-KIISLAMU:C;KISW:B;ENGL:D;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P0624/0010",
+        "SEX":  "M",
+        "GPA":  "0.1",
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:F;KISW:D;ENGL:E;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P0624/0011",
+        "SEX":  "M",
+        "GPA":  "1.4",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:B;ENGL:B;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P0624/0012",
+        "SEX":  "M",
+        "GPA":  "1.0",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:D;GEO:D;ENGL:C;PHY:F;CHEM:D;BIO:C;B-MATH:E"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "CNO":  "P4848/0001",
+        "SEX":  "F",
+        "GPA":  "1.1",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:C;KISW:D;ENGL:C;LIT;ENG:E;BIO:D"
+    },
+    {
+        "CNO":  "P4848/0002",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;ENGL:X;LIT;ENG:X;PHY:X;CHEM:X"
+    },
+    {
+        "CNO":  "P4848/0003",
+        "SEX":  "M",
+        "GPA":  "1.7",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:D;KISW:C;ENGL:B;LIT;ENG:D;PHY:E;CHEM:C;BIO:C;B-MATH:D"
+    },
+    {
+        "CNO":  "P4848/0004",
+        "SEX":  "M",
+        "GPA":  "0.6",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:D;GEO:E;ENGL:C;LIT;ENG:E;CHEM:E;BIO:E;B-MATH:D"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "CNO":  "P1515/0001",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:D;GEO:C;KISW:D;ENGL:D"
+    },
+    {
+        "CNO":  "P1515/0002",
+        "SEX":  "F",
+        "GPA":  "1.1",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "HIST:C;GEO:D;ENGL:C;BIO:D;B-MATH:E;COMM:D;B-KEEPING:D"
+    },
+    {
+        "CNO":  "P1515/0003",
+        "SEX":  "F",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:F;GEO:E;KISW:C;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1515/0004",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:D;ENGL:C;LIT;ENG:X"
+    },
+    {
+        "CNO":  "P1515/0005",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CHEM:E;BIO:E;B-MATH:E"
+    },
+    {
+        "CNO":  "P1515/0006",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:F;ENGL:F;LIT;ENG:F"
+    },
+    {
+        "CNO":  "P1515/0007",
+        "SEX":  "F",
+        "GPA":  "0.3",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:C;KISW:E;ENGL:E;CHEM:F;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P1515/0008",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:E;KISW:B;LIT;ENG:E"
+    },
+    {
+        "CNO":  "P1515/0009",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1515/0010",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:D;BIO:D"
+    },
+    {
+        "CNO":  "P1515/0011",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "ABS",
+        "DETAILED-SUBJECTS":  "PHY:X;CHEM:X;B-MATH:X;FOOD:X"
+    }
+]

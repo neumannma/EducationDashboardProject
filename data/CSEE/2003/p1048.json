@@ -1,0 +1,1282 @@
+[
+    {
+        "CNO":  "0001",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ASHA U JUMA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;KIS:B;ENG:F"
+    },
+    {
+        "CNO":  "0003",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ASHA A AMEIR",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0004",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AWENA S HAMAD",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:F;ENG:F;LIT:X;BIO:F"
+    },
+    {
+        "CNO":  "0005",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "BISHARA A JUMA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0006",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "BIMKUBWA O ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ISL:C;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0007",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FARIDA I HASSAN",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:F;CHE:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0008",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FATMA M KHATIB",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0009",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FADHILA A AHMADA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ISL:C;KIS:D;ENG:F;ARA:C"
+    },
+    {
+        "CNO":  "0010",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FADHILA R KASSIM",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0011",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FATMA M MAKAME",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:D;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0012",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HABIBA M MUSSA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ISL:B;KIS:C;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0013",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "KAZIJA KH HAJI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0014",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MKASI K SALMIN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:B;KIS:D;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0015",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MKUFU K ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0016",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MADINA A SIMAI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0017",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MUFIDA S MOHD",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:C;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0018",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MAHIBA A MOH\u0027D",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0019",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MASHA O MZEE",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;ENG:F"
+    },
+    {
+        "CNO":  "0021",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MAFUNDA A SAID",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;ENG:D"
+    },
+    {
+        "CNO":  "0022",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARIAM S MUSSA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ENG:F;ARA:C"
+    },
+    {
+        "CNO":  "0023",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARYAM KH MOH\u0027D",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F;LIT:X;BIO:F"
+    },
+    {
+        "CNO":  "0024",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWANAKHEIR Y ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ISL:C;KIS:F;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "0025",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWANAKHAMIS C HAJI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ISL:F;KIS:F;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0027",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWANAISHA A HAJI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ISL:B;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0029",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWAKA S VUAI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:D;GEO:X;ENG:X;ARA:D"
+    },
+    {
+        "CNO":  "0030",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SAADA O ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0031",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SAKINA K MUSSA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0032",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SALAMA U JUMA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0033",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SAMIRA S SAID",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:B;KIS:C;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0034",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SIHOJA R MCHA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:C;KIS:F;ARA:F"
+    },
+    {
+        "CNO":  "0035",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SUMAYYA KH RAJAB",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:F;ISL:C;KIS:D;ENG:F;ARA:X;BIO:X"
+    },
+    {
+        "CNO":  "0036",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SUBIRA R MHAJIR",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0037",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SUBEHA M WAKILI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:B;ENG:F"
+    },
+    {
+        "CNO":  "0038",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SHUFAA N HASSAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;ARA:C"
+    },
+    {
+        "CNO":  "0040",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "TIJARA S SAID",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;ENG:D"
+    },
+    {
+        "CNO":  "0041",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "WAHIDA S MGENI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:B;KIS:B;ENG:F;ARA:D;BAS:F"
+    },
+    {
+        "CNO":  "0042",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ZALHATA H ALI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:F;KIS:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0043",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALLA A KHAMIS",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;PHY:F;CHE:F"
+    },
+    {
+        "CNO":  "0044",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALLA A ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:D;ENG:D;ARA:B;PHY:D;CHE:D;BAS:D"
+    },
+    {
+        "CNO":  "0045",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALLA B NADHIFU",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ISL:B;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0047",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI M MATAKA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:X;ISL:D;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0048",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI M ALI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:D;ENG:X;BAS:X"
+    },
+    {
+        "CNO":  "0049",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "AMAN M KHAMIS",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:F;ISL:C;KIS:F;ENG:D"
+    },
+    {
+        "CNO":  "0050",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "BAKAR KH SAID",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;BIB:X;ISL:D;KIS:F;ARA:D"
+    },
+    {
+        "CNO":  "0051",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "BAKAR H KHAMIS",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0052",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAMID A HAMID",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:D;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0053",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HASSAN A USSI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:F;ISL:B;ENG:F"
+    },
+    {
+        "CNO":  "0054",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAJI V MUSSA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0055",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAMID M SAID",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:D;KIS:F;ENG:F;ARA:X;BAS:X"
+    },
+    {
+        "CNO":  "0056",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HASSAN S HASSAN",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ISL:D;ARA:F"
+    },
+    {
+        "CNO":  "0057",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ISSA M JUMA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:X;ISL:D;KIS:F;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0058",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JUMA KH JUMA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F;PHY:X;BAS:X"
+    },
+    {
+        "CNO":  "0059",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JUMA S AKIDA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ISL:B;KIS:D;ENG:F;ARA:X;BIO:X;BAS:X"
+    },
+    {
+        "CNO":  "0060",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAJI A BAKAR",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ISL:C;KIS:D"
+    },
+    {
+        "CNO":  "0061",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HILALI J MAGOMA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:C;ENG:F"
+    },
+    {
+        "CNO":  "0062",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "KASSIM M MWENI",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:C;KIS:D;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0063",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "KHALIFA S SINANI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0064",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MAKAME M MUSSA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:F;PHY:F;CHE:D;BIO:F;BAS:X"
+    },
+    {
+        "CNO":  "0065",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MOHD J AMERI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:D;ISL:B;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0066",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MAULID J ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ISL:B;ENG:D"
+    },
+    {
+        "CNO":  "0067",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MASOUD H KHAMIS",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "PHY:D;CHE:D;BAS:D"
+    },
+    {
+        "CNO":  "0068",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MOH\u0027D S MOH\u0027D",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;KIS:C;ENG:F;PHY:F;CHE:F;BAS:F"
+    },
+    {
+        "CNO":  "0069",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "RAMADHAN M ABDALLA",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:F;ENG:D;PHY:F;CHE:D;BIO:D;BAS:F"
+    },
+    {
+        "CNO":  "0070",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "RASHID A MOH\u0027D",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:X;ISL:D;PHY:F;BAS:D;ADD:D"
+    },
+    {
+        "CNO":  "0071",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SAIDI KH ALI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:F;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0073",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SAID A JUMA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;ISL:A;KIS:D;CHE:D"
+    },
+    {
+        "CNO":  "0074",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SEIF KH AME",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0075",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SHAABAN A MAKAME",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:D;ISL:D;KIS:D;ENG:F;COM:X;BOO:D"
+    },
+    {
+        "CNO":  "0077",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SULEIMAN A SULEIMAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ISL:D;KIS:D"
+    },
+    {
+        "CNO":  "0078",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SULEIMAN M MWADINI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:F;ENG:D;ARA:X"
+    },
+    {
+        "CNO":  "0079",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SULEIMAN M ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ARA:F"
+    },
+    {
+        "CNO":  "0080",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "YUSSUF M ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:A;GEO:F;ISL:A;KIS:D;ENG:F;ARA:X"
+    },
+    {
+        "CNO":  "0081",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI V MAKAME",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;ISL:C;KIS:F;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0082",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "AMEIR A HAJI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;PHY:D;ADD:X"
+    },
+    {
+        "CNO":  "0083",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDILLAH O MUSSA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0084",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "AMOUR M MACHANO",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0085",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "AMOUR A OTHMAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ENG:D;FRE:D;ARA:D"
+    },
+    {
+        "CNO":  "0086",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALLA M ABDALLA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;ISL:B;ENG:F"
+    },
+    {
+        "CNO":  "0087",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI S ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;ENG:D"
+    },
+    {
+        "CNO":  "0088",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALLA A MWADINI",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:D;PHY:F;CHE:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0089",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI C JUMA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0090",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI J MWINYI",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:F;ENG:F;PHY:F;CHE:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0091",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "AYOUB O HAMAD",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:B;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0092",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI KH KHAMIS",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;ISL:B;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0093",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "AMEIR KH MOH\u0027D",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ISL:D;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0094",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALLA SH KHAMIS",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0095",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "AME A VUAI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;ISL:B;KIS:C;ARA:D;BIO:F"
+    },
+    {
+        "CNO":  "0096",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALLA J ABDALLA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0097",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI P JENI",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:F;KIS:F;ENG:F;ARA:X;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0098",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI S MUSSA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0099",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ALI H SALIM",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:X;ISL:C;KIS:D;ENG:F;ARA:X;BAS:X"
+    },
+    {
+        "CNO":  "0100",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "BAKAR A BAKAR",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0104",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AMINA S NASSOR",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;ENG:D"
+    },
+    {
+        "CNO":  "0105",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AJUA K RAMADHAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;KIS:F;ENG:X;ARA:F"
+    },
+    {
+        "CNO":  "0106",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ASHA J USSI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:X;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0107",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ARAFA O KOMBO",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0108",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AMINA M ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ENG:B;COM:X"
+    },
+    {
+        "CNO":  "0109",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "BUSARA M HAJI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ISL:D;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0111",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FATMA S HASSAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ENG:F;CHE:D;BIO:X;BAS:D"
+    },
+    {
+        "CNO":  "0112",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FUTARI H MUSSA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0113",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HADIA O MUSSA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:X;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0114",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HADIYA M ALLY",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:D;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0115",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HAWA R SALUM",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;ISL:D;KIS:C;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0116",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HUSNA A ABDALLA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:X;ISL:D;KIS:X;ENG:F"
+    },
+    {
+        "CNO":  "0117",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HUSNA J SEREWEJI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:D;KIS:D;ENG:F;ARA:X"
+    },
+    {
+        "CNO":  "0118",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HABIBA A HASSAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ISL:B;ENG:F"
+    },
+    {
+        "CNO":  "0119",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HUSNA W MANZI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;ENG:D;ARA:F"
+    },
+    {
+        "CNO":  "0120",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "JAMILA J HAJI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ISL:C;KIS:C;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0121",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "JOHARI O ABDALLA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:C;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0122",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "KAZIJA KH SULEIMAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ISL:C;KIS:F;ARA:F;BAS:F"
+    },
+    {
+        "CNO":  "0123",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "KAZIJA V ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:D;KIS:D;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0125",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "LEAH A NGWABI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0126",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWANAHAMIS KH VUAI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ENG:D;ARA:D"
+    },
+    {
+        "CNO":  "0127",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWANAISHA M NASSOR",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ISL:C;KIS:C;ENG:F;CHE:X;BIO:X"
+    },
+    {
+        "CNO":  "0129",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MASTURA O OTHMAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ISL:B;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0130",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWATIMA H ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ISL:C;KIS:F;ENG:F;ARA:C"
+    },
+    {
+        "CNO":  "0131",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MOSSI M KHATIB",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0132",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MASHAVU A MOH\u0027D",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0133",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "NADRAT H ALI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0134",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "PILI KH YUSSUF",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "ENG:F;PHY:F;BAS:F"
+    },
+    {
+        "CNO":  "0135",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "RAUHIYA A FADHIL",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:D;ARA:F"
+    },
+    {
+        "CNO":  "0136",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "REHEMA K YUSSUF",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0137",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "RUKIA S JUMA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:D;KIS:F;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0139",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SALAMA H RAMADHANI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0140",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SHARIFA S ALI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0143",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "TUJANA CHANKAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0144",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "TATU W JUMA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:C;KIS:D;ENG:F;ARA:F"
+    },
+    {
+        "CNO":  "0145",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ZAINAB R ULEDI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;ENG:F"
+    },
+    {
+        "CNO":  "0149",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "BAKAR J KOMBO",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;ISL:C;KIS:F;PHY:X;BIO:D"
+    },
+    {
+        "CNO":  "0151",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HADHAR A HADHAR",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:F;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0152",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAKIM S HAJI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0153",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HASHIM A ABDALLA",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:X;CHE:X;BAS:F"
+    },
+    {
+        "CNO":  "0154",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAFIDH I JUMA",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;ISL:C;KIS:D"
+    },
+    {
+        "CNO":  "0156",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JUMA M USSI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:X;ISL:C;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0157",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "KHATIB H KHATIB",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:F;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "0162",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "LAZARO E MACHIPISO",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:X;BIB:C;KIS:X;ENG:D"
+    },
+    {
+        "CNO":  "0164",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MASSOUD N MOH\u0027D",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0165",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MKUBWA A MUHAMED",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;ISL:C;KIS:D;ENG:F;ARA:C"
+    },
+    {
+        "CNO":  "0166",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MABROUK K HAJI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;ISL:C;KIS:F;ENG:F;ARA:X"
+    },
+    {
+        "CNO":  "0167",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MUHIDINI Z MAKAME",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:D;ENG:F;ARA:X"
+    },
+    {
+        "CNO":  "0168",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MUSSA W SAID",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;KIS:B;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0169",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MUSTAFA M ALI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0170",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MUSSA KH ABDALLA",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:F;ISL:C;KIS:D;ENG:F;ARA:C;BIO:F"
+    },
+    {
+        "CNO":  "0171",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MWINYI M MWINYI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ISL:C;KIS:F;ENG:F;ARA:X"
+    },
+    {
+        "CNO":  "0172",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "NASSOR I SAID",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:F;ARA:C"
+    },
+    {
+        "CNO":  "0173",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "OTHMAN O HUSSEIN",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0174",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "OMAR B SHOMARI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;BIO:C"
+    },
+    {
+        "CNO":  "0175",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "OMAR J HASSAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:D;KIS:D;ENG:F;PHY:X;CHE:X;BAS:X"
+    },
+    {
+        "CNO":  "0176",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "PATRIK W ANTONI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0177",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "RAMADHANI A NYANGE",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;ISL:B;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0178",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SALHINA O HAMDAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;ARA:D"
+    },
+    {
+        "CNO":  "0179",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SILIMA H AME",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ISL:C;LIT:F"
+    },
+    {
+        "CNO":  "0180",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SULEIMAN KH HAJI",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:X;PHY:F;CHE:X;BAS:F"
+    },
+    {
+        "CNO":  "0181",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SHAMAS A SIMAI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:D;ISL:C;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0182",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SULEIMAN M USSI",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ISL:D;ENG:F;LIT:X;ARA:D"
+    },
+    {
+        "CNO":  "0183",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SHAIB M AHMAD",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:C;KIS:C;ENG:F;CHE:D;BIO:F"
+    },
+    {
+        "CNO":  "0184",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SHAABAN Z SHAABAN",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0185",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "YAHYA M SALUM",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ISL:B;ENG:F"
+    },
+    {
+        "CNO":  "0186",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "YUSSUF M SULEIMAN",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;ISL:B;ENG:F;CHE:D;BIO:D"
+    },
+    {
+        "CNO":  "0187",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SAADA A MOH\u0027D",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ISL:B;ENG:D;LIT:X;PHY:X;CHE:F;BIO:F;BAS:F"
+    }
+]

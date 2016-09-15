@@ -1,0 +1,474 @@
+[
+    {
+        "CNO":  "P1454/0001",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AGAPE NYONI",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;ENGL:X"
+    },
+    {
+        "CNO":  "P1454/0002",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AGATHA NDUNGURU",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:F;ENGL:D;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0003",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AGNES A KOMBA",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:F;KISW:D;ENGL:D"
+    },
+    {
+        "CNO":  "P1454/0004",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "AGNES P MATOLA",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;LIT;ENG:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0005",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ELIZABETH A CHITUKULA",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0006",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "ELIZABETH NDUNGURU",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0007",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "FILOMENA G DAUDI",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0008",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HAMISA Y MGATA",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;E-D-KIISLAMU:X;KISW:F;ENGL:D;LIT;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "P1454/0009",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HAPPINESS J LUOGA",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;ENGL:D;LIT;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "P1454/0010",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "HILDA Y KOMBA",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F"
+    },
+    {
+        "CNO":  "P1454/0011",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "IMANI FILBERT NDUNGURU",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0012",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "JOYCE NDUNGURU",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;LIT;ENG:D"
+    },
+    {
+        "CNO":  "P1454/0013",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "LEONIA NCHIMBI",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;LIT;ENG:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0014",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MARY LUCAS",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0015",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWAJUMA B. MALIWA",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;ENGL:X;LIT;ENG:X;BIO:X"
+    },
+    {
+        "CNO":  "P1454/0016",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "MWANAIDI W KINUNDA",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0017",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "NAHALE M PONERA",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIST:F;GEO:D;ENGL:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0018",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "REHEMA LUGONGO",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KISW:F;ENGL:F"
+    },
+    {
+        "CNO":  "P1454/0019",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "SELUFINA VITUS PATTA",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X;COMM:X"
+    },
+    {
+        "CNO":  "P1454/0020",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "TERESIA K NCHIMBI",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;LIT;ENG:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0021",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "TUMAINI MWANGASA",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:D;ENGL:F;BIO:X"
+    },
+    {
+        "CNO":  "P1454/0022",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "VERONICA NJOVU",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;ENGL:D"
+    },
+    {
+        "CNO":  "P1454/0023",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ABDALAH M SELEMAN",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0024",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ANDREW M CHRISTOPHER",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENGL:D;LIT;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "P1454/0025",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ASTERY HYERA",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;ENGL:D;LIT;ENG:F"
+    },
+    {
+        "CNO":  "P1454/0026",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "DEOGRASIAS ABEL NDEKA",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:D;KISW:D;ENGL:D;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0027",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "DONATUS KOMBA",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KISW:D"
+    },
+    {
+        "CNO":  "P1454/0028",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "EDWARD NZUYU",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;KISW:D;ENGL:C;LIT;ENG:D"
+    },
+    {
+        "CNO":  "P1454/0029",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ERASTO FAUSTIN MBEPERA",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0030",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "FRANK JOSEPH",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0031",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "GEORGE PHILIP",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;KISW:X;ENGL:X"
+    },
+    {
+        "CNO":  "P1454/0032",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "GREYSON MARTIN",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:D;ENGL:D;CHEM:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0033",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAFIDH I HAMID",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "GEO:X;KISW:X;ENGL:X;LIT;ENG:X"
+    },
+    {
+        "CNO":  "P1454/0034",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "HAMIS MAPUNDA",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0035",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "ISSA ALLY ALLY",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;BIO:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0036",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JACKSON MAPUNDA",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;LIT;ENG:X"
+    },
+    {
+        "CNO":  "P1454/0037",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JAMAL JOSEPH KAMANGA",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;ENGL:X;CHEM:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0038",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JAMES SIMON CHARLES",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:D;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0039",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JOSEPHATH MWANANZUMI",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:D;B-KNOWL:F;ENGL:D;LIT;ENG:C;COMM:F"
+    },
+    {
+        "CNO":  "P1454/0040",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JOSEPH MUMILA",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:D;LIT;ENG:D;BIO:X;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0041",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "JUMA RAMJI",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;GEO:D;KISW:D"
+    },
+    {
+        "CNO":  "P1454/0042",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MAKARANI ALLY KAISI",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:X;KISW:X;ENGL:X"
+    },
+    {
+        "CNO":  "P1454/0043",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MALIKI HASHIMU PILLY",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;ENGL:F"
+    },
+    {
+        "CNO":  "P1454/0044",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MANZWETUS M MGAYA",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:D;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0045",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "MAURUS FUSSY",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KISW:F;ENGL:D;B-MATH:D"
+    },
+    {
+        "CNO":  "P1454/0046",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "NESTORY MWINGIRA",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0047",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "NICKSON KOWERO",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENGL:F;LIT;ENG:D"
+    },
+    {
+        "CNO":  "P1454/0048",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "NORBERTH MAPUNDA",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIST:D;GEO:F;ENGL:F"
+    },
+    {
+        "CNO":  "P1454/0049",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "PATIENCE FIDELIS MGAO",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;ENGL:X;BIO:X"
+    },
+    {
+        "CNO":  "P1454/0050",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "RIDHIWANI S ABDALAH",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;KISW:D;ENGL:D"
+    },
+    {
+        "CNO":  "P1454/0051",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SABAS G KAPINGA",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KISW:D;ENGL:D;LIT;ENG:D;CHEM:D"
+    },
+    {
+        "CNO":  "P1454/0052",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SALUM SAJIN",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0053",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SELEMAN MOHAMED",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:F;ENGL:D;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0054",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "SONGA OMARI SAIDI",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;KISW:F;ENGL:D"
+    },
+    {
+        "CNO":  "P1454/0055",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "STEVEN S KOMBA",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:D;GEO:F;KISW:D;ENGL:D;BIO:F;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0056",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "WENSESILAUSI DAUDI SIASI",
+        "AGGT":  "-",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KISW:D;ENGL:D;LIT;ENG:C"
+    },
+    {
+        "CNO":  "P1454/0057",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "WENSLAUS KOMBA",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:F;GEO:F;KISW:F;ENGL:F;LIT;ENG:F;BIO:X;B-MATH:F"
+    },
+    {
+        "CNO":  "P1454/0058",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "YONAS AGATON MBELE",
+        "AGGT":  "-",
+        "DIV":  "ABS",
+        "DETAILED-SUBJECTS":  "CIV:X;HIST:X;GEO:X;KISW:X;ENGL:X;B-MATH:X"
+    },
+    {
+        "CNO":  "P1454/0059",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "YUSTIN NYONI",
+        "AGGT":  "-",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIST:D;GEO:F;KISW:F;ENGL:F"
+    }
+]

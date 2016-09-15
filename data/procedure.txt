@@ -1,0 +1,13 @@
+- convert line endings from CRLF to LF:
+	bash: find . -iname '*.json' -print0 | xargs -0 `which dos2unix`
+	
+- execute data.php
+	* creates 2003.json, ... , 2015.json
+	
+- execute in2csv on each JSON file
+	* creates 2003.csv, ... , 2015.csv
+	
+- execute csv-to-sql.sh on each CSV file
+	* creates a SQL table for each file
+	
+- use SQL scripts to transform the tables into usable data and store them in a dedicated database

@@ -1,0 +1,30 @@
+[
+    {
+        "CNO":  "P0661/0001",
+        "SEX":  "F",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:C;CHEM:E;BIO:C"
+    },
+    {
+        "CNO":  "P0661/0002",
+        "SEX":  "F",
+        "GPA":  "1.1",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;B-KNOWL:D;KISW:C;ENGL:C;BIO:D;B-MATH:F"
+    },
+    {
+        "CNO":  "P0661/0003",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "FAIL",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:X;GEO:X;B-KNOWL:X;KISW:F;ENGL:E;BIO:X"
+    },
+    {
+        "CNO":  "P0661/0004",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:D;GEO:E;ENGL:B"
+    }
+]

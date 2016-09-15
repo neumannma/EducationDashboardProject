@@ -1,0 +1,1330 @@
+[
+    {
+        "CNO":  "0001",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.J.N.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:C;ENG:D;BAS:D;BUI:D;BRI:D"
+    },
+    {
+        "CNO":  "0002",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.L.E.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:C;CHE:C;BIO:D;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0003",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.G.O.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:C;CHE:D;ENG:D;BAS:F;BUI:D;BRI:C"
+    },
+    {
+        "CNO":  "0004",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.L.U.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:C;ENG:C;CHE:B;ENG:A;BAS:D;BUI:C;BRI:B"
+    },
+    {
+        "CNO":  "0005",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.F.N.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:D;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0006",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.E.D.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:D;ENG:F;BAS:F;BUI:F;BRI:F"
+    },
+    {
+        "CNO":  "0008",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.A.N.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:C;KIS:C;ENG:C;CHE:B;ENG:A;BAS:B;BUI:B;BRI:C"
+    },
+    {
+        "CNO":  "0009",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.H.N.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:C;CHE:C;ENG:B;BAS:D;BUI:C"
+    },
+    {
+        "CNO":  "0010",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.A.I.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:D;CHE:D;ENG:B;BAS:D;BUI:F"
+    },
+    {
+        "CNO":  "0011",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.K.A.",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:D;ENG:D;CHE:B;BIO:D;ENG:A;BAS:C;BUI:F"
+    },
+    {
+        "CNO":  "0012",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.H.U.",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:B;BIO:C;ENG:B;BAS:C;BUI:C;BRI:D"
+    },
+    {
+        "CNO":  "0013",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.A.E.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:D;ENG:C;BAS:F;BUI:D"
+    },
+    {
+        "CNO":  "0014",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.M.A.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:C;ENG:D;CHE:C;ENG:C;BAS:C;BUI:I"
+    },
+    {
+        "CNO":  "0016",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.P.O.",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:B;BIO:C;ENG:A;BAS:C;BUI:C;BRI:C"
+    },
+    {
+        "CNO":  "0017",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.Q.Y.",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:D;ENG:C;CHE:B;ENG:A;BAS:C;BUI:D;BRI:D"
+    },
+    {
+        "CNO":  "0019",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.E.N.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:C;ENG:B;BAS:D;BUI:D;BRI:I"
+    },
+    {
+        "CNO":  "0020",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.S.O.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:B;ENG:B;CHE:B;BIO:B;ENG:B;BAS:C"
+    },
+    {
+        "CNO":  "0021",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.F.K.",
+        "AGGT":  "13",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;GEO:C;KIS:C;ENG:C;CHE:B;ENG:A;BAS:A;BUI:B;BRI:B"
+    },
+    {
+        "CNO":  "0022",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.N.U.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:C;ENG:B;BAS:F;BUI:I"
+    },
+    {
+        "CNO":  "0023",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.V.T.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:I;KIS:C;ENG:C;CHE:B;BIO:C;ENG:A;BAS:C;BUI:B;BRI:D"
+    },
+    {
+        "CNO":  "0025",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.T.E.",
+        "AGGT":  "19",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:C;CHE:B;BIO:C;ENG:B;BAS:B"
+    },
+    {
+        "CNO":  "0026",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.E.",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:D;ENG:C;CHE:B;ENG:C;BAS:D;BUI:D"
+    },
+    {
+        "CNO":  "0027",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.E.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:C;ENG:D;BAS:F;BUI:F"
+    },
+    {
+        "CNO":  "0028",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.W.A.",
+        "AGGT":  "19",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:B;ENG:D;CHE:C;ENG:A;BAS:C;BUI:C"
+    },
+    {
+        "CNO":  "0029",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.I.",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D;CHE:B;ENG:A;BAS:C;BUI:C;BRI:C"
+    },
+    {
+        "CNO":  "0030",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.M.A.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:D;CHE:C;BIO:C;ENG:B;BAS:F;BUI:F"
+    },
+    {
+        "CNO":  "0031",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.A.U.",
+        "AGGT":  "12",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;KIS:B;ENG:B;CHE:A;BIO:B;ENG:A;BAS:B;BUI:C;BRI:C"
+    },
+    {
+        "CNO":  "0032",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.P.L.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:C;BIO:D;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0033",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.J.S.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:C;CHE:B;ENG:A;BAS:B;BUI:B;BRI:C"
+    },
+    {
+        "CNO":  "0034",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.J.N.",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D;CHE:B;ENG:A;BAS:D;BUI:D"
+    },
+    {
+        "CNO":  "0035",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.M.E.",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:C;CHE:C;ENG:A;BAS:D;BUI:C;BRI:C"
+    },
+    {
+        "CNO":  "0036",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.M.D.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:F;ENG:F;BAS:F;BUI:I"
+    },
+    {
+        "CNO":  "0037",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.A.I.",
+        "AGGT":  "14",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;GEO:C;KIS:C;ENG:C;CHE:A;BIO:B;ENG:A;BAS:B"
+    },
+    {
+        "CNO":  "0039",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.A.U.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KIS:F;ENG:D;CHE:C;ENG:C;BAS:F;BUI:F"
+    },
+    {
+        "CNO":  "0040",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.G.O.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:B;BIO:C;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0041",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.J.S.",
+        "AGGT":  "11",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:C;ENG:B;CHE:A;BIO:A;ENG:A;BAS:B;BUI:B;BRI:B"
+    },
+    {
+        "CNO":  "0042",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "W.J.O.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:C;ENG:F;BAS:F;BUI:F"
+    },
+    {
+        "CNO":  "0043",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.B.N.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:F;BIO:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0044",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.M.A.",
+        "AGGT":  "21",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:C;CHE:B;BIO:C;ENG:B;BAS:C"
+    },
+    {
+        "CNO":  "0045",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.M.O.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:D;BIO:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0046",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.H.O.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:D;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0047",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.M.I.",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D;CHE:B;BIO:C;ENG:D;BAS:C"
+    },
+    {
+        "CNO":  "0048",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "K.J.S.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:C;CHE:C;ENG:D;BAS:F;SUR:F"
+    },
+    {
+        "CNO":  "0049",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.A.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:F;CHE:C;BIO:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0050",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.G.E.",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;GEO:D;KIS:B;ENG:B;CHE:B;BIO:B;ENG:A;BAS:D"
+    },
+    {
+        "CNO":  "0051",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.T.L.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:D;ENG:D;BAS:F;BUI:X;SUR:F"
+    },
+    {
+        "CNO":  "0052",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.M.O.",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:B;BIO:X;ENG:B;BAS:D;BUI:D;SUR:D"
+    },
+    {
+        "CNO":  "0053",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.M.I.",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:D;CHE:C;BIO:D;ENG:B;BAS:C"
+    },
+    {
+        "CNO":  "0054",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:F;BIO:D;ENG:C;BAS:F;BUI:D"
+    },
+    {
+        "CNO":  "0055",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.E.",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:D;ENG:D;CHE:B;BIO:C;ENG:A;BAS:D"
+    },
+    {
+        "CNO":  "0056",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.J.A.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:C;ENG:B;BAS:F;BUI:F;SUR:F"
+    },
+    {
+        "CNO":  "0057",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.G.T.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0058",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.A.I.",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:X;KIS:C;ENG:C;CHE:A;BIO:B;ENG:A;BAS:B;BUI:C"
+    },
+    {
+        "CNO":  "0059",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.R.I.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:F;ENG:F;BAS:F;BUI:F;SUR:F"
+    },
+    {
+        "CNO":  "0060",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.H.D.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0061",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.G.E.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:C;ENG:D;BAS:D;BUI:C;SUR:D"
+    },
+    {
+        "CNO":  "0062",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.K.U.",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:I;KIS:C;ENG:B;CHE:B;ENG:C;BAS:B;SUR:B"
+    },
+    {
+        "CNO":  "0063",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.J.O.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0064",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.J.I.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KIS:D;ENG:D;CHE:B;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0065",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.U.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:C;BIO:C;ENG:D;BAS:D;BUI:X;SUR:X"
+    },
+    {
+        "CNO":  "0066",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.R.D.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0067",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ELI:F;KIS:D;ENG:F;CHE:D;ENG:F;BAS:F;SUR:D"
+    },
+    {
+        "CNO":  "0068",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.M.U.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:I;KIS:D;ENG:D;CHE:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0069",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Y.R.T.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KIS:D;ENG:D;CHE:C;ENG:C;BAS:C;BUI:D"
+    },
+    {
+        "CNO":  "0070",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:D;ENG:D;BAS:D;WEL:F"
+    },
+    {
+        "CNO":  "0071",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.K.A.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:D;BIO:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0072",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.M.E.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:F;BIO:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0073",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.P.O.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:F;CHE:F;BIO:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0074",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.J.A.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:D;BIO:F;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0075",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.J.S.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:D;BIO:D;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0076",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.B.I.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D;CHE:C;ENG:B;BAS:D;WEL:F"
+    },
+    {
+        "CNO":  "0077",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.L.U.",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:C;ENG:C;CHE:C;BIO:D;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0078",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.B.E.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:C;CHE:C;BIO:C;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0079",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.R.D.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:D;ENG:F;BAS:F;WEL:F"
+    },
+    {
+        "CNO":  "0080",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.J.A.",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:C;CHE:B;ENG:D;BAS:D;WOR:F"
+    },
+    {
+        "CNO":  "0081",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.M.I.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:D;ENG:F;BAS:F;WOR:F"
+    },
+    {
+        "CNO":  "0082",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.S.O.",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:B;ENG:D;BAS:C;WOR:F"
+    },
+    {
+        "CNO":  "0083",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.E.D.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:C;CHE:C;ENG:D;BAS:D;WOR:F"
+    },
+    {
+        "CNO":  "0084",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.N.O.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:F;ENG:F;BAS:F;WOR:F"
+    },
+    {
+        "CNO":  "0085",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.G.S.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:C;ENG:A;BAS:C;WOR:D;WEL:F"
+    },
+    {
+        "CNO":  "0086",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.E.S.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:D;ENG:F;BAS:F;WEL:F"
+    },
+    {
+        "CNO":  "0087",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.K.L.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:F;BIO:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0088",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.L.N.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:C;KIS:C;ENG:C;CHE:A;BIO:C;ENG:A;BAS:C"
+    },
+    {
+        "CNO":  "0089",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.G.A.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;ENG:D;BAS:F;WEL:F"
+    },
+    {
+        "CNO":  "0090",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.P.R.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:F;CHE:C;ENG:D;BAS:D;WOR:F"
+    },
+    {
+        "CNO":  "0091",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.D.I.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:C;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0092",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.I.M.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:D;ENG:F;BAS:F;WOR:F"
+    },
+    {
+        "CNO":  "0093",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.M.L.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D;CHE:B;BIO:C;ENG:B;BAS:C"
+    },
+    {
+        "CNO":  "0094",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.Z.A.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KIS:D;ENG:D;CHE:C;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0095",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.G.A.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:D;ENG:F;BAS:F;WOR:X"
+    },
+    {
+        "CNO":  "0096",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.J.I.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:F;ENG:F;CHE:F;BIO:F;ENG:F;BAS:F;WOR:F"
+    },
+    {
+        "CNO":  "0097",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.D.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;ENG:F;BAS:F;WOR:F;WEL:X"
+    },
+    {
+        "CNO":  "0098",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.Y.N.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:F;CHE:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0099",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.A.N.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ELI:F;KIS:D;ENG:F;CHE:C;ENG:D;BAS:D;WOR:F"
+    },
+    {
+        "CNO":  "0100",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.J.A.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:F;CHE:D;ENG:D;BAS:D;WOR:F"
+    },
+    {
+        "CNO":  "0101",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.T.A.",
+        "AGGT":  "11",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:B;KIS:D;ENG:B;CHE:A;BIO:A;ENG:A;BAS:A"
+    },
+    {
+        "CNO":  "0102",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.A.I.",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:D;ENG:C;CHE:B;BIO:C;ENG:B;BAS:C"
+    },
+    {
+        "CNO":  "0103",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.I.A.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:C;ENG:D;BAS:D;WEL:F"
+    },
+    {
+        "CNO":  "0104",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.S.D.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:D;ENG:D;BAS:F;WOR:F"
+    },
+    {
+        "CNO":  "0105",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.S.U.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:F;ENG:F;BAS:F;WEL:F"
+    },
+    {
+        "CNO":  "0106",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.I.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;ENG:F;CHE:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0107",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.N.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:C;CHE:D;ENG:D;BAS:F;WOR:F"
+    },
+    {
+        "CNO":  "0108",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.H.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;ELI:X;KIS:D;ENG:C;CHE:F;ENG:C;BAS:D;WOR:F"
+    },
+    {
+        "CNO":  "0109",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.S.I.",
+        "AGGT":  "21",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:C;ENG:A;BAS:B;WOR:F"
+    },
+    {
+        "CNO":  "0110",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.G.O.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:C;KIS:C;ENG:C;CHE:A;BIO:C;ENG:A;BAS:C"
+    },
+    {
+        "CNO":  "0111",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.J.A.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D;CHE:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0112",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.A.D.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D;CHE:D;ENG:D;BAS:F;WOR:F"
+    },
+    {
+        "CNO":  "0113",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.K.Y.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:C;ENG:A;BAS:C;WOR:F;WEL:F"
+    },
+    {
+        "CNO":  "0114",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Y.C.S.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:C;ENG:A;CHE:B;BIO:C;ENG:B;BAS:C"
+    },
+    {
+        "CNO":  "0115",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Z.M.A.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:F;CHE:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0116",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.D.O.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:B;CHE:B;BIO:B;ENG:A;BAS:C;ELE:C;RAD:C;ELE:F"
+    },
+    {
+        "CNO":  "0117",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.A.Y.",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:C;BIO:X;ENG:D;BAS:D;ELE:C;ELE:C"
+    },
+    {
+        "CNO":  "0118",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.A.A.",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:B;CHE:B;BIO:C;ENG:B;BAS:C;ELE:D;ELE:F"
+    },
+    {
+        "CNO":  "0119",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.E.K.",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;CHE:C;ENG:B;BAS:F;ELE:B;RAD:F;ELE:D"
+    },
+    {
+        "CNO":  "0120",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.I.A.",
+        "AGGT":  "25",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:B;CHE:C;ENG:D;BAS:D;ELE:D;ELE:D"
+    },
+    {
+        "CNO":  "0121",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.F.O.",
+        "AGGT":  "12",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;KIS:C;ENG:C;CHE:A;BIO:B;ENG:A;BAS:C;ELE:A;ELE:B;ELE:C"
+    },
+    {
+        "CNO":  "0122",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.G.E.",
+        "AGGT":  "17",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:B;ENG:C;CHE:B;BIO:C;ENG:A;BAS:D;ELE:C;ELE:C;ELE:F"
+    },
+    {
+        "CNO":  "0123",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.S.O.",
+        "AGGT":  "19",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:B;ENG:C;CHE:C;BIO:C;ENG:C;BAS:D;ELE:B;ELE:C;ELE:F"
+    },
+    {
+        "CNO":  "0124",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.K.A.",
+        "AGGT":  "21",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:C;ENG:C;CHE:B;ENG:B;BAS:D;ELE:D;ELE:F"
+    },
+    {
+        "CNO":  "0125",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.D.L.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:C;ENG:C;CHE:B;BIO:C;ENG:A;BAS:C;ELE:B;ELE:B;ELE:C"
+    },
+    {
+        "CNO":  "0126",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.R.I.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:C;KIS:D;ENG:C;CHE:B;ENG:A;BAS:B;ELE:B;ELE:D"
+    },
+    {
+        "CNO":  "0127",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.A.Y.",
+        "AGGT":  "13",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:C;BIO:C;ENG:A;BAS:B;ELE:A;ELE:B;ELE:A"
+    },
+    {
+        "CNO":  "0128",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.R.N.",
+        "AGGT":  "10",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:D;ENG:A;CHE:B;BIO:A;ENG:A;BAS:B;ELE:A;ELE:B;ELE:C"
+    },
+    {
+        "CNO":  "0129",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.S.D.",
+        "AGGT":  "13",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:C;KIS:B;ENG:C;CHE:B;ENG:A;BAS:C;ELE:A;ELE:A;ELE:D"
+    },
+    {
+        "CNO":  "0130",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.P.U.",
+        "AGGT":  "14",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:B;BIO:C;ENG:A;BAS:D;ELE:A;RAD:C;ELE:A"
+    },
+    {
+        "CNO":  "0131",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.R.I.",
+        "AGGT":  "12",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:C;KIS:D;ENG:A;CHE:A;ENG:A;BAS:B;ELE:B;ELE:B"
+    },
+    {
+        "CNO":  "0132",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.H.A.",
+        "AGGT":  "10",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:X;KIS:C;ENG:B;CHE:A;ENG:B;BAS:A;ELE:A;ELE:A;ELE:B"
+    },
+    {
+        "CNO":  "0133",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.R.N.",
+        "AGGT":  "9",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;GEO:D;KIS:B;ENG:B;CHE:A;ENG:A;BAS:B;ELE:A;ELE:A;ELE:A"
+    },
+    {
+        "CNO":  "0134",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.I.A.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:C;KIS:C;ENG:B;CHE:B;ENG:A;BAS:C;ELE:B;RAD:C;ELE:C"
+    },
+    {
+        "CNO":  "0135",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.J.N.",
+        "AGGT":  "8",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:B;KIS:C;ENG:A;CHE:A;ENG:A;BAS:B;ELE:A;ELE:A;ELE:A"
+    },
+    {
+        "CNO":  "0136",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.E.L.",
+        "AGGT":  "11",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:A;CHE:B;ENG:A;BAS:C;ELE:A;ELE:A;ELE:B"
+    },
+    {
+        "CNO":  "0137",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.Y.A.",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:C;KIS:C;ENG:C;CHE:B;ENG:A;BAS:B;ELE:C;ELE:A"
+    },
+    {
+        "CNO":  "0138",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.J.H.",
+        "AGGT":  "13",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:C;KIS:C;ENG:B;CHE:B;ENG:A;BAS:B;ELE:B;ELE:A"
+    },
+    {
+        "CNO":  "0139",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.F.L.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:C;CHE:B;BIO:C;ENG:B;BAS:B;ELE:B;ELE:C"
+    },
+    {
+        "CNO":  "0140",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.A.W.",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:D;CHE:B;BIO:C;ENG:A;BAS:C;ELE:B;ELE:D"
+    },
+    {
+        "CNO":  "0141",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.D.D.",
+        "AGGT":  "13",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:C;ENG:B;CHE:B;BIO:B;ENG:A;BAS:C;ELE:A;ELE:B"
+    },
+    {
+        "CNO":  "0142",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.O.",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:C;CHE:B;ENG:A;BAS:B;ELE:A;RAD:C"
+    },
+    {
+        "CNO":  "0143",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.J.E.",
+        "AGGT":  "9",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;KIS:B;ENG:B;CHE:A;BIO:A;ENG:A;BAS:B;ELE:A;ELE:A;ELE:B"
+    },
+    {
+        "CNO":  "0144",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.M.E.",
+        "AGGT":  "10",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:C;CHE:A;BIO:B;ENG:A;BAS:A;ELE:A;RAD:A;ELE:C"
+    },
+    {
+        "CNO":  "0145",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.N.E.",
+        "AGGT":  "23",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:D;ENG:D;CHE:B;ENG:C;BAS:D;ELE:C;ELE:D"
+    },
+    {
+        "CNO":  "0146",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.I.",
+        "AGGT":  "20",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KIS:D;ENG:C;CHE:B;ENG:B;BAS:D;ELE:B;ELE:C"
+    },
+    {
+        "CNO":  "0147",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.N.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:D;ENG:D;CHE:C;BIO:D;ENG:A;BAS:F;ELE:F;ELE:F"
+    },
+    {
+        "CNO":  "0148",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.N.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;GEO:B;KIS:D;ENG:B;CHE:C;ENG:D;BAS:D;ELE:X;RAD:C;ELE:A"
+    },
+    {
+        "CNO":  "0149",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "7",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:B;ENG:B;CHE:A;BIO:A;ENG:A;BAS:A;ELE:A;ELE:A;ELE:A"
+    },
+    {
+        "CNO":  "0150",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.I.",
+        "AGGT":  "8",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:B;ENG:C;CHE:A;BIO:A;ENG:A;BAS:B;ELE:A;RAD:A;ELE:A"
+    },
+    {
+        "CNO":  "0151",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.\u0027.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:D;ENG:C;CHE:B;BIO:C;ENG:A;BAS:C;ELE:A;ELE:C;ELE:F"
+    },
+    {
+        "CNO":  "0152",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.H.N.",
+        "AGGT":  "9",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:C;KIS:A;ENG:B;CHE:A;ENG:A;BAS:A;ELE:B;RAD:B;ELE:A"
+    },
+    {
+        "CNO":  "0153",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.L.",
+        "AGGT":  "11",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:C;KIS:C;ENG:B;CHE:A;ENG:A;BAS:A;ELE:B;ELE:A"
+    },
+    {
+        "CNO":  "0154",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.N.Y.",
+        "AGGT":  "20",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:C;KIS:D;ENG:C;CHE:B;ENG:B;BAS:C;ELE:C;ELE:D"
+    },
+    {
+        "CNO":  "0155",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.R.D.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:B;ENG:C;CHE:F;ENG:C;BAS:F;ELE:B;ELE:D;ELE:X"
+    },
+    {
+        "CNO":  "0156",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.S.Y.",
+        "AGGT":  "18",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:C;KIS:D;ENG:C;CHE:C;ENG:A;BAS:D;ELE:B;ELE:F;ELE:B"
+    },
+    {
+        "CNO":  "0157",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.Z.I.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;CHE:B;ENG:A;BAS:D;ELE:A;ELE:B;ELE:D"
+    },
+    {
+        "CNO":  "0158",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.D.N.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:D;CHE:C;BIO:C;ENG:A;BAS:D;ELE:D;RAD:X;ELE:X"
+    },
+    {
+        "CNO":  "0159",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.R.A.",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:C;BIO:C;ENG:A;BAS:C;ELE:B;ELE:D;ELE:C"
+    },
+    {
+        "CNO":  "0160",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.T.A.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:C;CHE:B;BIO:C;ENG:B;BAS:D;ELE:D;RAD:D;ELE:D"
+    },
+    {
+        "CNO":  "0161",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.H.I.",
+        "AGGT":  "15",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:B;ENG:B;CHE:A;ENG:A;BAS:A"
+    },
+    {
+        "CNO":  "0162",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.Z.I.",
+        "AGGT":  "13",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:D;CHE:A;BIO:C;ENG:A;BAS:B;ELE:A;ELE:B;ELE:D"
+    },
+    {
+        "CNO":  "0163",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.A.U.",
+        "AGGT":  "16",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:C;CHE:B;BIO:C;ENG:A;BAS:C;ELE:B;ELE:B;ELE:D"
+    },
+    {
+        "CNO":  "0164",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.D.Y.",
+        "AGGT":  "18",
+        "DIV":  "II",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:X;KIS:C;ENG:D;CHE:B;ENG:A;BAS:D;ELE:C;ELE:B;ELE:C"
+    },
+    {
+        "CNO":  "0165",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.Y.H.",
+        "AGGT":  "7",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:B;KIS:B;ENG:B;CHE:A;BIO:A;ENG:A;BAS:A;ELE:A;ELE:A;ELE:A"
+    },
+    {
+        "CNO":  "0166",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.S.A.",
+        "AGGT":  "0",
+        "DIV":  "*E",
+        "DETAILED-SUBJECTS":  "CIV:I;KIS:I;ENG:I;CHE:I;BIO:I;ENG:I;BAS:I;ELE:I;RAD:I;ELE:I"
+    },
+    {
+        "CNO":  "0167",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.G.D.",
+        "AGGT":  "10",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:X;KIS:C;ENG:C;CHE:A;ENG:B;BAS:A;ELE:A;ELE:A;ELE:A"
+    },
+    {
+        "CNO":  "0168",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.M.A.",
+        "AGGT":  "17",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:C;CHE:B;BIO:C;ENG:A;BAS:C;ELE:B;ELE:C;ELE:D"
+    },
+    {
+        "CNO":  "0169",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.W.M.",
+        "AGGT":  "13",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:C;ENG:C;CHE:B;BIO:A;ENG:A;BAS:C;ELE:A;RAD:B"
+    },
+    {
+        "CNO":  "0170",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "W.E.O.",
+        "AGGT":  "24",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:D;ENG:D;CHE:C;BIO:C;ENG:D;BAS:D;ELE:D;RAD:D;ELE:B"
+    },
+    {
+        "CNO":  "0171",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "W.H.A.",
+        "AGGT":  "14",
+        "DIV":  "I",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:D;CHE:A;ENG:A;BAS:C;ELE:B;ELE:A;ELE:C"
+    }
+]

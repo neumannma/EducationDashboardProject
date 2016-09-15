@@ -1,0 +1,6426 @@
+[
+    {
+        "CNO":  "0001",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.J.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0002",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;ENG:C"
+    },
+    {
+        "CNO":  "0003",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.N.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D;COM:F"
+    },
+    {
+        "CNO":  "0004",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.H.U.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0005",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.L.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:A;BAS:F"
+    },
+    {
+        "CNO":  "0006",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.D.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;BAS:F"
+    },
+    {
+        "CNO":  "0007",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.G.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:X;KIS:D;LIT:X"
+    },
+    {
+        "CNO":  "0008",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.O.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;KIS:B"
+    },
+    {
+        "CNO":  "0009",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.H.I.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0010",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.T.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0011",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;BAS:F"
+    },
+    {
+        "CNO":  "0013",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.C.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0014",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.T.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;ENG:D;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0015",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.A.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0016",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0017",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0018",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.T.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0020",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.N.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;KIS:B"
+    },
+    {
+        "CNO":  "0022",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.C.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;BAS:F;COM:D;BOO:D"
+    },
+    {
+        "CNO":  "0023",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.T.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D"
+    },
+    {
+        "CNO":  "0024",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.L.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:C;COM:F"
+    },
+    {
+        "CNO":  "0025",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.K.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;ENG:B"
+    },
+    {
+        "CNO":  "0026",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ENG:C"
+    },
+    {
+        "CNO":  "0027",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.B.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:X;KIS:B;ENG:C;LIT:D;BAS:X"
+    },
+    {
+        "CNO":  "0028",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.G.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:B"
+    },
+    {
+        "CNO":  "0029",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.B.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENG:D;BAS:F;COM:F"
+    },
+    {
+        "CNO":  "0030",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0031",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.T.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:B;ENG:B"
+    },
+    {
+        "CNO":  "0032",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.J.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:C"
+    },
+    {
+        "CNO":  "0033",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.P.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;BIB:C;ENG:B"
+    },
+    {
+        "CNO":  "0034",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.P.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D"
+    },
+    {
+        "CNO":  "0035",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.S.A.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:C;LIT:D;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0037",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.P.R.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BAS:F;BOO:F"
+    },
+    {
+        "CNO":  "0038",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.J.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C"
+    },
+    {
+        "CNO":  "0039",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;KIS:F;ENG:C"
+    },
+    {
+        "CNO":  "0040",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:X;KIS:B;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0041",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.O.N.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ELI:D;KIS:B;ENG:D;LIT:F"
+    },
+    {
+        "CNO":  "0042",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.I.M.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0043",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.H.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0044",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0045",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.F.N.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;LIT:F;BAS:F"
+    },
+    {
+        "CNO":  "0046",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ENG:C"
+    },
+    {
+        "CNO":  "0047",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.M.U.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;BIB:X;KIS:C;ENG:C;LIT:D;BAS:F"
+    },
+    {
+        "CNO":  "0048",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.L.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0049",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.J.R.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:C;LIT:F;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0050",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:B;BIO:F"
+    },
+    {
+        "CNO":  "0052",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:C"
+    },
+    {
+        "CNO":  "0053",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.R.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C"
+    },
+    {
+        "CNO":  "0054",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.S.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:D;ENG:F;LIT:F"
+    },
+    {
+        "CNO":  "0055",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.S.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D"
+    },
+    {
+        "CNO":  "0056",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.V.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;ENG:D"
+    },
+    {
+        "CNO":  "0057",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.I.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:F;LIT:C"
+    },
+    {
+        "CNO":  "0058",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.B.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ELI:F;KIS:C;ENG:B"
+    },
+    {
+        "CNO":  "0059",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.O.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:F"
+    },
+    {
+        "CNO":  "0060",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.A.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0061",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0062",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.V.T.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;KIS:A;ENG:C;BIO:F"
+    },
+    {
+        "CNO":  "0063",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.T.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0064",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "I.D.O.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:X;KIS:B;ENG:F;LIT:F;BAS:F"
+    },
+    {
+        "CNO":  "0065",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "I.K.A.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:B;ENG:C;BIO:F;BAS:F;COM:F"
+    },
+    {
+        "CNO":  "0066",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.J.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0067",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.K.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;BAS:F"
+    },
+    {
+        "CNO":  "0068",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.I.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:D;KIS:B;ENG:D;BAS:X"
+    },
+    {
+        "CNO":  "0069",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;KIS:C;ENG:D;LIT:X;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0070",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.A.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;KIS:D"
+    },
+    {
+        "CNO":  "0071",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.G.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:B;GEO:F"
+    },
+    {
+        "CNO":  "0072",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.N.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0073",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.F.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;BAS:F"
+    },
+    {
+        "CNO":  "0074",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.G.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0075",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.K.U.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0076",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0077",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.L.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:F;LIT:F"
+    },
+    {
+        "CNO":  "0078",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.F.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0079",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.K.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;KIS:B"
+    },
+    {
+        "CNO":  "0080",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;ENG:B;BAS:F;COM:C;BOO:D"
+    },
+    {
+        "CNO":  "0081",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;LIT:F"
+    },
+    {
+        "CNO":  "0082",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.P.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:C;ENG:D;COM:D"
+    },
+    {
+        "CNO":  "0083",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.P.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0084",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:F;KIS:C;COM:F;BOO:D"
+    },
+    {
+        "CNO":  "0085",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:C;ENG:F;LIT:F"
+    },
+    {
+        "CNO":  "0086",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.T.A.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:F;KIS:F;ENG:D;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0087",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.J.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0088",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:A;GEO:D;KIS:B;ENG:B"
+    },
+    {
+        "CNO":  "0089",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.N.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;ENG:D;LIT:F;COM:F"
+    },
+    {
+        "CNO":  "0090",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.L.A.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:F;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0092",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.L.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:C;LIT:D"
+    },
+    {
+        "CNO":  "0093",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0094",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.A.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:B;LIT:B"
+    },
+    {
+        "CNO":  "0095",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:D;BAS:X"
+    },
+    {
+        "CNO":  "0096",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.S.M.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D"
+    },
+    {
+        "CNO":  "0097",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.N.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0098",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:F;BAS:F;BOO:D"
+    },
+    {
+        "CNO":  "0099",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.J.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0100",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0102",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.K.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F"
+    },
+    {
+        "CNO":  "0103",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0104",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.V.T.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0105",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;FRE:B;LIT:D"
+    },
+    {
+        "CNO":  "0106",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0107",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.L.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;BIO:D;BAS:D"
+    },
+    {
+        "CNO":  "0108",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.A.D.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F;COM:F"
+    },
+    {
+        "CNO":  "0109",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:F;KIS:C;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0110",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.O.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D;LIT:X;BAS:F"
+    },
+    {
+        "CNO":  "0111",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.P.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0112",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.S.M.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0113",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0114",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.R.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0115",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.Y.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0116",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.C.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;ENG:C"
+    },
+    {
+        "CNO":  "0117",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.A.K.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ELI:D;KIS:C;COM:X;BOO:X"
+    },
+    {
+        "CNO":  "0118",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.N.O.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;ENG:C;PHY:F;CHE:C;BAS:D"
+    },
+    {
+        "CNO":  "0119",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;ENG:C;LIT:F"
+    },
+    {
+        "CNO":  "0120",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.P.S.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:C;FRE:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0121",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0122",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:X;BIB:F;ENG:D"
+    },
+    {
+        "CNO":  "0123",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.R.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;KIS:B;BAS:D"
+    },
+    {
+        "CNO":  "0124",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0125",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.A.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;BIB:D"
+    },
+    {
+        "CNO":  "0126",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.I.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0127",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.L.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0128",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.D.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0129",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.G.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;BAS:F;COM:C"
+    },
+    {
+        "CNO":  "0130",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.A.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;BAS:F"
+    },
+    {
+        "CNO":  "0131",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.A.I.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0133",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:C"
+    },
+    {
+        "CNO":  "0134",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.K.A.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0135",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.S.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0136",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:B;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0137",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.G.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D"
+    },
+    {
+        "CNO":  "0138",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.A.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "BAS:F;COM:D;BOO:D"
+    },
+    {
+        "CNO":  "0140",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.W.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0141",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:B;GEO:D;KIS:C"
+    },
+    {
+        "CNO":  "0142",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.A.M.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;BIO:X;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0143",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.M.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0144",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.H.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0145",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0146",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.A.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0147",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.L.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0148",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;ELI:F;ENG:C;COM:D;BOO:X"
+    },
+    {
+        "CNO":  "0150",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.L.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;BIB:F;ENG:F;LIT:X;BOO:F"
+    },
+    {
+        "CNO":  "0151",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.G.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0152",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.J.B.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;LIT:D"
+    },
+    {
+        "CNO":  "0153",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.A.M.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:D;PHY:F;BAS:F"
+    },
+    {
+        "CNO":  "0154",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.N.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F"
+    },
+    {
+        "CNO":  "0156",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.H.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;ENG:C;LIT:C;BIO:X"
+    },
+    {
+        "CNO":  "0157",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.O.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0158",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.R.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0159",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.K.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D"
+    },
+    {
+        "CNO":  "0160",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.B.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0161",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:C;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0162",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.O.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;KIS:A;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0163",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.J.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0166",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.R.I.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0167",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.M.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;KIS:A"
+    },
+    {
+        "CNO":  "0168",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.I.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0169",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.W.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0170",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.I.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0171",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.S.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:X;COM:F"
+    },
+    {
+        "CNO":  "0172",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.F.K.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:D;KIS:D"
+    },
+    {
+        "CNO":  "0173",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;GEO:F;ELI:F;ENG:D"
+    },
+    {
+        "CNO":  "0174",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.F.K.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0175",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.Y.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;KIS:C;ENG:F;BIO:F;BAS:F;COM:D;BOO:F"
+    },
+    {
+        "CNO":  "0176",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.U.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0177",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.P.R.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0178",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.A.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:X"
+    },
+    {
+        "CNO":  "0179",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:A;BAS:F;ADD:F"
+    },
+    {
+        "CNO":  "0180",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.B.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0181",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;COM:D"
+    },
+    {
+        "CNO":  "0182",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.D.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;KIS:C;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0183",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.L.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0184",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.K.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:X;ENG:C;LIT:X"
+    },
+    {
+        "CNO":  "0185",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:D;KIS:B"
+    },
+    {
+        "CNO":  "0186",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:D;ENG:D;BAS:C"
+    },
+    {
+        "CNO":  "0187",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.A.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0188",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.J.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:B;ADD:X"
+    },
+    {
+        "CNO":  "0189",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.N.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0190",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.B.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:B;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0191",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.N.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0192",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.B.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;ENG:F;PHY:F"
+    },
+    {
+        "CNO":  "0193",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.C.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:D;PHY:D;CHE:B;BIO:D"
+    },
+    {
+        "CNO":  "0194",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.K.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0196",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.K.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:D;ENG:F;LIT:F"
+    },
+    {
+        "CNO":  "0198",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0199",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.P.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D;BIO:X"
+    },
+    {
+        "CNO":  "0200",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.A.K.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;BAS:F"
+    },
+    {
+        "CNO":  "0201",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.J.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "PHY:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0202",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0203",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0204",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;ENG:F;PHY:D;BAS:D"
+    },
+    {
+        "CNO":  "0205",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0206",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.V.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0207",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:B;COM:D;BOO:D"
+    },
+    {
+        "CNO":  "0208",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.Z.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:F;KIS:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0209",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.A.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:F;KIS:C;ENG:D;BIO:X;BAS:X"
+    },
+    {
+        "CNO":  "0210",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.G.O.",
+        "AGGT":  "0",
+        "DIV":  "*T",
+        "DETAILED-SUBJECTS":  "GEO:I"
+    },
+    {
+        "CNO":  "0211",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;KIS:B;ENG:D;LIT:B;COM:C"
+    },
+    {
+        "CNO":  "0212",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.A.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0213",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;BAS:F;COM:B;BOO:D"
+    },
+    {
+        "CNO":  "0214",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.S.E.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F;PHY:X;CHE:C;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0215",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.B.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0216",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.J.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0217",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.R.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:C;BAS:F"
+    },
+    {
+        "CNO":  "0218",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0219",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.V.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;GEO:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0220",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0221",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.D.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0222",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.E.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:F;KIS:X"
+    },
+    {
+        "CNO":  "0223",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.M.N.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:D;ENG:A;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0224",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0225",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.E.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;GEO:D;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0226",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.S.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:C;ENG:B;BAS:F"
+    },
+    {
+        "CNO":  "0227",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.T.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;BAS:D;ADD:F"
+    },
+    {
+        "CNO":  "0229",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.E.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:X;KIS:C;ENG:C;COM:D"
+    },
+    {
+        "CNO":  "0230",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:D;COM:F"
+    },
+    {
+        "CNO":  "0231",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0232",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;BIB:D;KIS:C;ENG:X"
+    },
+    {
+        "CNO":  "0233",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.F.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0234",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;BAS:D"
+    },
+    {
+        "CNO":  "0235",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.C.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:B;GEO:F;KIS:B;ENG:B;BAS:F"
+    },
+    {
+        "CNO":  "0236",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0237",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0238",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0239",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.K.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D"
+    },
+    {
+        "CNO":  "0240",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;LIT:D"
+    },
+    {
+        "CNO":  "0241",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.J.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0242",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:C"
+    },
+    {
+        "CNO":  "0243",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:B;PHY:D;BAS:D"
+    },
+    {
+        "CNO":  "0244",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0245",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:C;LIT:D;BAS:X;BOO:F"
+    },
+    {
+        "CNO":  "0246",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.K.A.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:D;KIS:D;ENG:D;LIT:C;BAS:D"
+    },
+    {
+        "CNO":  "0248",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.H.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:X"
+    },
+    {
+        "CNO":  "0250",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.N.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:B"
+    },
+    {
+        "CNO":  "0251",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;LIT:X"
+    },
+    {
+        "CNO":  "0252",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.J.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:B;ENG:D;BIO:X"
+    },
+    {
+        "CNO":  "0253",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.A.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0254",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.I.K.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "KIS:X;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0255",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.G.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:D;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0257",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F"
+    },
+    {
+        "CNO":  "0258",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;BAS:F;BOO:D"
+    },
+    {
+        "CNO":  "0259",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.M.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0260",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.E.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:D;ENG:X;BAS:F;COM:F;BOO:D"
+    },
+    {
+        "CNO":  "0261",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;BAS:C;ADD:D"
+    },
+    {
+        "CNO":  "0262",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.E.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:D;BAS:F;COM:F"
+    },
+    {
+        "CNO":  "0263",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0264",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0265",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.H.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;BIO:X;BAS:X"
+    },
+    {
+        "CNO":  "0266",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.J.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:F;PHY:F;CHE:F;BAS:F"
+    },
+    {
+        "CNO":  "0267",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.A.U.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:C;KIS:F;ENG:C;LIT:F;BIO:F"
+    },
+    {
+        "CNO":  "0268",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0269",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;ENG:D"
+    },
+    {
+        "CNO":  "0270",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.W.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0271",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.I.I.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ELI:F;KIS:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0272",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.Y.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0273",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;KIS:D"
+    },
+    {
+        "CNO":  "0274",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.T.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:B"
+    },
+    {
+        "CNO":  "0275",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.L.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0276",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.R.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0277",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:A;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0278",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.H.A.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0279",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.N.I.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:F;PHY:F;CHE:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0280",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:D"
+    },
+    {
+        "CNO":  "0281",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.T.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:D;ENG:D;BAS:X;BOO:D"
+    },
+    {
+        "CNO":  "0282",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.J.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;BIB:F;KIS:B"
+    },
+    {
+        "CNO":  "0283",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.P.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:F;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0284",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0285",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:B;BAS:D"
+    },
+    {
+        "CNO":  "0286",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.J.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0287",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.K.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:X"
+    },
+    {
+        "CNO":  "0288",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.D.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0289",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0290",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.H.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:F;CHE:D;BIO:F;BAS:D"
+    },
+    {
+        "CNO":  "0291",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0292",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:X;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0293",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.I.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0294",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0295",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.I.L.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ELI:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0296",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;BAS:D;COM:F;BOO:D"
+    },
+    {
+        "CNO":  "0297",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0298",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.K.A.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:B;GEO:C;KIS:B;ENG:C;BIO:D;BAS:F"
+    },
+    {
+        "CNO":  "0299",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0300",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.S.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:D;ENG:F;BAS:D"
+    },
+    {
+        "CNO":  "0301",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.L.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;ADD:X"
+    },
+    {
+        "CNO":  "0302",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.C.R.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D;CHE:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0303",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.V.W.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:C;PHY:D;CHE:D;BAS:D"
+    },
+    {
+        "CNO":  "0305",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ENG:C;BAS:C"
+    },
+    {
+        "CNO":  "0306",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.M.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:X;KIS:F;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0307",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.Y.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:D;ENG:D;PHY:F;BAS:D"
+    },
+    {
+        "CNO":  "0308",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.A.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0309",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.J.A.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0310",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.S.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:B;CHE:C;ENG:C;BAS:C"
+    },
+    {
+        "CNO":  "0312",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.N.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:D;BAS:F;COM:D;BOO:D"
+    },
+    {
+        "CNO":  "0313",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;KIS:B"
+    },
+    {
+        "CNO":  "0314",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:B;ENG:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0316",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.N.A.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;GEO:D;KIS:A;ENG:D;CHE:C;BIO:D;BAS:D"
+    },
+    {
+        "CNO":  "0317",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.R.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0318",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D;COM:F"
+    },
+    {
+        "CNO":  "0319",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.H.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:D;PHY:D;CHE:F;BAS:D"
+    },
+    {
+        "CNO":  "0320",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0321",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.A.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;KIS:B;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0322",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.A.I.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:C;GEO:D;KIS:B;ENG:D;PHY:D;CHE:C;BAS:F"
+    },
+    {
+        "CNO":  "0323",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.J.L.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:F"
+    },
+    {
+        "CNO":  "0325",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;KIS:B;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0327",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.J.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;ENG:D"
+    },
+    {
+        "CNO":  "0329",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:X;KIS:C;ENG:F;FRE:X"
+    },
+    {
+        "CNO":  "0330",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.H.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:D;KIS:A"
+    },
+    {
+        "CNO":  "0332",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0333",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.E.T.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0334",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.R.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;BAS:F"
+    },
+    {
+        "CNO":  "0336",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.L.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;COM:F"
+    },
+    {
+        "CNO":  "0337",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.F.O.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BIO:F;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0338",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:X;KIS:X"
+    },
+    {
+        "CNO":  "0339",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.J.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ENG:A;ADD:D"
+    },
+    {
+        "CNO":  "0340",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "W.S.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0341",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "W.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:A;ENG:F;LIT:D;BAS:D"
+    },
+    {
+        "CNO":  "0342",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Y.L.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0343",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Z.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;BIB:X;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0344",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.N.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;BAS:X"
+    },
+    {
+        "CNO":  "0345",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.M.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:D"
+    },
+    {
+        "CNO":  "0346",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.H.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0347",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.A.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0350",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.E.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F"
+    },
+    {
+        "CNO":  "0351",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.R.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:C;BAS:X"
+    },
+    {
+        "CNO":  "0352",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.P.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0353",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.J.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D;KIS:C"
+    },
+    {
+        "CNO":  "0354",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.S.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:A;ENG:D"
+    },
+    {
+        "CNO":  "0355",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:C;ENG:F;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0356",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.I.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0357",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.J.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:C;BAS:X"
+    },
+    {
+        "CNO":  "0358",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.L.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:X;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0359",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.C.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:D;ENG:D;LIT:X"
+    },
+    {
+        "CNO":  "0360",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0361",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.C.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F"
+    },
+    {
+        "CNO":  "0362",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.K.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0363",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C;COM:C;BOO:C"
+    },
+    {
+        "CNO":  "0364",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.E.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:B;ENG:B"
+    },
+    {
+        "CNO":  "0366",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.D.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:A"
+    },
+    {
+        "CNO":  "0367",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0368",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:B;BAS:D"
+    },
+    {
+        "CNO":  "0369",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:B"
+    },
+    {
+        "CNO":  "0370",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.S.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0371",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.S.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:D;GEO:D;KIS:B;ENG:C;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0372",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;KIS:D"
+    },
+    {
+        "CNO":  "0373",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;ENG:C"
+    },
+    {
+        "CNO":  "0375",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.E.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;KIS:B;ENG:C;LIT:X"
+    },
+    {
+        "CNO":  "0376",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.D.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0377",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.H.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:F;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0378",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.M.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0379",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.Y.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:F"
+    },
+    {
+        "CNO":  "0380",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.H.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0381",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.P.K.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0382",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.M.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:D"
+    },
+    {
+        "CNO":  "0383",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.A.E.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:F;KIS:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0384",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.S.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0386",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.M.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D;BAS:D;COM:F;BOO:D"
+    },
+    {
+        "CNO":  "0388",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.S.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;LIT:D"
+    },
+    {
+        "CNO":  "0389",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.A.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0390",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.A.L.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0391",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.W.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;GEO:D;KIS:A"
+    },
+    {
+        "CNO":  "0392",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0394",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.F.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "BAS:D;BOO:B"
+    },
+    {
+        "CNO":  "0395",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.H.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D;LIT:X"
+    },
+    {
+        "CNO":  "0396",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.O.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0397",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.I.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F"
+    },
+    {
+        "CNO":  "0398",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.S.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0399",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.B.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D;LIT:X"
+    },
+    {
+        "CNO":  "0401",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.A.I.",
+        "AGGT":  "26",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;KIS:C;ENG:C;CHE:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0402",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.B.O.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;BIO:X;BAS:F;COM:F"
+    },
+    {
+        "CNO":  "0403",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D"
+    },
+    {
+        "CNO":  "0404",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.L.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;KIS:C"
+    },
+    {
+        "CNO":  "0405",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "I.B.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0406",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "I.L.T.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;BAS:F"
+    },
+    {
+        "CNO":  "0407",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "I.M.Z.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:A;ENG:C;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0408",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.A.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0409",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.R.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0410",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.N.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0412",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.P.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D"
+    },
+    {
+        "CNO":  "0413",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0414",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.A.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0415",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:D;KIS:B;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0416",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F"
+    },
+    {
+        "CNO":  "0417",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.D.T.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:F"
+    },
+    {
+        "CNO":  "0418",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.A.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:A;ENG:D"
+    },
+    {
+        "CNO":  "0419",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0420",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "K.M.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0422",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "K.H.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;ELI:C;ENG:C"
+    },
+    {
+        "CNO":  "0423",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.J.F.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:F;ENG:X"
+    },
+    {
+        "CNO":  "0424",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "K.O.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:C;LIT:F"
+    },
+    {
+        "CNO":  "0425",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0426",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.F.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:F;ENG:F;LIT:X;BAS:F"
+    },
+    {
+        "CNO":  "0427",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.N.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:X;GEO:F;KIS:F;ENG:D"
+    },
+    {
+        "CNO":  "0428",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.K.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0430",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.R.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "KIS:X;ENG:F;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0431",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.S.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:D;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0432",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.N.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;LIT:F"
+    },
+    {
+        "CNO":  "0433",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.F.X.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;BAS:F;COM:X;BOO:X"
+    },
+    {
+        "CNO":  "0434",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.T.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ENG:C;LIT:C"
+    },
+    {
+        "CNO":  "0435",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.E.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:F;ENG:F;BOO:X"
+    },
+    {
+        "CNO":  "0436",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.R.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0437",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.I.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0439",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:F"
+    },
+    {
+        "CNO":  "0440",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0441",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.L.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0442",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.W.M.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0443",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.D.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:D;COM:D"
+    },
+    {
+        "CNO":  "0445",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.S.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:X;GEO:X;BIB:X;KIS:C;ENG:F;LIT:F;BAS:X"
+    },
+    {
+        "CNO":  "0446",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.I.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0447",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.Y.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:B"
+    },
+    {
+        "CNO":  "0448",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.K.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0449",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0450",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.C.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;CHE:F;BIO:F"
+    },
+    {
+        "CNO":  "0451",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D;LIT:F"
+    },
+    {
+        "CNO":  "0452",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.J.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D"
+    },
+    {
+        "CNO":  "0453",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.N.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:B;BAS:F"
+    },
+    {
+        "CNO":  "0454",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.J.H.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0455",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0456",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:C;KIS:A;ENG:D"
+    },
+    {
+        "CNO":  "0457",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.S.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F"
+    },
+    {
+        "CNO":  "0458",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.S.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0459",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:X;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0460",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.N.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0461",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.C.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0462",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.A.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:D;PHY:X;BAS:F"
+    },
+    {
+        "CNO":  "0463",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.B.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0464",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0465",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.M.A.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:B;KIS:D;BAS:F;COM:F;BOO:D"
+    },
+    {
+        "CNO":  "0466",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.W.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;KIS:C;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0467",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.W.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0468",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.N.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0469",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.J.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:A;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0470",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0471",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:C;FRE:X;LIT:F"
+    },
+    {
+        "CNO":  "0472",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.A.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D"
+    },
+    {
+        "CNO":  "0473",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.A.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:D;ENG:D;COM:F"
+    },
+    {
+        "CNO":  "0474",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.A.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0475",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.B.A.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D;BAS:F;COM:D;BOO:F"
+    },
+    {
+        "CNO":  "0476",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.D.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:B;ENG:F;LIT:C"
+    },
+    {
+        "CNO":  "0477",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.M.E.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:B;ENG:D;BIO:F;BAS:F;COM:D;BOO:F"
+    },
+    {
+        "CNO":  "0478",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:C;LIT:F;BAS:F"
+    },
+    {
+        "CNO":  "0479",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:B;KIS:X"
+    },
+    {
+        "CNO":  "0480",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.P.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F"
+    },
+    {
+        "CNO":  "0481",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.S.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0482",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:C;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0483",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.M.A.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:D;LIT:D;BAS:F"
+    },
+    {
+        "CNO":  "0484",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:C;ENG:D;COM:F;BOO:D"
+    },
+    {
+        "CNO":  "0486",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "U.M.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:F"
+    },
+    {
+        "CNO":  "0487",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.J.N.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F;BAS:F;BOO:F"
+    },
+    {
+        "CNO":  "0488",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0489",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.T.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:C"
+    },
+    {
+        "CNO":  "0490",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.V.S.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0492",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.A.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D"
+    },
+    {
+        "CNO":  "0493",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.J.H.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F"
+    },
+    {
+        "CNO":  "0494",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Y.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0495",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.L.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:B;ENG:F"
+    },
+    {
+        "CNO":  "0496",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0497",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.N.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:F"
+    },
+    {
+        "CNO":  "0498",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0499",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.R.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;KIS:X;BAS:C"
+    },
+    {
+        "CNO":  "0500",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.Y.F.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:C;KIS:C;CHE:C"
+    },
+    {
+        "CNO":  "0501",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.I.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0502",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.O.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0504",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.H.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F;BIO:F"
+    },
+    {
+        "CNO":  "0505",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.J.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0506",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0508",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.I.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;KIS:C;ENG:C;LIT:B"
+    },
+    {
+        "CNO":  "0509",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.M.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0510",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;COM:D"
+    },
+    {
+        "CNO":  "0511",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0512",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.J.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:F;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0513",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.K.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:A;ENG:C"
+    },
+    {
+        "CNO":  "0514",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.J.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ELI:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0515",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.T.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0516",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0518",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A. .N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0519",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.C.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "KIS:F;ENG:D"
+    },
+    {
+        "CNO":  "0521",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.F.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:X;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0522",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0523",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0524",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:D;ENG:C;BAS:X;ADD:F"
+    },
+    {
+        "CNO":  "0525",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.S.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0526",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.A.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:C;ENG:D;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0527",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.A.A.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0528",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.K.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:D;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0529",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.R.D.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:X"
+    },
+    {
+        "CNO":  "0530",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0531",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.F.A.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0532",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0533",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.R.T.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;KIS:B;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0534",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.M.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;BAS:D"
+    },
+    {
+        "CNO":  "0535",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.L.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0536",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.S.M.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;PHY:D;CHE:D;BAS:F"
+    },
+    {
+        "CNO":  "0538",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.H.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;KIS:C;ENG:D;CHE:F;BAS:F"
+    },
+    {
+        "CNO":  "0539",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.K.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:F;KIS:X;ENG:F;BAS:X;COM:D;BOO:C"
+    },
+    {
+        "CNO":  "0540",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.R.T.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0541",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.E.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:X;KIS:F"
+    },
+    {
+        "CNO":  "0542",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.A.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:F;BAS:F;COM:D;BOO:C"
+    },
+    {
+        "CNO":  "0543",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.E.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:D;ENG:D"
+    },
+    {
+        "CNO":  "0544",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.B.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:D;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0545",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:D;ENG:F;PHY:X;BAS:F"
+    },
+    {
+        "CNO":  "0546",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.S.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0547",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.N.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:F;LIT:X"
+    },
+    {
+        "CNO":  "0548",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.R.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:X;ENG:X;PHY:X;CHE:D;BIO:X;BAS:D;ADD:D"
+    },
+    {
+        "CNO":  "0549",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.C.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;KIS:B;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0550",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.G.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:C;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0551",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;KIS:C"
+    },
+    {
+        "CNO":  "0552",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:F;GEO:C;KIS:X"
+    },
+    {
+        "CNO":  "0553",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;KIS:A;ENG:C"
+    },
+    {
+        "CNO":  "0554",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.N.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:D"
+    },
+    {
+        "CNO":  "0555",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.D.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D"
+    },
+    {
+        "CNO":  "0556",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.M.U.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0557",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.L.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:D;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0558",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.D.E.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;BIB:D;KIS:C;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0559",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.H.B.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:X;KIS:C;PHY:D;BAS:D"
+    },
+    {
+        "CNO":  "0560",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.L.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:C;LIT:C;BAS:C"
+    },
+    {
+        "CNO":  "0562",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.D.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:X;KIS:D;PHY:D;ADD:D"
+    },
+    {
+        "CNO":  "0563",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.S.A.",
+        "AGGT":  "0",
+        "DIV":  "*W*",
+        "DETAILED-SUBJECTS":  "CIV:I;HIS:I;GEO:I;KIS:I;ENG:I"
+    },
+    {
+        "CNO":  "0564",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.G.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;KIS:B;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0565",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.M.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0566",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.J.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:X;ENG:F;CHE:F;BIO:F;BAS:X"
+    },
+    {
+        "CNO":  "0567",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:D;BAS:F"
+    },
+    {
+        "CNO":  "0568",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.M.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:X"
+    },
+    {
+        "CNO":  "0569",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.G.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:B;ENG:D;COM:C"
+    },
+    {
+        "CNO":  "0570",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.K.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;KIS:B;ENG:B;BAS:F"
+    },
+    {
+        "CNO":  "0572",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.B.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:B;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0573",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.S.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:D;CHE:D;BAS:D"
+    },
+    {
+        "CNO":  "0574",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.I.L.",
+        "AGGT":  "34",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;LIT:X;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0575",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.T.Q.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:X;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0576",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:X;GEO:F;KIS:F;ENG:X;PHY:X;BAS:X;ADD:D"
+    },
+    {
+        "CNO":  "0577",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:D;ENG:C;BIO:F;BAS:F;ADD:F"
+    },
+    {
+        "CNO":  "0578",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0579",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.K.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ELI:F"
+    },
+    {
+        "CNO":  "0580",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0581",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:X;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0582",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.R.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:D;ENG:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0584",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.Y.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0585",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.B.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:F;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0586",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.M.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:F;KIS:D"
+    },
+    {
+        "CNO":  "0587",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.O.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0588",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D"
+    },
+    {
+        "CNO":  "0589",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.T.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:X;GEO:F;KIS:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0591",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:D;PHY:F;CHE:D;BAS:F"
+    },
+    {
+        "CNO":  "0592",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.R.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:D;ENG:F;PHY:D;CHE:C;ADD:F"
+    },
+    {
+        "CNO":  "0593",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.J.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0594",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.L.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;PHY:F;CHE:D;BAS:F"
+    },
+    {
+        "CNO":  "0595",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:B"
+    },
+    {
+        "CNO":  "0596",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0597",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.C.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D"
+    },
+    {
+        "CNO":  "0598",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:D;GEO:F;KIS:D;BAS:F"
+    },
+    {
+        "CNO":  "0599",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;ENG:F;PHY:D;CHE:D;BAS:F"
+    },
+    {
+        "CNO":  "0600",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.Y.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0601",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.S.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:D;BAS:F"
+    },
+    {
+        "CNO":  "0602",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.K.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:F;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0603",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.W.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "BAS:F;COM:C"
+    },
+    {
+        "CNO":  "0604",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.J.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0605",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.G.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:D"
+    },
+    {
+        "CNO":  "0606",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;KIS:C;ENG:D;COM:D"
+    },
+    {
+        "CNO":  "0607",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.A.X.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F"
+    },
+    {
+        "CNO":  "0608",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;ENG:X;BAS:D;ADD:F"
+    },
+    {
+        "CNO":  "0610",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:C;ENG:D;COM:D"
+    },
+    {
+        "CNO":  "0611",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:X;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0612",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.S.M.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:A;ENG:D"
+    },
+    {
+        "CNO":  "0613",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.G.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:D"
+    },
+    {
+        "CNO":  "0614",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.T.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:F;KIS:C;ENG:F;LIT:D"
+    },
+    {
+        "CNO":  "0615",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.G.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;COM:F"
+    },
+    {
+        "CNO":  "0616",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:C;GEO:D;BAS:F"
+    },
+    {
+        "CNO":  "0618",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;BIB:F;KIS:B;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0619",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.R.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;ENG:D;LIT:B"
+    },
+    {
+        "CNO":  "0620",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;ENG:D"
+    },
+    {
+        "CNO":  "0621",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;KIS:D;ENG:X"
+    },
+    {
+        "CNO":  "0622",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;GEO:D;BAS:C"
+    },
+    {
+        "CNO":  "0623",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:F;KIS:X;ENG:X;BIO:X;BAS:D"
+    },
+    {
+        "CNO":  "0625",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.I.",
+        "AGGT":  "0",
+        "DIV":  "*T",
+        "DETAILED-SUBJECTS":  "CIV:I;HIS:I;GEO:I;ELI:I;KIS:I;ENG:I;ARA:I;BIO:I"
+    },
+    {
+        "CNO":  "0626",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.A.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0627",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.B.Z.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;KIS:D;BAS:F"
+    },
+    {
+        "CNO":  "0628",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.H.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0629",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.B.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:D;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0630",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0631",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.M.R.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:F"
+    },
+    {
+        "CNO":  "0632",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:B;ENG:B;BAS:F"
+    },
+    {
+        "CNO":  "0633",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D"
+    },
+    {
+        "CNO":  "0634",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "O.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:C;BAS:D"
+    },
+    {
+        "CNO":  "0636",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.A.W.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ENG:C;BAS:X"
+    },
+    {
+        "CNO":  "0637",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0638",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.P.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KIS:D;BAS:F"
+    },
+    {
+        "CNO":  "0639",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.R.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;BIB:X;ENG:C"
+    },
+    {
+        "CNO":  "0640",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.K.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D"
+    },
+    {
+        "CNO":  "0641",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.H.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:F;KIS:B;ENG:B"
+    },
+    {
+        "CNO":  "0642",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.M.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0643",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.K.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0644",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0645",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.K.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C;ENG:C;BAS:D"
+    },
+    {
+        "CNO":  "0647",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.M.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:C"
+    },
+    {
+        "CNO":  "0648",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;ENG:B;BAS:F;COM:X"
+    },
+    {
+        "CNO":  "0649",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;KIS:D;ENG:F;BIO:X"
+    },
+    {
+        "CNO":  "0650",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:B;GEO:F;BIB:F;ENG:D"
+    },
+    {
+        "CNO":  "0651",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0652",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.K.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0653",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.K.A.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:F;BAS:F;COM:D;BOO:F"
+    },
+    {
+        "CNO":  "0654",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.M.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;CHE:D;BIO:F"
+    },
+    {
+        "CNO":  "0655",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;ENG:X;BAS:F;COM:C;BOO:D"
+    },
+    {
+        "CNO":  "0656",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.D.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:C;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0657",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.E.L.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;ENG:C;PHY:D;BIO:F"
+    },
+    {
+        "CNO":  "0658",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D;BAS:F;BOO:D"
+    },
+    {
+        "CNO":  "0659",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Y.J.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:X;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0660",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Z.J.M.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;KIS:C;ENG:A;BAS:D"
+    },
+    {
+        "CNO":  "0661",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "B.C.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0662",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0663",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.N.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:C;FRE:X"
+    },
+    {
+        "CNO":  "0664",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.D.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0665",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.N.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:F;BAS:X"
+    },
+    {
+        "CNO":  "0667",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0668",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0669",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.F.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:C;ENG:X"
+    },
+    {
+        "CNO":  "0670",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.L.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0671",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;KIS:X;ENG:D;LIT:D;BAS:X"
+    },
+    {
+        "CNO":  "0673",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.F.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:B;CHE:X;BAS:X"
+    },
+    {
+        "CNO":  "0674",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.E.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0675",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.J.H.",
+        "AGGT":  "22",
+        "DIV":  "III",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;KIS:A;ENG:D;BAS:D;COM:B;BOO:C"
+    },
+    {
+        "CNO":  "0676",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0677",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.B.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;BAS:F"
+    },
+    {
+        "CNO":  "0678",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.Y.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0679",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.W.M.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F"
+    },
+    {
+        "CNO":  "0680",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0681",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ENG:B;FRE:D;LIT:D"
+    },
+    {
+        "CNO":  "0682",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.Y.I.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:C;KIS:F;ENG:F;LIT:F"
+    },
+    {
+        "CNO":  "0683",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:X;BIB:X;KIS:B;ENG:D;LIT:X"
+    },
+    {
+        "CNO":  "0684",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0685",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "D.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ELI:X;KIS:D;ENG:D;CHE:X;BIO:X"
+    },
+    {
+        "CNO":  "0686",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.A.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F;LIT:D"
+    },
+    {
+        "CNO":  "0687",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.A.U.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0688",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.A.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0690",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.J.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;LIT:C"
+    },
+    {
+        "CNO":  "0691",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "E.L.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;BIB:X;ENG:F;LIT:D;BAS:F"
+    },
+    {
+        "CNO":  "0693",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "O.T.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;KIS:B;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0694",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.A.Y.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0695",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0696",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:X;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0697",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "F.N.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0698",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "G.G.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0700",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.B.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:X;ELI:C;KIS:A"
+    },
+    {
+        "CNO":  "0701",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.A.I.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:A;ENG:C;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0702",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.J.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:F;KIS:F;ENG:X;BAS:X;COM:X;BOO:X"
+    },
+    {
+        "CNO":  "0703",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.S.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;KIS:C;ENG:D;COM:F"
+    },
+    {
+        "CNO":  "0705",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:C;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0706",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "H.G.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:D;BIO:X"
+    },
+    {
+        "CNO":  "0707",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.N.E.",
+        "AGGT":  "35",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:F;ENG:F;CHE:X;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0708",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:X;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0709",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0710",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0711",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.O.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0712",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:F;LIT:F"
+    },
+    {
+        "CNO":  "0713",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.P.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:D;ENG:D"
+    },
+    {
+        "CNO":  "0714",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.U.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0715",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.J.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;ENG:B;LIT:B"
+    },
+    {
+        "CNO":  "0716",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.B.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;BAS:F"
+    },
+    {
+        "CNO":  "0717",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.M.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;BAS:F"
+    },
+    {
+        "CNO":  "0718",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "K.F.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:C;LIT:C;BAS:D"
+    },
+    {
+        "CNO":  "0720",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.B.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;BAS:F"
+    },
+    {
+        "CNO":  "0721",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.E.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:B;ENG:D"
+    },
+    {
+        "CNO":  "0722",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.E.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0723",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.D.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0724",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.S.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0725",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "L.K.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:X;ENG:F;LIT:C"
+    },
+    {
+        "CNO":  "0726",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "P.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;ENG:C"
+    },
+    {
+        "CNO":  "0727",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.K.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0728",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.J.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;ENG:B"
+    },
+    {
+        "CNO":  "0729",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.T.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;FRE:F;LIT:B"
+    },
+    {
+        "CNO":  "0730",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:X;GEO:F;ENG:D;BAS:F;COM:F;BOO:D"
+    },
+    {
+        "CNO":  "0732",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.L.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:B"
+    },
+    {
+        "CNO":  "0733",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.J.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0734",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;KIS:D;ENG:B"
+    },
+    {
+        "CNO":  "0735",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:B"
+    },
+    {
+        "CNO":  "0736",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.G.T.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0737",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.O.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:B;COM:X"
+    },
+    {
+        "CNO":  "0738",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.B.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;ENG:B"
+    },
+    {
+        "CNO":  "0739",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.T.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C"
+    },
+    {
+        "CNO":  "0740",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.W.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:A;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0741",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;KIS:A;ENG:C"
+    },
+    {
+        "CNO":  "0742",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.J.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0743",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.K.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0744",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "N.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:D;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0745",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0746",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0748",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "R.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;KIS:C"
+    },
+    {
+        "CNO":  "0749",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.K.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;BAS:F"
+    },
+    {
+        "CNO":  "0750",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;KIS:C"
+    },
+    {
+        "CNO":  "0751",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.J.A.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:B;ENG:F;BAS:F;BOO:D"
+    },
+    {
+        "CNO":  "0752",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.J.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0753",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;ENG:C;LIT:X"
+    },
+    {
+        "CNO":  "0754",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.S.A.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:F;BIB:X;KIS:C;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0755",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:B"
+    },
+    {
+        "CNO":  "0756",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.I.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;ENG:B;BAS:F"
+    },
+    {
+        "CNO":  "0757",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.S.C.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0758",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.R.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:X;KIS:D;ENG:X;LIT:X;BIO:X"
+    },
+    {
+        "CNO":  "0759",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "S.L.T.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;BAS:F"
+    },
+    {
+        "CNO":  "0760",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.A.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:C;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0761",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.M.E.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;ENG:D;BAS:F;COM:F;BOO:X"
+    },
+    {
+        "CNO":  "0762",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.J.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0763",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.D.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;ENG:F;COM:F"
+    },
+    {
+        "CNO":  "0764",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "T.T.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0765",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "U.J.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:C"
+    },
+    {
+        "CNO":  "0766",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Y.N.A.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F;BAS:F;COM:D;BOO:D"
+    },
+    {
+        "CNO":  "0767",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.A.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:F;KIS:B;BAS:F"
+    },
+    {
+        "CNO":  "0768",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "Z.J.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0769",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "V.N.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;ENG:D;LIT:C"
+    },
+    {
+        "CNO":  "0770",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "29",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;BIB:D;KIS:D;ENG:D;BAS:F;COM:F"
+    },
+    {
+        "CNO":  "0771",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.A.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0772",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.S.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:X;KIS:C;BAS:F;COM:C"
+    },
+    {
+        "CNO":  "0773",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0774",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.A.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0775",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:B;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0776",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "B.D.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C;ENG:D"
+    },
+    {
+        "CNO":  "0777",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.J.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D"
+    },
+    {
+        "CNO":  "0778",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "C.J.S.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:C;ENG:D;BIO:F;BAS:F;COM:C"
+    },
+    {
+        "CNO":  "0779",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.J.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;BAS:F"
+    },
+    {
+        "CNO":  "0780",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.O.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:C;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0781",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.K.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:D;PHY:F;BAS:D"
+    },
+    {
+        "CNO":  "0782",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "C.I.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:F;KIS:A;ENG:D"
+    },
+    {
+        "CNO":  "0783",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.N.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "PHY:D;ADD:D"
+    },
+    {
+        "CNO":  "0784",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "D.M.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:D;ENG:C;COM:D"
+    },
+    {
+        "CNO":  "0785",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.H.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:F;ENG:F"
+    },
+    {
+        "CNO":  "0786",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.M.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:D;ENG:D"
+    },
+    {
+        "CNO":  "0787",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0788",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.D.U.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0789",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.J.Y.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:D;KIS:C;ENG:F;PHY:D;BAS:D"
+    },
+    {
+        "CNO":  "0790",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "E.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0793",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.R.I.",
+        "AGGT":  "32",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;BIB:F;KIS:C;ENG:D;BIO:F;BAS:F"
+    },
+    {
+        "CNO":  "0795",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0796",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "F.P.R.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:F;PHY:F;BAS:F"
+    },
+    {
+        "CNO":  "0797",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;ENG:C;BIO:X;BAS:F"
+    },
+    {
+        "CNO":  "0798",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "A.M.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:D;BIO:X;BAS:X"
+    },
+    {
+        "CNO":  "0799",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.G.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0800",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.P.R.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:X;KIS:F;ENG:D;PHY:X;CHE:D;BAS:D"
+    },
+    {
+        "CNO":  "0802",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.F.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;GEO:D;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0803",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.R.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:B"
+    },
+    {
+        "CNO":  "0804",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.Y.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:B;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0805",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.A.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "PHY:D;CHE:C;BAS:D"
+    },
+    {
+        "CNO":  "0806",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.I.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:X;KIS:X;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0807",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;COM:D"
+    },
+    {
+        "CNO":  "0808",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.R.I.",
+        "AGGT":  "30",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:D;ENG:D;BAS:F;COM:D;BOO:F"
+    },
+    {
+        "CNO":  "0809",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.J.E.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0810",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.V.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;KIS:C;ENG:C"
+    },
+    {
+        "CNO":  "0811",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "H.P.R.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:A;BAS:F"
+    },
+    {
+        "CNO":  "0812",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:B;KIS:B;ENG:C;LIT:B"
+    },
+    {
+        "CNO":  "0813",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.K.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:C;GEO:D;ENG:C;CHE:C"
+    },
+    {
+        "CNO":  "0814",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "I.I.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0815",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0816",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.P.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:D;ENG:C;LIT:D"
+    },
+    {
+        "CNO":  "0817",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.D.N.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:F;KIS:D;ENG:F;BIO:X;BAS:X"
+    },
+    {
+        "CNO":  "0818",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.S.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;GEO:D;KIS:C;ENG:D;BIO:F"
+    },
+    {
+        "CNO":  "0819",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.B.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;KIS:D;ENG:D;LIT:B"
+    },
+    {
+        "CNO":  "0820",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.M.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:X;GEO:X;KIS:X;ENG:X;BAS:X"
+    },
+    {
+        "CNO":  "0821",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.T.U.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0822",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "K.B.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;BAS:D"
+    },
+    {
+        "CNO":  "0823",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.L.A.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F"
+    },
+    {
+        "CNO":  "0824",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.G.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;ENG:D"
+    },
+    {
+        "CNO":  "0825",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "G.G.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:B;ENG:D;LIT:X;BAS:F"
+    },
+    {
+        "CNO":  "0826",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:D;KIS:B;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0827",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.J.T.",
+        "AGGT":  "31",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:C;BIO:D;BAS:F"
+    },
+    {
+        "CNO":  "0828",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.K.H.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "KIS:B;ENG:D;LIT:C;CHE:D;BIO:D"
+    },
+    {
+        "CNO":  "0829",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "L.N.T.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;KIS:B;COM:D"
+    },
+    {
+        "CNO":  "0830",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:C;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0831",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.K.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:X;ENG:D"
+    },
+    {
+        "CNO":  "0832",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.H.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;BIO:F"
+    },
+    {
+        "CNO":  "0833",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.M.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:X;GEO:F;KIS:D;ENG:D"
+    },
+    {
+        "CNO":  "0834",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.N.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;LIT:C"
+    },
+    {
+        "CNO":  "0835",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.I.O.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:C;ENG:F;BIO:F;BAS:F;COM:X"
+    },
+    {
+        "CNO":  "0836",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.H.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:C;GEO:F;ENG:F"
+    },
+    {
+        "CNO":  "0837",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.S.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:B;BAS:F"
+    },
+    {
+        "CNO":  "0838",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.W.D.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0839",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.Y.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:B;HIS:B;GEO:D;KIS:D"
+    },
+    {
+        "CNO":  "0840",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.K.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;KIS:B"
+    },
+    {
+        "CNO":  "0841",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "N.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "GEO:D;ENG:F;BAS:D"
+    },
+    {
+        "CNO":  "0842",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.M.W.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:X;HIS:F;GEO:F;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0843",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.G.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:B;GEO:F;ENG:D"
+    },
+    {
+        "CNO":  "0844",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "P.C.T.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F"
+    },
+    {
+        "CNO":  "0845",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.J.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:X;BAS:X"
+    },
+    {
+        "CNO":  "0846",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.A.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:C;GEO:F;BAS:X"
+    },
+    {
+        "CNO":  "0847",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.C.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F;KIS:C;ENG:D;BAS:F"
+    },
+    {
+        "CNO":  "0848",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.C.S.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F"
+    },
+    {
+        "CNO":  "0849",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.C.N.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;KIS:B;ENG:C;BAS:F"
+    },
+    {
+        "CNO":  "0850",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "R.S.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CHE:C;BAS:F"
+    },
+    {
+        "CNO":  "0851",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "J.C.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "BAS:F"
+    },
+    {
+        "CNO":  "0852",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;GEO:X;BIB:C;ADD:X"
+    },
+    {
+        "CNO":  "0853",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.M.O.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:C;GEO:F;KIS:C;ENG:X;BIO:F;BAS:X"
+    },
+    {
+        "CNO":  "0854",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.N.A.",
+        "AGGT":  "28",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:F;KIS:C;ENG:D;LIT:D;BIO:F;BAS:F;COM:D;BOO:F"
+    },
+    {
+        "CNO":  "0855",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.M.O.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "GEO:F;ENG:X"
+    },
+    {
+        "CNO":  "0856",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.R.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;KIS:D;ENG:D;MOT:F"
+    },
+    {
+        "CNO":  "0857",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "S.C.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;GEO:F;BIB:D;ENG:D"
+    },
+    {
+        "CNO":  "0858",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.F.K.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:D;GEO:F;KIS:C;ENG:D;LIT:D"
+    },
+    {
+        "CNO":  "0859",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "T.M.E.",
+        "AGGT":  "27",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:C;HIS:D;GEO:F;KIS:B;ENG:C;BAS:F;COM:F;BOO:F"
+    },
+    {
+        "CNO":  "0860",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.N.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:D;GEO:C;ENG:D;LIT:C"
+    },
+    {
+        "CNO":  "0862",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.N.I.",
+        "AGGT":  "0",
+        "DIV":  "FLD",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;GEO:F"
+    },
+    {
+        "CNO":  "0863",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "V.R.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "BAS:C"
+    },
+    {
+        "CNO":  "0864",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "W.P.I.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F;BAS:F;COM:X;BOO:D"
+    },
+    {
+        "CNO":  "0865",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Z.C.T.",
+        "AGGT":  "33",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:F;HIS:F;GEO:F;KIS:D;ENG:F;CHE:D;BAS:F"
+    },
+    {
+        "CNO":  "0866",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Z.M.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:F;KIS:C;ENG:F"
+    },
+    {
+        "CNO":  "0867",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Z.G.E.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:D;GEO:F;KIS:B;ENG:C"
+    },
+    {
+        "CNO":  "0868",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "Z.A.S.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "CIV:D;HIS:F;ENG:D"
+    },
+    {
+        "CNO":  "0869",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "U.I.O.",
+        "AGGT":  "0",
+        "DIV":  "*T",
+        "DETAILED-SUBJECTS":  "CIV:I;HIS:I;GEO:I;ENG:I"
+    },
+    {
+        "CNO":  "0870",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "J.A.Y.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "ENG:C;BAS:D;ADD:D"
+    },
+    {
+        "CNO":  "0871",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "M.H.S.",
+        "AGGT":  "0",
+        "DIV":  "*T",
+        "DETAILED-SUBJECTS":  "CIV:I;HIS:I;GEO:I;BAS:I"
+    },
+    {
+        "CNO":  "0873",
+        "SEX":  "M",
+        "CANDIDATE-NAME":  "A.S.A.",
+        "AGGT":  "0",
+        "DIV":  "IV",
+        "DETAILED-SUBJECTS":  "HIS:F;GEO:D;ENG:D;BAS:D"
+    },
+    {
+        "CNO":  "0874",
+        "SEX":  "F",
+        "CANDIDATE-NAME":  "M.R.O.",
+        "AGGT":  "0",
+        "DIV":  "*T",
+        "DETAILED-SUBJECTS":  "HIS:I;GEO:I"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "CNO":  "P4022/0001",
+        "SEX":  "F",
+        "GPA":  "1.1",
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:E;GEO:D;KISW:D;ENGL:C;CHEM:D;BIO:C;B-MATH:E"
+    },
+    {
+        "CNO":  "P4022/0002",
+        "SEX":  "M",
+        "GPA":  "2.1",
+        "CLASS":  "CREDIT",
+        "DETAILED-SUBJECTS":  "CIV:D;HIST:C;GEO:C;KISW:B;ENGL:B;CHEM:D;BIO:B;B-MATH:E"
+    },
+    {
+        "CNO":  "P4022/0003",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:E;HIST:C;GEO:E;ENGL:D;BIO:E;B-MATH:F"
+    },
+    {
+        "CNO":  "P4022/0004",
+        "SEX":  "M",
+        "GPA":  0,
+        "CLASS":  "PASS",
+        "DETAILED-SUBJECTS":  "CIV:F;HIST:E;GEO:E;KISW:D;ENGL:D"
+    }
+]
