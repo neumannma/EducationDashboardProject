@@ -5,11 +5,14 @@ $(window).resize(function()
     $('#map-div').highcharts().setSize(width, height, doAnimation = false);
 });
 
-function reload()
+function load()
 {
 	// get value of data selection list
-	var listVal = document.getElementById('list').value;
-	$.getJSON(listVal, draw_map);
+	var year = document.getElementById('list-year').value;
+    var data = document.getElementById('list-data').value;
+    var gender = document.getElementById('list-gender').value;
+    var filter = document.getElementById('list-filter').value;
+	$.getJSON("query.php?year=" + year + "&data=" + data + "&gender=" + gender + "&filter=" + filter, draw_map);
 }
 
 function draw_map(source)
@@ -68,7 +71,5 @@ function draw_map(source)
 
 $(function()
 {
-	// fetch data and display map
-    var listVal = document.getElementById('list').value;
-	$.getJSON(listVal, draw_map);
+    load();
 });
