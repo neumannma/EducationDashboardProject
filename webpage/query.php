@@ -9,12 +9,12 @@
 	$database = $config["database"];
 
 	$dict_select = array();
-	$dict_select["pass"] 	= "COUNT( CASE WHEN (division = 'I' OR division = 'II' OR division = 'III' OR division = 'IV') THEN 1 END ) / COUNT(*) AS 'value'";
-	$dict_select["top3div"] = "COUNT( CASE WHEN (division = 'I' OR division = 'II' OR division = 'III') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["pass"] 	= "COUNT( CASE WHEN (division = 'I' OR division = 'distinction' OR division = 'II' OR division = 'merit' OR division = 'III' OR division = 'credit' OR division = 'IV' OR division = 'pass') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["top3div"] = "COUNT( CASE WHEN (division = 'I' OR division = 'distinction' OR division = 'II' OR division = 'merit' OR division = 'III' OR division = 'credit') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_where = array();
 	$dict_where["male"] 			= "gender = 'M'";
 	$dict_where["female"] 			= "gender = 'F'";
-	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'II' OR division = 'III' OR division = 'IV' OR (division = '0' OR division = 'FLD')";
+	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'distinction' OR division = 'II' OR division = 'merit' OR division = 'III' OR division = 'credit' OR division = 'IV' OR division = 'pass' OR (division = '0' OR division = 'FLD' OR division = 'FAIL')";
 	
 	// create connection to database
 	$connection = new mysqli($hostname, $username, $password, $database);
@@ -26,7 +26,7 @@
 	// send SQL query
 	$query = new amartinSQL();
 	$query->select("`hc-key`", $dict_select[$_REQUEST["data"]]);
-	$query->from( amartinSQL::escape($_REQUEST["year"]) );
+	$query->from(amartinSQL::escape($_REQUEST["year"]));
 	if (!empty($_REQUEST["gender"]))
 		$query->where($dict_where[$_REQUEST["gender"]]);
 	if (!empty($_REQUEST["filter"]))
@@ -44,13 +44,23 @@
 		$data[] = $row;
 	
 	// calculate min and max
-	$min = INF;
-	$max = 0;
-	foreach ($data as $value)
-	{
-		$max = $max > $value["value"] ? $max : $value["value"];
-		$min = $min < $value["value"] ? $min : $value["value"];
-	}
+	$rangequery =
+	"
+		SELECT
+			MIN( value ) as 'min',
+			MAX( value ) as 'max'
+		FROM
+		(
+			SELECT " . $dict_select[$_REQUEST["data"]] . "
+			FROM " . amartinSQL::escape($_REQUEST["year"]) . "
+			GROUP BY `hc-key`
+		) count;
+	";
+	$result = $connection->query($rangequery);
+	if (!$result) die ("SQL error: failed to calculate range");
+	$result = $result->fetch_assoc();
+	$min = $result["min"];
+	$max = $result["max"];
 	
 	// create object with 
 	$pre_json = array
