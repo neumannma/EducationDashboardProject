@@ -1,6 +1,6 @@
 $(window).resize(function()
 {
-    var height = $('#wrapper').height() - $('#list-div').height();
+    var height = $('#wrapper').height() - $('#input').height();
     var width = $('#wrapper').width();
     $('#map').highcharts().setSize(width, height, doAnimation = false);
 });
