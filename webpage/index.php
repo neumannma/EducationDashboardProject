@@ -43,33 +43,41 @@
 	</head>
 	<body>
 		<div id="wrapper">
-			<div id="map-div"></div>
-			<div id="list-div">
-				year: 
-				<select id="list-year">
-					<?php
-						foreach ($data as $value)
-							echo "<option value=\"" . $value ."\">" . $value . "</option>\n";
-					?>
-				</select>
-				data: 
-				<select id="list-data">
-					<option value="pass">Pass Rate</option>
-					<option value="top3div">Top 3 Divisions Rate</option>
-				</select>
-				gender: 
-				<select id="list-gender">
-					<option value=""> - </option>
-					<option value="male">Male</option>
-					<option value="female">Female</option>
-				</select>
-				filter: 
-				<select id="list-filter">
-					<option value=""> - </option>
-					<option value="exclude-absent">Exclude Absentees</option>
-				</select>
+			<div id="map"></div>
+			<div id="input">
+				<div class="list">
+					<p class="label">Year</p>
+					<select id="list-year">
+						<?php
+							foreach ($data as $value)
+								echo "<option value=\"" . $value ."\">" . $value . "</option>\n";
+						?>
+					</select>
+				</div>
+				<div class="list">
+					<p class="label">Data</p>
+					<select id="list-data">
+						<option value="pass">Pass Rate</option>
+						<option value="top3div">Top 3 Divisions Rate</option>
+					</select>
+				</div>
+				<div class="list">
+					<p class="label">Gender</p>
+					<select id="list-gender">
+						<option value=""> - </option>
+						<option value="male">Male</option>
+						<option value="female">Female</option>
+					</select>
+				</div>
+				<div class="list">
+					<p class="label">Filter</p>
+					<select id="list-filter">
+						<option value=""> - </option>
+						<option value="exclude-absent">Exclude Absentees</option>
+					</select>
+				</div>
 				<button onClick="load()">Submit</button>
-			</div>
-		</div>
+			</div>	<!-- input -->
+		</div>	<!-- wrapper -->
 	</body>
 </html>

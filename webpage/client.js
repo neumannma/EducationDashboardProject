@@ -2,7 +2,7 @@ $(window).resize(function()
 {
     var height = $('#wrapper').height() - $('#list-div').height();
     var width = $('#wrapper').width();
-    $('#map-div').highcharts().setSize(width, height, doAnimation = false);
+    $('#map').highcharts().setSize(width, height, doAnimation = false);
 });
 
 function load()
@@ -70,7 +70,7 @@ function draw_map(source)
     }
 
 	// Initiate the chart
-    $('#map-div').highcharts('Map', properties);
+    $('#map').highcharts('Map', properties);
 }
 
 $(function()
