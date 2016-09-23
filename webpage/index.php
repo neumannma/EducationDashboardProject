@@ -45,21 +45,25 @@
 		<div id="wrapper">
 			<div id="map-div"></div>
 			<div id="list-div">
+				year: 
 				<select id="list-year">
 					<?php
 						foreach ($data as $value)
 							echo "<option value=\"" . $value ."\">" . $value . "</option>\n";
 					?>
 				</select>
+				data: 
 				<select id="list-data">
 					<option value="pass">Pass Rate</option>
 					<option value="top3div">Top 3 Divisions Rate</option>
 				</select>
+				gender: 
 				<select id="list-gender">
 					<option value=""> - </option>
 					<option value="male">Male</option>
 					<option value="female">Female</option>
 				</select>
+				filter: 
 				<select id="list-filter">
 					<option value=""> - </option>
 					<option value="exclude-absent">Exclude Absentees</option>

@@ -17,9 +17,9 @@ function load()
 
 function draw_map(source)
 {
-    var text_subtitle = $('#list-year option:selected').text() + ' - ' + 
-                        $('#list-data option:selected').text() + ' - ' + 
-                        $('#list-gender option:selected').text() + ' - ' + 
+    var text_subtitle = $('#list-year option:selected').text() + ' | ' + 
+                        $('#list-data option:selected').text() + ' | ' + 
+                        $('#list-gender option:selected').text() + ' | ' + 
                         $('#list-filter option:selected').text();
 	var properties = 
 	{
