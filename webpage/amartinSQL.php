@@ -80,10 +80,10 @@
         }
 
         // --INTERFACE--
-        public function select(...$select)      { $this->select = $select;      }
-        public function from(...$from)          { $this->from = $from;          }
-        public function where(...$where)        { $this->where[] = $where;      }
-        public function group_by(...$group_by)  { $this->group_by = $group_by;  }
+        public function select($select)      { $this->select = $select;      }
+        public function from($from)          { $this->from = $from;          }
+        public function where($where)        { $this->where[] = $where;      }
+        public function group_by($group_by)  { $this->group_by = $group_by;  }
 
         public function clear() { unset($select, $from, $where, $group_by); }
 

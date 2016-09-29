@@ -25,13 +25,13 @@
 	
 	// send SQL query
 	$query = new amartinSQL();
-	$query->select("`hc-key`", $dict_select[$_REQUEST["data"]]);
-	$query->from(amartinSQL::escape($_REQUEST["year"]));
+	$query->select( array("`hc-key`", $dict_select[$_REQUEST["data"]]) );
+	$query->from( array( amartinSQL::escape($_REQUEST["year"]) ) );
 	if (!empty($_REQUEST["gender"]))
-		$query->where($dict_where[$_REQUEST["gender"]]);
+		$query->where( array($dict_where[$_REQUEST["gender"]]) );
 	if (!empty($_REQUEST["filter"]))
-		$query->where($dict_where[$_REQUEST["filter"]]);
-	$query->group_by("`hc-key`");
+		$query->where( array($dict_where[$_REQUEST["filter"]]) );
+	$query->group_by( array("`hc-key`") );
 	$result = $connection->query($query->getQuery());
 
 	// check result
