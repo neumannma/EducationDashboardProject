@@ -1,20 +1,18 @@
 <?php
 	require 'amartinSQL.php';
-
 	// fetch settings from INI file
 	$config = parse_ini_file("resources/config.ini");
 	$hostname = $config["hostname"];
 	$username = $config["username"];
 	$password = $config["password"];
 	$database = $config["database"];
-
 	$dict_select = array();
-	$dict_select["pass"] 	= "COUNT( CASE WHEN (division = 'I' OR division = 'distinction' OR division = 'II' OR division = 'merit' OR division = 'III' OR division = 'credit' OR division = 'IV' OR division = 'pass') THEN 1 END ) / COUNT(*) AS 'value'";
-	$dict_select["top3div"] = "COUNT( CASE WHEN (division = 'I' OR division = 'distinction' OR division = 'II' OR division = 'merit' OR division = 'III' OR division = 'credit') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["pass"] 	= "COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["top3div"] = "COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_where = array();
 	$dict_where["male"] 			= "gender = 'M'";
 	$dict_where["female"] 			= "gender = 'F'";
-	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'distinction' OR division = 'II' OR division = 'merit' OR division = 'III' OR division = 'credit' OR division = 'IV' OR division = 'pass' OR (division = '0' OR division = 'FLD' OR division = 'FAIL')";
+	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS' OR (division = '0' OR division = 'FLD' OR division = 'FAIL')";
 	
 	// create connection to database
 	$connection = new mysqli($hostname, $username, $password, $database);
@@ -33,7 +31,6 @@
 		$query->where( array($dict_where[$_REQUEST["filter"]]) );
 	$query->group_by( array("`hc-key`") );
 	$result = $connection->query($query->getQuery());
-
 	// check result
 	if (!$result)
 		die("SQL error: bad query");
