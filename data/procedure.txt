@@ -11,13 +11,13 @@
 	* creates a SQL table for each file
 	
 - use SQL scripts to transform the tables into usable data and store them in a dedicated database
-	* 	CREATE TABLE 20xx AS
+	* 	CREATE TABLE newmap.`2009` AS
 		SELECT
 			hc_key as 'hc-key',
 			gender,
 			`DIV` as 'division'
 		FROM
-			cseeResults2009 JOIN SchoolsToRegion
+			cseeResults2009 JOIN necta_region_key
 		ON
-			cseeResults2009.center_id = SchoolsToRegion.necta
+			cseeResults2009.center_id = necta_region_key.necta
 		;
