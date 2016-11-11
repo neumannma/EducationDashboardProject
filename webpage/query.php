@@ -7,8 +7,8 @@
 	$password = $config["password"];
 	$database = $config["database"];
 	$dict_select = array();
-	$dict_select["pass"] 	= "COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
-	$dict_select["top3div"] = "COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["pass"] 	= "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["top3div"] = "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_where = array();
 	$dict_where["male"] 			= "gender = 'M'";
 	$dict_where["female"] 			= "gender = 'F'";

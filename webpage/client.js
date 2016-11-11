@@ -17,15 +17,16 @@ function load()
 
 function draw_map(source)
 {
-    var text_subtitle = $('#list-year option:selected').text() + ' | ' + 
-                        $('#list-data option:selected').text() + ' | ' + 
-                        $('#list-gender option:selected').text() + ' | ' + 
-                        $('#list-filter option:selected').text();
+    // Display title as: CSEE <year> <dataset>
+    var text_title = "CSEE " + $('#list-year option:selected').text() + " " + $('#list-data option:selected').text();
+    // Display subtitle as: Gender: <gender> | Filter: <filter>
+    var text_subtitle = "Gender: " + $('#list-gender option:selected').text() + ' | Filter: ' + $('#list-filter option:selected').text();
+
 	var properties = 
 	{
         title:
         {
-            text: 'Region Averages'
+            text: text_title
         },
 
         subtitle:
@@ -53,7 +54,7 @@ function draw_map(source)
             data: source.data,
             mapData: Highcharts.maps['countries/tz/tz-all'],
             joinBy: 'hc-key',
-            name: 'Region Averages',
+            name: $('#list-data option:selected').text(),
             states:
             {
                 hover:
@@ -65,6 +66,10 @@ function draw_map(source)
             {
                 enabled: true,
                 format: '{point.name}'
+            },
+            tooltip:
+            {
+                pointFormat: '{point.name}: {point.value:.1f}%'
             }
         }]
     }
