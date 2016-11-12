@@ -12,11 +12,21 @@
 
 	// check connection
 	if ($connection->connect_error)
-		die("connection failed: " . $connection->connect_error);
+	{
+		error_log(__FILE__ . ": ERROR CONNECTING TO DATABASE");
+		exit(1);
+	}
 
 	// send SQL query and receive result
-	$sql = "SHOW TABLES";
-	$result = $connection->query($sql);
+	$query_string = "SHOW TABLES";
+	$result = $connection->query($query_string);
+
+	// check that query executed successfully
+	if ($result === FALSE)
+	{
+		error_log(__FILE__ . ": BAD QUERY: \"" . $query_string . "\" on line " . __LINE__);
+		exit(1);
+	}
 
 	// format results as array of strings
 	$data = array();
