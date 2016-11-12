@@ -19,7 +19,10 @@
 	
 	// check connection
 	if ($connection->connect_error)
-		die("connection failed: " . $connection->connect_error);
+	{
+		error_log(__FILE__ . ": ERROR CONNECTING TO DATABASE");
+		exit(1);
+	}
 	
 	// send SQL query
 	$query = new amartinSQL();
@@ -32,9 +35,12 @@
 	$query->group_by( array("`hc-key`") );
 	$result = $connection->query($query->getQuery());
 	// check result
-	if (!$result)
-		die("SQL error: bad query");
-	
+	if ($result === FALSE)
+	{
+		error_log(__FILE__ . ": BAD QUERY: \"" . $query->getQuery() . "\" on line " . __LINE__);
+		exit(1);
+	}
+
 	// format result as associative array
 	$data = array();
 	while ($row = $result->fetch_assoc())
@@ -54,7 +60,11 @@
 		) count;
 	";
 	$result = $connection->query($rangequery);
-	if (!$result) die ("SQL error: failed to calculate range");
+	if ($result === FALSE)
+	{
+		error_log(__FILE__ . ": BAD QUERY: \"" . $rangequery . "\" on line " . __LINE__);
+		exit(1);
+	}
 	$result = $result->fetch_assoc();
 	$min = $result["min"];
 	$max = $result["max"];
