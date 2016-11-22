@@ -6,9 +6,16 @@
 	$username = $config["username"];
 	$password = $config["password"];
 	$database = $config["database"];
+
 	$dict_select = array();
 	$dict_select["pass"] 	= "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_select["top3div"] = "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["div1"] 	= "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["div2"] 	= "100 * COUNT( CASE WHEN (division = 'II' OR division = 'MERIT') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["div3"] 	= "100 * COUNT( CASE WHEN (division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["div4"] 	= "100 * COUNT( CASE WHEN (division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["fail"] 	= "100 * COUNT( CASE WHEN (division = '0' OR division = 'FLD' OR division = 'FAIL') THEN 1 END ) / COUNT(*) AS 'value'";
+
 	$dict_where = array();
 	$dict_where["male"] 			= "gender = 'M'";
 	$dict_where["female"] 			= "gender = 'F'";
@@ -69,7 +76,7 @@
 	$min = $result["min"];
 	$max = $result["max"];
 	
-	// create object with 
+	// create object
 	$pre_json = array
 	(
 		"min" => $min,

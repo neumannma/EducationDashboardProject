@@ -69,6 +69,11 @@
 					<select id="list-data">
 						<option value="pass">Pass Rate</option>
 						<option value="top3div">Top 3 Divisions Rate</option>
+						<option value="div1">Division 1 Rate</option>
+						<option value="div2">Division 2 Rate</option>
+						<option value="div3">Division 3 Rate</option>
+						<option value="div4">Division 4 Rate</option>
+						<option value="fail">Fail Rate</option>
 					</select>
 				</div>
 				<div class="list">
