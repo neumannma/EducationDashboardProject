@@ -97,12 +97,22 @@
 	if ($_REQUEST["make_log_entry"] === "true")
 	{
 		$connection = new mysqli($hostname, $username, $password, $logdb);
+		$logquery = "INSERT INTO " . $logtable . " (year, data, gender, filter) VALUES (" . $_REQUEST["year"] . ", " . $_REQUEST["data"] . ", " . $_REQUEST["gender"] . ", " . $_REQUEST["filter"] . ")";
+		$connection->query($logquery);
+		$connection->close();
+	}
+
+	/*	ONLY WORKS FOR PHP 5.0+ (alternate log user activity)
+	if ($_REQUEST["make_log_entry"] === "true")
+	{
+		$connection = new mysqli($hostname, $username, $password, $logdb);
 		$logquery = $connection->prepare("INSERT INTO " . $logtable . " (year, data, gender, filter) VALUES (?, ?, ?, ?)");
 		$logquery->bind_param("isss", $_REQUEST["year"], $_REQUEST["data"], $_REQUEST["gender"], $_REQUEST["filter"]);
 		$logquery->execute();
 		$logquery->close();
 		$connection->close();
 	}
+	*/
 	
 	// print data as JSON
 	$json = json_encode($pre_json);
