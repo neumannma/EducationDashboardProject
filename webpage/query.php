@@ -97,7 +97,7 @@
 	if ($_REQUEST["make_log_entry"] === "true")
 	{
 		$connection = new mysqli($hostname, $username, $password, $logdb);
-		$logquery = "INSERT INTO " . $logtable . " (year, data, gender, filter) VALUES (" . $_REQUEST["year"] . ", " . $_REQUEST["data"] . ", " . $_REQUEST["gender"] . ", " . $_REQUEST["filter"] . ")";
+		$logquery = "INSERT INTO " . $logtable . " (year, data, gender, filter) VALUES (\"" . $_REQUEST["year"] . "\", \"" . $_REQUEST["data"] . "\", \"" . $_REQUEST["gender"] . "\", \"" . $_REQUEST["filter"] . "\")";
 		$connection->query($logquery);
 		$connection->close();
 	}
