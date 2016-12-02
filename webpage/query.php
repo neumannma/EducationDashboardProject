@@ -1,12 +1,16 @@
 <?php
 	require 'amartinSQL.php';
+
 	// fetch settings from INI file
 	$config = parse_ini_file("resources/config.ini");
-	$hostname = $config["hostname"];
-	$username = $config["username"];
-	$password = $config["password"];
-	$database = $config["database"];
+	$hostname = $config["hostname"];	// database credentials
+	$username = $config["username"];	// database credentials
+	$password = $config["password"];	// database credentials
+	$database = $config["database"];	// map data source
+	$logdb 	  = $config["logdb"];		// user activity log database
+	$logtable = $config["logtable"];	// user activity log table
 
+	// dictionary containing possible database selection clauses
 	$dict_select = array();
 	$dict_select["pass"] 	= "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_select["top3div"] = "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
@@ -16,6 +20,7 @@
 	$dict_select["div4"] 	= "100 * COUNT( CASE WHEN (division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_select["fail"] 	= "100 * COUNT( CASE WHEN (division = '0' OR division = 'FLD' OR division = 'FAIL') THEN 1 END ) / COUNT(*) AS 'value'";
 
+	// dictionary containing possible database where (filtering) clauses
 	$dict_where = array();
 	$dict_where["male"] 			= "gender = 'M'";
 	$dict_where["female"] 			= "gender = 'F'";
@@ -31,16 +36,19 @@
 		exit(1);
 	}
 	
-	// send SQL query
+	// send SQL query for map data
 	$query = new amartinSQL();
 	$query->select( array("`hc-key`", $dict_select[$_REQUEST["data"]]) );
 	$query->from( array( amartinSQL::escape($_REQUEST["year"]) ) );
-	if (!empty($_REQUEST["gender"]))
+	//if (!empty($_REQUEST["gender"]))
+	if ( isset($dict_where[$_REQUEST["gender"]]) )
 		$query->where( array($dict_where[$_REQUEST["gender"]]) );
-	if (!empty($_REQUEST["filter"]))
+	//if (!empty($_REQUEST["filter"]))
+	if ( isset($dict_where[$_REQUEST["filter"]]) )
 		$query->where( array($dict_where[$_REQUEST["filter"]]) );
 	$query->group_by( array("`hc-key`") );
 	$result = $connection->query($query->getQuery());
+
 	// check result
 	if ($result === FALSE)
 	{
@@ -83,6 +91,18 @@
 		"max" => $max,
 		"data" => $data
 	);
+
+	// log user activity
+	$connection->close();
+	if ($_REQUEST["make_log_entry"] === "true")
+	{
+		$connection = new mysqli($hostname, $username, $password, $logdb);
+		$logquery = $connection->prepare("INSERT INTO " . $logtable . " (year, data, gender, filter) VALUES (?, ?, ?, ?)");
+		$logquery->bind_param("isss", $_REQUEST["year"], $_REQUEST["data"], $_REQUEST["gender"], $_REQUEST["filter"]);
+		$logquery->execute();
+		$logquery->close();
+		$connection->close();
+	}
 	
 	// print data as JSON
 	$json = json_encode($pre_json);

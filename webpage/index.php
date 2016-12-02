@@ -79,7 +79,7 @@
 				<div class="list">
 					<p class="label">Gender</p>
 					<select id="list-gender">
-						<option value=""> All </option>
+						<option value="all"> All </option>
 						<option value="male">Male</option>
 						<option value="female">Female</option>
 					</select>
@@ -87,7 +87,7 @@
 				<div class="list">
 					<p class="label">Filter</p>
 					<select id="list-filter">
-						<option value="">Registered Candidates</option>
+						<option value="none">Registered Candidates</option>
 						<option value="exclude-absent">Clean Candidates</option>
 					</select>
 				</div>

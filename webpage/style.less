@@ -1,0 +1,58 @@
+html, body
+{
+/*	fill the whole viewport
+	remove this if embedding in another webpage
+*/
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+div#wrapper
+{
+/* top level container */
+	height: 100%;
+	width: 100%;
+	display: flex;			/* use the flexbox model */
+	flex-direction: column;	/* organize contained elements vertically */
+}
+
+div#map
+{
+/* map container */
+	flex: auto;				/* element will grow to fill all remaining space in the viewport */
+}
+
+div#input
+{
+/* user input fields container */
+	text-align: center;
+	//margin-bottom: 100px;	/* TODO */
+	select
+	{
+		//background-color: #4CAF50;
+		//border: none;
+		//color: white;
+		//padding: 10px 10px;
+		//font-size: 100%;
+	}
+	button
+	{
+		//padding: 10px 10px;
+		//font-size: 100%;
+	}
+}
+
+div.list
+{
+/* list container class, consists of a text label and a <select> element stacked vertically */
+	display: inline-block;
+	text-align: center;
+}
+
+p.label
+{
+/* list label class */
+	margin: 0;
+	font-family: sans-serif;
+}

@@ -5,14 +5,16 @@ $(window).resize(function()
     $('#map').highcharts().setSize(width, height, doAnimation = false);
 });
 
-function load()
+function load(make_log_entry)
 {
+    if (make_log_entry === undefined)
+        make_log_entry = true;
 	// get value of data selection list
 	var year = document.getElementById('list-year').value;
     var data = document.getElementById('list-data').value;
     var gender = document.getElementById('list-gender').value;
     var filter = document.getElementById('list-filter').value;
-	$.getJSON('query.php?year=' + year + '&data=' + data + '&gender=' + gender + '&filter=' + filter, draw_map);
+	$.getJSON('query.php?make_log_entry=' + make_log_entry + '&year=' + year + '&data=' + data + '&gender=' + gender + '&filter=' + filter, draw_map);
 }
 
 function draw_map(source)
@@ -80,5 +82,5 @@ function draw_map(source)
 
 $(function()
 {
-    load();
+    load(make_log_entry = false);
 });
