@@ -79,9 +79,17 @@
 				<div class="list">
 					<p class="label">Gender</p>
 					<select id="list-gender">
-						<option value="all"> All </option>
+						<option value="all">All</option>
 						<option value="male">Male</option>
 						<option value="female">Female</option>
+					</select>
+				</div>
+				<div class="list">
+					<p class="label">Ownership</p>
+					<select id="list-ownership">
+						<option value="all">All</option>
+						<option value="public">Public</option>
+						<option value="private">Private</option>
 					</select>
 				</div>
 				<div class="list">

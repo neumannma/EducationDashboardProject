@@ -24,6 +24,8 @@
 	$dict_where = array();
 	$dict_where["male"] 			= "gender = 'M'";
 	$dict_where["female"] 			= "gender = 'F'";
+	$dict_where["public"] 			= "ownership = 'PUBLIC'";
+	$dict_where["private"] 			= "ownership = 'PRIVATE'";
 	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS' OR (division = '0' OR division = 'FLD' OR division = 'FAIL')";
 	
 	// create connection to database
@@ -40,10 +42,10 @@
 	$query = new amartinSQL();
 	$query->select( array("`hc-key`", $dict_select[$_REQUEST["data"]]) );
 	$query->from( array( amartinSQL::escape($_REQUEST["year"]) ) );
-	//if (!empty($_REQUEST["gender"]))
 	if ( isset($dict_where[$_REQUEST["gender"]]) )
 		$query->where( array($dict_where[$_REQUEST["gender"]]) );
-	//if (!empty($_REQUEST["filter"]))
+	if ( isset($dict_where[$_REQUEST["ownership"]]) )
+		$query->where( array($dict_where[$_REQUEST["ownership"]]) );
 	if ( isset($dict_where[$_REQUEST["filter"]]) )
 		$query->where( array($dict_where[$_REQUEST["filter"]]) );
 	$query->group_by( array("`hc-key`") );
@@ -60,8 +62,27 @@
 	$data = array();
 	while ($row = $result->fetch_assoc())
 		$data[] = $row;
-	
+
 	// calculate min and max
+	$rangequery =
+	"
+		SELECT
+			MIN( value ) as 'min',
+			MAX( value ) as 'max'
+		FROM (" . $query->getQuery() . ") count;
+	";
+	$result = $connection->query($rangequery);
+	if ($result === FALSE)
+	{
+		error_log(__FILE__ . ": BAD QUERY: \"" . $rangequery . "\" on line " . __LINE__);
+		exit(1);
+	}
+	$result = $result->fetch_assoc();
+	$min = $result["min"];
+	$max = $result["max"];
+	
+	/*
+	// calculate a single min/max for the year, regardless of other filters
 	$rangequery =
 	"
 		SELECT
@@ -83,6 +104,7 @@
 	$result = $result->fetch_assoc();
 	$min = $result["min"];
 	$max = $result["max"];
+	*/
 	
 	// create object
 	$pre_json = array
@@ -97,7 +119,7 @@
 	if ($_REQUEST["make_log_entry"] === "true")
 	{
 		$connection = new mysqli($hostname, $username, $password, $logdb);
-		$logquery = "INSERT INTO " . $logtable . " (year, data, gender, filter) VALUES (\"" . $_REQUEST["year"] . "\", \"" . $_REQUEST["data"] . "\", \"" . $_REQUEST["gender"] . "\", \"" . $_REQUEST["filter"] . "\")";
+		$logquery = "INSERT INTO " . $logtable . " (year, data, gender, ownership, filter) VALUES (\"" . $_REQUEST["year"] . "\", \"" . $_REQUEST["data"] . "\", \"" . $_REQUEST["gender"] . "\", \"" . $_REQUEST["ownership"] . "\", \"" . $_REQUEST["filter"] . "\")";
 		$connection->query($logquery);
 		$connection->close();
 	}
@@ -106,8 +128,8 @@
 	if ($_REQUEST["make_log_entry"] === "true")
 	{
 		$connection = new mysqli($hostname, $username, $password, $logdb);
-		$logquery = $connection->prepare("INSERT INTO " . $logtable . " (year, data, gender, filter) VALUES (?, ?, ?, ?)");
-		$logquery->bind_param("isss", $_REQUEST["year"], $_REQUEST["data"], $_REQUEST["gender"], $_REQUEST["filter"]);
+		$logquery = $connection->prepare("INSERT INTO " . $logtable . " (year, data, gender, ownership, filter) VALUES (?, ?, ?, ?, ?)");
+		$logquery->bind_param("issss", $_REQUEST["year"], $_REQUEST["data"], $_REQUEST["gender"], $_REQUEST["ownership"], $_REQUEST["filter"]);
 		$logquery->execute();
 		$logquery->close();
 		$connection->close();

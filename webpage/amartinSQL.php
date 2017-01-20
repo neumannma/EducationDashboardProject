@@ -92,13 +92,13 @@
             // returns a string of the current query
             // if the current query is invalid, returns NULL
 
-            if (!$this->select or !$this->from)
+            if (!isset($this->select) || !isset($this->from))
                 return;
             
             $result = $this->formatSelect();
             $result .= " " . $this->formatFrom();
             
-            if ($this->where[0])
+            if (count($this->where) > 0)
                 $result .= " " . $this->formatWhere();
 
             $result .= $this->formatGroupBy();

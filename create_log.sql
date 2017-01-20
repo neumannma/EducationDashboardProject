@@ -5,6 +5,7 @@ CREATE TABLE map
     year SMALLINT NOT NULL,
     data VARCHAR(255) NOT NULL,
     gender VARCHAR(255) NOT NULL,
+    ownership VARCHAR(255) NOT NULL,
     filter VARCHAR(255) NOT NULL,
     PRIMARY KEY (id)
 )
