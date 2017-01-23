@@ -1,0 +1,19 @@
+Design Notes for scraper.py
+
+root directory:
+    maktaba.tetea.org/exam-results/
+
+loop through each subdirectory named "CSEE*"
+    loop through each file named "[p|s]*"
+
+make one CSV file for each CSEE subdirectory
+    - concatenate the contents of the tables in the files in each subdirectory
+    - create an extra column with the name of the file, e.g. "p0101"
+
+algorithm:
+
+    for "CSEE*" in "maktaba.tetea.org/exam-results/
+        make new CSV file
+        for "[p|s]*" in "CSEE*"
+            find "<table>"
+            append contents to CSV file
