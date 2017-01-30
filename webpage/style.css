@@ -1,37 +1,55 @@
-html,
 body {
-  /*	fill the whole viewport
-	remove this if embedding in another webpage
-*/
   height: 100vh;
   margin: 0;
-  padding: 0;
 }
 div#wrapper {
-  /* top level container */
   height: 100%;
   width: 100%;
   display: flex;
-  /* use the flexbox model */
-  flex-direction: column;
-  /* organize contained elements vertically */
+  flex-direction: row-reverse;
 }
-div#map {
-  /* map container */
+@media only screen and (max-width: 768px) {
+  div#wrapper {
+    flex-direction: column;
+  }
+}
+div#wrapper div#map {
   flex: auto;
-  /* element will grow to fill all remaining space in the viewport */
 }
-div#input {
-  /* user input fields container */
+div#wrapper div#input {
+  text-align: center;
+  background-color: darkgrey;
+  /*
+		// DESKTOP
+		flex-direction: column;
+
+		// MOBILE
+		@media only screen and (max-width: @width) {
+			flex-direction: row;
+		}
+		*/
+}
+div#wrapper div#input button,
+div#wrapper div#input select {
   text-align: center;
 }
-div.list {
-  /* list container class, consists of a text label and a <select> element stacked vertically */
-  display: inline-block;
-  text-align: center;
+@media only screen and (min-width: 768px) {
+  div#wrapper div#input button,
+  div#wrapper div#input select {
+    height: 50px;
+    width: 100%;
+  }
 }
-p.label {
-  /* list label class */
+div#wrapper div#input div.list {
+  text-align: center;
+  display: block;
+}
+@media only screen and (max-width: 768px) {
+  div#wrapper div#input div.list {
+    display: inline-block;
+  }
+}
+div#wrapper div#input div.list p.label {
   margin: 0;
   font-family: sans-serif;
 }

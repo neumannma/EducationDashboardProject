@@ -1,7 +1,18 @@
 $(window).resize(function()
 {
-    var height = $('#wrapper').height() - $('#input').height();
-    var width = $('#wrapper').width();
+    var witdh;
+    var height;
+    var mq = window.matchMedia("only screen and (max-width: 768px)");
+    if (mq.matches) // mobile
+    {
+        var height = $('#wrapper').height() - $('#input').height();
+        var width = $('#wrapper').width();
+    }
+    else            // desktop
+    {
+        var height = $('#wrapper').height();
+        var width = $('#wrapper').width() - $('#input').width();
+    }
     $('#map').highcharts().setSize(width, height, doAnimation = false);
 });
 
