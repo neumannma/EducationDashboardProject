@@ -2,67 +2,56 @@
 """
 This is a module docstring
 """
-
+from __future__ import print_function
+import sys
+import os.path
 import urllib2
 import re
 from bs4 import BeautifulSoup
 
-def table2csv(html_txt):
+def table2csv(html, name):
     """
-    This is a function docstring
+    html: string containing webpage html
+    name: string containing webpage filename
+
+    Scrapes an HTML document and prints the contents of
+    enclosed tables formatted as CSV.
+    
+    An extra column containing 'name' with the extension
+    stripped is prepended to the resulting table.
+
+    Returns nothing; prints the resulting CSV to stdout.
     """
-    csvs = []
-    soup = BeautifulSoup(html_txt, "lxml")
-    tables = soup.findAll('table')
+    name = os.path.splitext(name)[0]                    # remove the extension from the filename
+    soup = BeautifulSoup(html, "lxml")                  # fetch the webpage
+    table = soup.find('table')                          # find the first table
+    rows = table.findAll('tr')                          # find all <tr> tags (rows)
 
-    for table in tables:
-        csv = ''
-        rows = table.findAll('tr')
-        row_spans = []
-        do_ident = False
+    for row in rows[1:]:
+        cells = row.findAll(['th', 'td'])               # find all <th> (header) and <td> (data) tags
+        print('"{text}",'.format(text=name), end="")
+        for cell in cells:
+            print('"{text}",'.format(text=cell.find('p').string.strip()), end="")
+        print()
 
-        for i, tr in enumerate(rows):
-            if i == 0:  # skip the first row containing the column headers
-                continue
-            cols = tr.findAll(['th', 'td'])
+# check arguments
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Usage: ./scraper.py [directory]")
+        sys.exit(1)
 
-            for cell in cols:
-                colspan = int(cell.get('colspan', 1))
-                rowspan = int(cell.get('rowspan', 1))
+    # filenames to ignore
+    ignore = ["p0001.html", "Parent Directory",
+        "S0861.html"
+    ]
 
-                if do_ident:
-                    do_ident = False
-                    csv += ','*(len(row_spans))
-
-                if rowspan > 1:
-                    row_spans.append(rowspan)
-
-                csv += '"{text}"'.format(text=str(cell.text).strip()) + ','*(colspan)
-
-            if row_spans:
-                for i in xrange(len(row_spans)-1, -1, -1):
-                    row_spans[i] -= 1
-                    if row_spans[i] < 1:
-                        row_spans.pop()
-
-            do_ident = True if row_spans else False
-
-            csv += '\n'
-
-        csvs.append(csv)
-        break#######################################################################################
-    #print type(csvs)
-    return '\n\n'.join(csvs)
-
-directory = urllib2.urlopen("http://maktaba.tetea.org/exam-results/CSEE2015/")
-dircontent = directory.read()
-dirsoup = BeautifulSoup(dircontent, "lxml")
-years = dirsoup.findAll('li')
-for year in years:
-    name = year.find('a').string.strip()
-    #webpage = urllib2.urlopen("http://maktaba.tetea.org/exam-results/CSEE2015/{text}".format(text=year.find('a').string.strip()))
-    #content = webpage.read()
-    if re.search('^[p|s]', name):
-        webpage = urllib2.urlopen("http://maktaba.tetea.org/exam-results/CSEE2015/{text}".format(text=name))
-        content = webpage.read()
-        print table2csv(content)
+    directory = urllib2.urlopen(sys.argv[1])
+    dircontent = directory.read()
+    dirsoup = BeautifulSoup(dircontent, "lxml")
+    years = dirsoup.findAll('li')
+    for year in years:
+        name = year.find('a').string.strip()
+        if re.search('^[p|s|P|S]\d{4}', name) and name not in ignore:
+            webpage = urllib2.urlopen(sys.argv[1] + name)
+            content = webpage.read()
+            table2csv(content, name)
