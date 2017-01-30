@@ -76,28 +76,42 @@
 						<option value="fail">Fail Rate</option>
 					</select>
 				</div>
-				<div class="list">
+				<div class="list" id="div-gender">
 					<p class="label">Gender</p>
-					<select id="list-gender">
+					<select id="list-gender" onChange="link_inputs()">
 						<option value="all">All</option>
 						<option value="male">Male</option>
 						<option value="female">Female</option>
 					</select>
+					<div class="radio" id="radio-gender" onChange="link_inputs()">
+						<input type="radio" name="gender" value="all" checked>All
+						<input type="radio" name="gender" value="male">Male
+						<input type="radio" name="gender" value="female">Female
+					</div>
 				</div>
-				<div class="list">
+				<div class="list" id="div-ownership">
 					<p class="label">Ownership</p>
 					<select id="list-ownership">
 						<option value="all">All</option>
 						<option value="public">Public</option>
 						<option value="private">Private</option>
 					</select>
+					<div class="radio" id="radio-ownership" onChange="link_inputs()">
+						<input type="radio" name="ownership" value="all" checked>All
+						<input type="radio" name="ownership" value="public">Public
+						<input type="radio" name="ownership" value="private">Private
+					</div>
 				</div>
-				<div class="list">
-					<p class="label">Filter</p>
+				<div class="list" id="div-filter">
+					<p class="label">Candidates</p>
 					<select id="list-filter">
-						<option value="none">Registered Candidates</option>
-						<option value="exclude-absent">Clean Candidates</option>
+						<option value="none">Registered</option>
+						<option value="exclude-absent">Clean</option>
 					</select>
+					<div class="radio" id="radio-filter" onChange="link_inputs()">
+						<input type="radio" name="filter" value="none" checked>Registered
+						<input type="radio" name="filter" value="exclude-absent">Clean
+					</div>
 				</div>
 				<button onClick="load()">Submit</button>
 			</div>	<!-- input -->

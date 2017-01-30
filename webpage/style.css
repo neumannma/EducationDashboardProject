@@ -17,17 +17,36 @@ div#wrapper div#map {
   flex: auto;
 }
 div#wrapper div#input {
+  font-family: sans-serif;
   text-align: center;
   background-color: darkgrey;
-  /*
-		// DESKTOP
-		flex-direction: column;
-
-		// MOBILE
-		@media only screen and (max-width: @width) {
-			flex-direction: row;
-		}
-		*/
+}
+@media only screen and (min-width: 768px) {
+  div#wrapper div#input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  div#wrapper div#input #list-gender {
+    display: none;
+  }
+  div#wrapper div#input #list-ownership {
+    display: none;
+  }
+  div#wrapper div#input #list-filter {
+    display: none;
+  }
+}
+@media only screen and (max-width: 768px) {
+  div#wrapper div#input #radio-gender {
+    display: none;
+  }
+  div#wrapper div#input #radio-ownership {
+    display: none;
+  }
+  div#wrapper div#input #radio-filter {
+    display: none;
+  }
 }
 div#wrapper div#input button,
 div#wrapper div#input select {
@@ -37,12 +56,12 @@ div#wrapper div#input select {
   div#wrapper div#input button,
   div#wrapper div#input select {
     height: 50px;
-    width: 100%;
   }
 }
 div#wrapper div#input div.list {
   text-align: center;
-  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 @media only screen and (max-width: 768px) {
   div#wrapper div#input div.list {
@@ -52,4 +71,8 @@ div#wrapper div#input div.list {
 div#wrapper div#input div.list p.label {
   margin: 0;
   font-family: sans-serif;
+}
+div#wrapper div#input div.radio {
+  display: flex;
+  flex-direction: column;
 }

@@ -31,19 +31,39 @@ div#wrapper {
 	}
 
 	div#input {
-		//display: flex;
+		font-family: sans-serif;
 		text-align: center;				// center elements within the input div
 		background-color: darkgrey;
 
-		/*
 		// DESKTOP
-		flex-direction: column;
+		@media only screen and (min-width: @width) {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			
+			#list-gender {
+				display: none;
+			}
+			#list-ownership {
+				display: none;
+			}
+			#list-filter {
+				display: none;
+			}
+		}
 
 		// MOBILE
 		@media only screen and (max-width: @width) {
-			flex-direction: row;
+			#radio-gender {
+				display: none;
+			}
+			#radio-ownership {
+				display: none;
+			}
+			#radio-filter {
+				display: none;
+			}
 		}
-		*/
 
 		button, select {
 			//font-size: 100%;
@@ -52,18 +72,17 @@ div#wrapper {
 			// DESKTOP
 			@media only screen and (min-width: @width) {
 				height: 50px;
-				width: 100%;
+				//width: 100%;
 			}
 		}
 
 		div.list {
-			display: block;									
 			text-align: center;			// center elements within div.list
-			//padding-top: 20px;
-			//padding-bottom: 20px;
+			padding-top: 10px;
+			padding-bottom: 10px;
 
 			// DESKTOP
-			display: block;				// stack multiple div.list objects together vertically
+			//display: block;				// stack multiple div.list objects together vertically
 
 			// MOBILE
 			@media only screen and (max-width: @width) {
@@ -74,6 +93,11 @@ div#wrapper {
 				margin: 0;
 				font-family: sans-serif;
 			}
+		}
+
+		div.radio {
+			display: flex;
+			flex-direction: column;
 		}
 	}
 }

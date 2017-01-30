@@ -1,14 +1,21 @@
+function is_mobile()
+{
+    var mq = window.matchMedia("only screen and (max-width: 768px)");
+    return mq.matches;
+}
+
+
+// Ensure that the map responds properly when the window is resized
 $(window).resize(function()
 {
     var witdh;
     var height;
-    var mq = window.matchMedia("only screen and (max-width: 768px)");
-    if (mq.matches) // mobile
+    if (is_mobile())    // mobile
     {
         var height = $('#wrapper').height() - $('#input').height();
         var width = $('#wrapper').width();
     }
-    else            // desktop
+    else                // desktop
     {
         var height = $('#wrapper').height();
         var width = $('#wrapper').width() - $('#input').width();
@@ -16,6 +23,46 @@ $(window).resize(function()
     $('#map').highcharts().setSize(width, height, doAnimation = false);
 });
 
+
+// Link the values of the corresponding inputs for the desktop and mobile page layouts
+function link_inputs()
+{
+    function get_button(id)
+    {
+        var elts = document.getElementById(id).children;
+        for (var i = 0; i < elts.length; i++)
+            if (elts[i].checked == true)
+                return elts.item(i).value;
+    }
+
+    function set_button(id, val)
+    {
+        var elts = document.getElementById(id).children;
+        for (var i = 0; i < elts.length; i++)
+            if (elts[i].value == val)
+            {
+                elts[i].checked = true;
+                break;
+            }
+    }
+
+    if (is_mobile())
+    {
+        set_button('radio-gender', document.getElementById('list-gender').value);
+        set_button('radio-ownership', document.getElementById('list-ownership').value);
+        set_button('radio-filter', document.getElementById('list-filter').value);
+    }
+    else
+    {
+        document.getElementById('list-gender').value = get_button('radio-gender');
+        document.getElementById('list-ownership').value = get_button('radio-ownership');
+        document.getElementById('list-filter').value = get_button('radio-filter');
+    }
+}
+
+
+// Execute AJAX request to fetch map data
+// Runs when the page loads or when the submit button is pressed
 function load(make_log_entry)
 {
     if (make_log_entry === undefined)
@@ -37,6 +84,8 @@ function load(make_log_entry)
 	$.getJSON(link, draw_map);
 }
 
+
+// Invoke HighCharts to render the map
 function draw_map(source)
 {
     // Display title as: CSEE <year> <dataset>
@@ -101,6 +150,7 @@ function draw_map(source)
 	// Initiate the chart
     $('#map').highcharts('Map', properties);
 }
+
 
 $(function()
 {
