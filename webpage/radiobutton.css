@@ -1,0 +1,32 @@
+/*  Usage:
+ *      <input type="radio" name="group" id="group-1">
+ *		<label for="group-1">
+ *			<div class="button"> [Your Text Here] </div>
+ *		</label>
+ */
+
+/* hide default radio buttons */
+input[type="radio"] {
+    display: none;
+}
+/* button properties */
+div.button {
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: grey;
+    user-select: none;
+}
+/* button mouseover color */
+div.button:hover {
+    background-color: lightgrey;
+}
+/* button pressed color */
+input[type="radio"]:checked + label div.button {
+    background-color: #36B35B;
+}

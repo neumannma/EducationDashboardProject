@@ -1,3 +1,4 @@
+@import "radiobutton.css";
 body {
   height: 100vh;
   margin: 0;
@@ -23,27 +24,21 @@ div#wrapper div#input {
 }
 @media only screen and (min-width: 768px) {
   div#wrapper div#input {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    /*
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			*/
   }
-  div#wrapper div#input #list-gender {
-    display: none;
-  }
-  div#wrapper div#input #list-ownership {
-    display: none;
-  }
+  div#wrapper div#input #list-gender,
+  div#wrapper div#input #list-ownership,
   div#wrapper div#input #list-filter {
     display: none;
   }
 }
 @media only screen and (max-width: 768px) {
-  div#wrapper div#input #radio-gender {
-    display: none;
-  }
-  div#wrapper div#input #radio-ownership {
-    display: none;
-  }
+  div#wrapper div#input #radio-gender,
+  div#wrapper div#input #radio-ownership,
   div#wrapper div#input #radio-filter {
     display: none;
   }
@@ -55,7 +50,7 @@ div#wrapper div#input select {
 @media only screen and (min-width: 768px) {
   div#wrapper div#input button,
   div#wrapper div#input select {
-    height: 50px;
+    min-height: 50px;
   }
 }
 div#wrapper div#input div.list {
@@ -75,4 +70,7 @@ div#wrapper div#input div.list p.label {
 div#wrapper div#input div.radio {
   display: flex;
   flex-direction: column;
+}
+div#wrapper div#input p.link {
+  font-size: 100%;
 }

@@ -31,7 +31,7 @@ function link_inputs()
     {
         var elts = document.getElementById(id).children;
         for (var i = 0; i < elts.length; i++)
-            if (elts[i].checked == true)
+            if (elts[i].checked)
                 return elts.item(i).value;
     }
 
@@ -93,7 +93,7 @@ function draw_map(source)
     // Display subtitle as: Gender: <gender> | Filter: <filter>
     var text_subtitle = "Gender: " + $('#list-gender option:selected').text()
                                 + ' | Ownership: ' + $('#list-ownership option:selected').text()
-                                + ' | Filter: ' + $('#list-filter option:selected').text();
+                                + ' | Candidates: ' + $('#list-filter option:selected').text();
 
 	var properties = 
 	{

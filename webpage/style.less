@@ -1,3 +1,6 @@
+// IMPORTS
+@import "radiobutton.css";
+
 // CONSTANTS
 @width: 768px;	// >768 for desktop, <768 for mobile
 
@@ -37,30 +40,20 @@ div#wrapper {
 
 		// DESKTOP
 		@media only screen and (min-width: @width) {
+			/*
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
+			*/
 			
-			#list-gender {
-				display: none;
-			}
-			#list-ownership {
-				display: none;
-			}
-			#list-filter {
+			#list-gender, #list-ownership, #list-filter {
 				display: none;
 			}
 		}
 
 		// MOBILE
 		@media only screen and (max-width: @width) {
-			#radio-gender {
-				display: none;
-			}
-			#radio-ownership {
-				display: none;
-			}
-			#radio-filter {
+			#radio-gender, #radio-ownership, #radio-filter {
 				display: none;
 			}
 		}
@@ -71,7 +64,8 @@ div#wrapper {
 
 			// DESKTOP
 			@media only screen and (min-width: @width) {
-				height: 50px;
+				min-height: 50px;
+				//height: 50px;
 				//width: 100%;
 			}
 		}
@@ -98,6 +92,10 @@ div#wrapper {
 		div.radio {
 			display: flex;
 			flex-direction: column;
+		}
+
+		p.link {
+			font-size: 100%;
 		}
 	}
 }
