@@ -26,7 +26,7 @@
 	$dict_where["female"] 			= "gender = 'F'";
 	$dict_where["public"] 			= "ownership = 'PUBLIC'";
 	$dict_where["private"] 			= "ownership = 'PRIVATE'";
-	$dict_where["unknown"] 			= "ownership IS NULL";
+	$dict_where["unknown"] 			= "ownership IS NULL OR ownership=''";
 	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS' OR (division = '0' OR division = 'FLD' OR division = 'FAIL')";
 	
 	// create connection to database
