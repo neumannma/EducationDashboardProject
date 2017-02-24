@@ -13,7 +13,7 @@ function isMobile() {
 function getUrlParams() {
     var result = {};
 
-    url = window.location.href;         // get the whole URL
+    var url = window.location.href;     // get the whole URL
     url = url.split('?')[1];            // separate params from URL
     if (!url)
         return null;                    // return null if there are no params
@@ -38,6 +38,7 @@ function highlightSubmit() {
 
 function submit() {
     $('#edp_desktop_submit').removeClass('highlight');
+    $('#edp_mobile_menu').hide();
     loadMap();
 }
 
@@ -108,7 +109,8 @@ function drawMap(source) {
     $('#edp_map').highcharts('Map', properties);
 }
 
-// -- EVENT HANDLERS --  
+// -- EVENT HANDLERS --
+
     // MOBILE
 
         // show menu button: click
@@ -205,19 +207,19 @@ function drawMap(source) {
 
 // -- EVENT HANDLERS --
 
-$(window).resize(function()
-{
-    var witdh;
+$(window).resize(function() {
+    var width;
     var height;
+    var wrapper = $('#EducationDashboardProject');
     if (isMobile()) {
-        var height = $('#wrapper').height();
-        var width = $('#wrapper').width();
+        height = wrapper.height();
+        width = wrapper.width();
     }
     else {
-        var height = $('#wrapper').height();
-        var width = $('#wrapper').width() - $('#input').width();
+        height = wrapper.height();
+        width = wrapper.width() - $('#edp_desktop').width();
     }
-    $('#map').highcharts().setSize(width, height, doAnimation = false);
+    $('#edp_map').highcharts().setSize(width, height, doAnimation = false);
 });
 
 $(function() {
