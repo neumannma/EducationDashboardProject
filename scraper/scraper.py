@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-This is a module docstring
+
 """
 from __future__ import print_function
 import sys
@@ -23,6 +23,7 @@ def table2csv(html, name):
     Returns nothing; prints the resulting CSV to stdout.
     """
     name = os.path.splitext(name)[0]                    # remove the extension from the filename
+    name = name.replace(" ", "")                        # remove spaces from the filename
     soup = BeautifulSoup(html, "lxml")                  # fetch the webpage
     table = soup.find('table')                          # find the first table
     rows = table.findAll('tr')                          # find all <tr> tags (rows)
@@ -41,8 +42,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     # filenames to ignore
-    ignore = ["p0001.html", "Parent Directory",
-        "S0861.html"
+    ignore = ["p0001.html", "Parent Directory"
     ]
 
     directory = urllib2.urlopen(sys.argv[1])
@@ -52,6 +52,6 @@ if __name__ == "__main__":
     for year in years:
         name = year.find('a').string.strip()
         if re.search('^[p|s|P|S]\d{4}', name) and name not in ignore:
-            webpage = urllib2.urlopen(sys.argv[1] + name)
+            webpage = urllib2.urlopen(sys.argv[1] + name.replace(" ", "%20"))   # replace spaces with the URL escape sequence
             content = webpage.read()
             table2csv(content, name)

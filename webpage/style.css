@@ -1,76 +1,155 @@
-@import "radiobutton.css";
+.edp_button {
+  top: 0;
+  bottom: 0;
+  margin: 5px auto;
+  /*
+    height: 30px;
+    width: 70px;
+    */
+  background-color: #cccccc;
+  transition: background-color 0.1s;
+  border: none;
+  text-align: center;
+  line-height: 30px;
+}
+.edp_button:hover {
+  background-color: #d9d9d9;
+}
+/*  Usage:
+ *      <input type="radio" name="group" class="edp_radiobutton" id="group-1">
+ *		<label for="group-1">
+ *			<div class="edp_radiobutton"> [Your Text Here] </div>
+ *		</label>
+ */
+input[type="radio"].edp_radiobutton {
+  display: none;
+}
+div.edp_radiobutton {
+  top: 0;
+  bottom: 0;
+  margin: 5px auto;
+  text-align: center;
+  line-height: 25px;
+  height: 25px;
+  width: 100px;
+  border: 2px solid #36b35b;
+  border-radius: 25px;
+  background-color: #777777;
+  transition: background-color 0.1s;
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+}
+div.edp_radiobutton:hover {
+  background-color: #6a6a6a;
+}
+input[type="radio"].edp_radiobutton:checked + label .edp_radiobutton {
+  background-color: #36b35b;
+}
 body {
-  height: 100vh;
   margin: 0;
 }
-div#wrapper {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: row-reverse;
+select,
+button {
+  margin: 5px;
 }
-@media only screen and (max-width: 768px) {
-  div#wrapper {
-    flex-direction: column;
-  }
+hr {
+  margin: 10px;
+  border-top: 1px solid #cccccc;
+  opacity: 0.2;
 }
-div#wrapper div#map {
+.highlight {
+  background-color: #36b35b;
+}
+.highlight:hover {
+  background-color: #51cb75;
+}
+.edp_mobile_select {
+  margin: 0 0 10px 10px;
+  flex: auto;
+  font-size: 4vh;
+}
+.edp_mobile_label {
+  width: 25%;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.edp_mobile_button {
+  margin: 0;
   flex: auto;
 }
-div#wrapper div#input {
-  font-family: sans-serif;
-  text-align: center;
-  background-color: darkgrey;
-}
-@media only screen and (min-width: 768px) {
-  div#wrapper div#input {
-    /*
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			*/
-  }
-  div#wrapper div#input #list-gender,
-  div#wrapper div#input #list-ownership,
-  div#wrapper div#input #list-filter {
-    display: none;
-  }
-}
-@media only screen and (max-width: 768px) {
-  div#wrapper div#input #radio-gender,
-  div#wrapper div#input #radio-ownership,
-  div#wrapper div#input #radio-filter {
-    display: none;
-  }
-}
-div#wrapper div#input button,
-div#wrapper div#input select {
-  text-align: center;
-}
-@media only screen and (min-width: 768px) {
-  div#wrapper div#input button,
-  div#wrapper div#input select {
-    min-height: 50px;
-  }
-}
-div#wrapper div#input div.list {
-  text-align: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-@media only screen and (max-width: 768px) {
-  div#wrapper div#input div.list {
-    display: inline-block;
-  }
-}
-div#wrapper div#input div.list p.label {
+.edp_mobile_inline {
   margin: 0;
-  font-family: sans-serif;
+  flex: auto;
+  display: flex;
+  flex-direction: row;
 }
-div#wrapper div#input div.radio {
+.edp_mobile_flex {
+  height: 100%;
   display: flex;
   flex-direction: column;
 }
-div#wrapper div#input p.link {
-  font-size: 100%;
+#EducationDashboardProject {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  font-family: sans-serif;
+  color: #ffffff;
+  text-align: center;
+  flex-direction: column;
+}
+@media only screen and (min-aspect-ratio: 1/1) {
+  #EducationDashboardProject {
+    flex-direction: row-reverse;
+  }
+}
+#edp_map {
+  flex: auto;
+}
+@media only screen and (min-aspect-ratio: 1/1) {
+  #edp_mobile {
+    display: none;
+  }
+}
+#edp_mobile_show {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+  height: 75px;
+  width: 75px;
+  border: none;
+  border-radius: 50%;
+  background-color: #36b35b;
+}
+#edp_mobile_menu {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  height: 75%;
+  width: 100%;
+  background-color: #777777;
+}
+#edp_desktop {
+  background-color: #777777;
+}
+@media only screen and (max-aspect-ratio: 1/1) {
+  #edp_desktop {
+    display: none;
+  }
+}
+.edp_desktop_input {
+  margin: 10px;
+}
+#edp_desktop_submit {
+  font-size: 14pt;
+  padding: 0 10px;
+  color: #777777;
+}
+#edp_desktop_logo {
+  margin: 20px;
+}
+#edp_desktop_logo:hover {
+  opacity: 0.8;
 }

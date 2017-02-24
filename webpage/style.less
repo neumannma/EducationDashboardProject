@@ -1,101 +1,135 @@
-// IMPORTS
-@import "radiobutton.css";
+@import "button.less";
+@import "radiobutton.less";
+@import (reference) "colortheme.less";
 
-// CONSTANTS
-@width: 768px;	// >768 for desktop, <768 for mobile
-
+// remove if embedding in another page
 body {
-// For a standalone page
-// Remove if embedding in another page
-
-	height: 100vh;
-  	margin: 0;
+    margin: 0;
 }
 
-div#wrapper {
-// Top-level container
-// Contains the Map and Input divisions
-// ** is a flex container
+select, button {
+    margin: 5px;
+}
 
-	height: 100%;
-	width: 100%;
-	display: flex;
+hr {
+    margin: 10px;
+    border-top: 1px solid @color-light;
+    opacity: 0.2;
+}
 
-	// DESKTOP
-	flex-direction: row-reverse;	// organize contained elements horizontally from the right
+.highlight {
+    background-color: @color-highlight;
+}
+.highlight:hover {
+    background-color: lighten(@color-highlight, 10%);
+}
 
-	// MOBILE
-	@media only screen and (max-width: @width) {
-		flex-direction: column;		// organize contained elements vertically from the top
-	}
+.edp_mobile_select {
+    margin: 0 0 10px 10px;
+    flex: auto;
+    font-size: 4vh;
+}
+.edp_mobile_label {
+    width: 25%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.edp_mobile_button {
+    margin: 0;
+    flex: auto;
+}
+.edp_mobile_inline {
+    margin: 0;
+    flex: auto;
+    display: flex;
+    flex-direction: row;
+}
+.edp_mobile_flex {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
 
-	div#map {
-		flex: auto;
-	}
+// Project Wrapper
+#EducationDashboardProject {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    font-family: sans-serif;
+    color: @color-text;
+    text-align: center;
 
-	div#input {
-		font-family: sans-serif;
-		text-align: center;				// center elements within the input div
-		background-color: darkgrey;
+    // MOBILE
+    flex-direction: column;
 
-		// DESKTOP
-		@media only screen and (min-width: @width) {
-			/*
-			display: flex;
-			flex-direction: column;
-			justify-content: center;
-			*/
-			
-			#list-gender, #list-ownership, #list-filter {
-				display: none;
-			}
-		}
+    // DESKTOP
+    @media only screen and (min-aspect-ratio: 1/1) {
+        flex-direction: row-reverse;
+    }
+}
 
-		// MOBILE
-		@media only screen and (max-width: @width) {
-			#radio-gender, #radio-ownership, #radio-filter {
-				display: none;
-			}
-		}
+// Division where the HighCharts object will be rendered
+#edp_map {
+    // have the element grow to fill all remaining space
+    // after the UI is rendered
+    flex: auto;
+}
 
-		button, select {
-			//font-size: 100%;
-			text-align: center;
+// Wrapper for all mobile UI elements
+#edp_mobile {
+    // if landscape, hide mobile view
+    @media only screen and (min-aspect-ratio: 1/1) {
+        display: none;
+    }
+}
 
-			// DESKTOP
-			@media only screen and (min-width: @width) {
-				min-height: 50px;
-				//height: 50px;
-				//width: 100%;
-			}
-		}
+// show menu button
+#edp_mobile_show {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    height: 75px;
+    width: 75px;
+    border: none;
+    border-radius: 50%;
+    background-color: @color-active;
+}
 
-		div.list {
-			text-align: center;			// center elements within div.list
-			padding-top: 10px;
-			padding-bottom: 10px;
+// mobile UI pull-up menu
+#edp_mobile_menu {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    height: 75%;
+    width: 100%;
+    background-color: @color-dark;
+}
 
-			// DESKTOP
-			//display: block;				// stack multiple div.list objects together vertically
+// Division where UI elements will be rendered in the desktop layout
+#edp_desktop {
+    // if portrait, hide desktop view
+    @media only screen and (max-aspect-ratio: 1/1) {
+        display: none;
+    }
+    background-color: @color-dark;
+}
 
-			// MOBILE
-			@media only screen and (max-width: @width) {
-				display: inline-block;	// stack multiple div.list objects together horizontally
-			}
+// wrapper class for user input fields and associated text labels
+.edp_desktop_input {
+    margin: 10px;
+}
 
-			p.label {
-				margin: 0;
-				font-family: sans-serif;
-			}
-		}
+// submit button
+#edp_desktop_submit {
+    font-size: 14pt;
+    padding: 0 10px;
+    color: @color-dark;
+}
 
-		div.radio {
-			display: flex;
-			flex-direction: column;
-		}
-
-		p.link {
-			font-size: 100%;
-		}
-	}
+#edp_desktop_logo {
+    margin: 20px;
+}
+#edp_desktop_logo:hover {
+    opacity: 0.8;
 }

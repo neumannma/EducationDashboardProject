@@ -1,0 +1,39 @@
+/*  Usage:
+ *      <input type="radio" name="group" class="edp_radiobutton" id="group-1">
+ *		<label for="group-1">
+ *			<div class="edp_radiobutton"> [Your Text Here] </div>
+ *		</label>
+ */
+
+ @import (reference) "colortheme.less";
+
+// hide default radio buttons
+input[type="radio"].edp_radiobutton {
+    display: none;
+}
+// button properties
+div.edp_radiobutton {
+    top: 0;
+    bottom: 0;
+    margin: 5px auto;
+    text-align: center;
+    line-height: 25px;
+    height: 25px;
+    width: 100px;
+    border: 2px solid @color-active;
+    border-radius: 25px;
+    background-color: @color-dark;
+    transition: background-color 0.1s;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+// button mouseover color
+div.edp_radiobutton:hover {
+    background-color: darken(@color-dark, 5%);
+}
+// button pressed color
+input[type="radio"].edp_radiobutton:checked + label .edp_radiobutton {
+    background-color: @color-active;
+}

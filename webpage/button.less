@@ -1,0 +1,27 @@
+@import (reference) "colortheme.less";
+
+.edp_button {
+    // center horizontally (with 5px vertical margin)
+    top: 0;
+    bottom: 0;
+    margin: 5px auto;
+
+    // dimensions
+    /*
+    height: 30px;
+    width: 70px;
+    */
+
+    // appearance
+    background-color: @color-light;
+    transition: background-color 0.1s;
+    border: none;
+
+    // text centering
+    text-align: center; // center text horizontally
+    line-height: 30px;  // center text vertically (keep this value the same as 'height')
+}
+
+.edp_button:hover {
+    background-color: lighten(@color-light, 5%);
+}

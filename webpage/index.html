@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Education Dashboard Project</title>
+
+		<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- import CSS -->
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+		<!-- import jQuery -->
+		<script defer src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+		<!-- import HighMaps -->
+		<script defer src="http://code.highcharts.com/maps/highmaps.js"></script>
+		<script defer src="http://code.highcharts.com/maps/modules/exporting.js"></script>
+		<script defer src="http://code.highcharts.com/mapdata/countries/tz/tz-all.js"></script>
+
+		<!-- import local scripts -->
+		<script defer src="client.js"></script>
+    </head>
+    <body>
+        <div id="EducationDashboardProject">
+
+			<!-- where the HighCharts object will be rendered -->
+			<div id="edp_map"></div>
+
+			<!-- mobile layout elements -->
+			<div id="edp_mobile">
+
+				<button id="edp_mobile_show">SHOW</button>
+
+				<div id="edp_mobile_menu">
+					<div class="edp_mobile_flex">
+
+					<div class="edp_mobile_inline">
+						<div class="edp_mobile_label">Year:</div>
+						<select class="edp_mobile_select" id="edp_mobile_year">
+						</select>
+					</div>
+
+					<div class="edp_mobile_inline">
+						<div class="edp_mobile_label">Data:</div>
+						<select class="edp_mobile_select" id="edp_mobile_data">
+							<option value="pass">Pass Rate</option>
+							<option value="top3div">Top 3 Divisions Rate</option>
+							<option value="div1">Division 1 Rate</option>
+							<option value="div2">Division 2 Rate</option>
+							<option value="div3">Division 3 Rate</option>
+							<option value="div4">Division 4 Rate</option>
+							<option value="fail">Fail Rate</option>
+						</select>
+					</div>
+
+					<div class="edp_mobile_inline">
+						<div class="edp_mobile_label">Gender:</div>
+						<select class="edp_mobile_select" id="edp_mobile_gender">
+							<option value="all">All</option>
+							<option value="male">Male</option>
+							<option value="female">Female</option>
+						</select>
+					</div>
+
+					<div class="edp_mobile_inline">
+						<div class="edp_mobile_label">Ownership:</div>
+						<select class="edp_mobile_select" id="edp_mobile_ownership">
+							<option value="all">All</option>
+							<option value="public">Public</option>
+							<option value="private">Private</option>
+							<option value="unknown">Unknown</option>
+						</select>
+					</div>
+
+					<div class="edp_mobile_inline">
+						<div class="edp_mobile_label">Candidates:</div>
+						<select class="edp_mobile_select" id="edp_mobile_filter">
+							<option value="none">Registered</option>
+							<option value="exclude-absent">Clean</option>
+						</select>
+					</div>
+
+					<div class="edp_mobile_inline">
+						<button class="edp_mobile_button" id="edp_mobile_hide">HIDE</button>
+						<button class="edp_mobile_button" id="edp_mobile_submit">Submit</button>
+					</div>
+
+					</div>
+				</div>
+			</div>
+
+			<!-- desktop layout elements -->
+			<div id="edp_desktop">
+
+				<!-- select: Year -->
+				<div class="edp_desktop_input">
+					<h3>Year</h3>
+					<select id="edp_desktop_year">
+					</select>
+				</div>
+
+				<hr>
+
+				<!-- select: Data -->
+				<div class="edp_desktop_input">
+					<h3>Data</h3>
+					<select id="edp_desktop_data">
+						<option value="pass">Pass Rate</option>
+						<option value="top3div">Top 3 Divisions Rate</option>
+						<option value="div1">Division 1 Rate</option>
+						<option value="div2">Division 2 Rate</option>
+						<option value="div3">Division 3 Rate</option>
+						<option value="div4">Division 4 Rate</option>
+						<option value="fail">Fail Rate</option>
+					</select>
+				</div>
+
+				<hr>
+
+				<!-- button-radio: Gender -->
+				<div class="edp_desktop_input">
+					<h3>Gender</h3>
+					<!-- All -->
+					<input type="radio" name="edp_desktop_gender" class="edp_radiobutton" id="edp_desktop_gender-all" value="all" checked>
+					<label for="edp_desktop_gender-all">
+						<div class="edp_radiobutton">All</div>
+					</label>
+
+					<!-- Male -->
+					<input type="radio" name="edp_desktop_gender" class="edp_radiobutton" id="edp_desktop_gender-male" value="male">
+					<label for="edp_desktop_gender-male">
+						<div class="edp_radiobutton">Male</div>
+					</label>
+
+					<!-- Female -->
+					<input type="radio" name="edp_desktop_gender" class="edp_radiobutton" id="edp_desktop_gender-female" value="female">
+					<label for="edp_desktop_gender-female">
+						<div class="edp_radiobutton">Female</div>
+					</label>
+				</div>
+
+				<hr>
+
+				<!-- button-radio: Ownership -->
+				<div class="edp_desktop_input">
+					<h3>Ownership</h3>
+					<!-- All -->
+					<input type="radio" name="edp_desktop_ownership" class="edp_radiobutton" id="edp_desktop_ownership-all" value="all" checked>
+					<label for="edp_desktop_ownership-all">
+						<div class="edp_radiobutton">All</div>
+					</label>
+
+					<!-- Public -->
+					<input type="radio" name="edp_desktop_ownership" class="edp_radiobutton" id="edp_desktop_ownership-public" value="public">
+					<label for="edp_desktop_ownership-public">
+						<div class="edp_radiobutton">Public</div>
+					</label>
+
+					<!-- Private -->
+					<input type="radio" name="edp_desktop_ownership" class="edp_radiobutton" id="edp_desktop_ownership-private" value="private">
+					<label for="edp_desktop_ownership-private">
+						<div class="edp_radiobutton">Private</div>
+					</label>
+
+					<!-- Unknown -->
+					<input type="radio" name="edp_desktop_ownership" class="edp_radiobutton" id="edp_desktop_ownership-unknown" value="unknown">
+					<label for="edp_desktop_ownership-unknown">
+						<div class="edp_radiobutton">Unknown</div>
+					</label>
+				</div>
+
+				<hr>
+
+				<!-- button-radio: Candidates -->
+				<div class="edp_desktop_input">
+					<h3>Candidates</h3>
+					<input type="radio" name="edp_desktop_filter" class="edp_radiobutton" id="edp_desktop_filter-none" value="none" checked>
+					<label for="edp_desktop_filter-none">
+						<div class="edp_radiobutton">Registered</div>
+					</label>
+					<input type="radio" name="edp_desktop_filter" class="edp_radiobutton" id="edp_desktop_filter-exclude-absent" value="exclude-absent">
+					<label for="edp_desktop_filter-exclude-absent">
+						<div class="edp_radiobutton">Clean</div>
+					</label>
+				</div>
+
+				<hr>
+
+				<button class="edp_button" id="edp_desktop_submit">Submit</button>
+
+				<div id="edp_desktop_logo">
+					Brought to you by<br><a href="http://www.tetea.org"><img src="logo.png" style="height:84px; width:72px;"></a>
+				</div>
+
+			</div>
+
+		</div>
+    </body>
+</html>

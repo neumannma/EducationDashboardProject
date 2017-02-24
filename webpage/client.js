@@ -1,158 +1,256 @@
-function is_mobile()
-{
-    var mq = window.matchMedia("only screen and (max-width: 768px)");
-    return mq.matches;
+var state = {
+    year: '2016',
+    data: 'pass',
+    gender: 'all',
+    ownership: 'all',
+    candidates: 'none'
+};
+
+function isMobile() {
+    return window.matchMedia("only screen and (max-aspect-ratio: 1/1)").matches;
 }
 
+function getUrlParams() {
+    var result = {};
 
-// Ensure that the map responds properly when the window is resized
-$(window).resize(function()
-{
-    var witdh;
-    var height;
-    if (is_mobile())    // mobile
-    {
-        var height = $('#wrapper').height() - $('#input').height();
-        var width = $('#wrapper').width();
-    }
-    else                // desktop
-    {
-        var height = $('#wrapper').height();
-        var width = $('#wrapper').width() - $('#input').width();
-    }
-    $('#map').highcharts().setSize(width, height, doAnimation = false);
-});
+    url = window.location.href;         // get the whole URL
+    url = url.split('?')[1];            // separate params from URL
+    if (!url)
+        return null;                    // return null if there are no params
+    url = url.split('#')[0];            // separate params from heading navigation
+    var paramArray = url.split('&');    // tokenize individual param=value pairs
 
-
-// Link the values of the corresponding inputs for the desktop and mobile page layouts
-function link_inputs()
-{
-    function get_button(id)
-    {
-        var elts = document.getElementById(id).children;
-        for (var i = 0; i < elts.length; i++)
-            if (elts[i].checked)
-                return elts.item(i).value;
-    }
-
-    function set_button(id, val)
-    {
-        var elts = document.getElementById(id).children;
-        for (var i = 0; i < elts.length; i++)
-            if (elts[i].value == val)
-            {
-                elts[i].checked = true;
-                break;
-            }
-    }
-
-    if (is_mobile())
-    {
-        set_button('radio-gender', document.getElementById('list-gender').value);
-        set_button('radio-ownership', document.getElementById('list-ownership').value);
-        set_button('radio-filter', document.getElementById('list-filter').value);
-    }
-    else
-    {
-        document.getElementById('list-gender').value = get_button('radio-gender');
-        document.getElementById('list-ownership').value = get_button('radio-ownership');
-        document.getElementById('list-filter').value = get_button('radio-filter');
-    }
+    // store each param=value pair in 'result'
+    paramArray.forEach(function(elt) {
+        var temp = elt.split('=');
+        temp[0] = temp[0].toLowerCase();
+        temp[1] = temp[1].toLowerCase();
+        result[temp[0]] = temp[1];
+    });
+    
+    return result;
 }
 
+// Colorize the submit buttons when changes are made to the inputs
+function highlightSubmit() {
+    $('#edp_desktop_submit').addClass('highlight');
+}
 
-// Execute AJAX request to fetch map data
-// Runs when the page loads or when the submit button is pressed
-function load(make_log_entry)
-{
+function submit() {
+    $('#edp_desktop_submit').removeClass('highlight');
+    loadMap();
+}
+
+function loadMap(make_log_entry) {
     if (make_log_entry === undefined)
         make_log_entry = true;
-	// get value of data selection list
-	var year = document.getElementById('list-year').value;
-    var data = document.getElementById('list-data').value;
-    var gender = document.getElementById('list-gender').value;
-    var ownership = document.getElementById('list-ownership').value;
-    var filter = document.getElementById('list-filter').value;
 
     var link = 'query.php?make_log_entry=' + make_log_entry
-                                        + '&year=' + year
-                                        + '&data=' + data
-                                        + '&gender='+ gender
-                                        + '&ownership=' + ownership
-                                        + '&filter=' + filter;
+                                        + '&year=' + state.year
+                                        + '&data=' + state.data
+                                        + '&gender='+ state.gender
+                                        + '&ownership=' + state.ownership
+                                        + '&filter=' + state.candidates;
     console.log(link);
-	$.getJSON(link, draw_map);
+	$.getJSON(link, drawMap);
 }
 
-
-// Invoke HighCharts to render the map
-function draw_map(source)
-{
+function drawMap(source) {
     // Display title as: CSEE <year> <dataset>
-    var text_title = "CSEE " + $('#list-year option:selected').text() + " " + $('#list-data option:selected').text();
+    var text_title = "CSEE " + $('#edp_mobile_year option:selected').text() + " " + $('#edp_mobile_data option:selected').text();
     // Display subtitle as: Gender: <gender> | Filter: <filter>
-    var text_subtitle = "Gender: " + $('#list-gender option:selected').text()
-                                + ' | Ownership: ' + $('#list-ownership option:selected').text()
-                                + ' | Candidates: ' + $('#list-filter option:selected').text();
+    var text_subtitle = "Gender: " + $('#edp_mobile_gender option:selected').text()
+                                + ' | Ownership: ' + $('#edp_mobile_ownership option:selected').text()
+                                + ' | Candidates: ' + $('#edp_mobile_filter option:selected').text();
 
-	var properties = 
-	{
-        title:
-        {
+	var properties = {
+        title: {
             text: text_title
         },
 
-        subtitle:
-        {
+        subtitle: {
             text: text_subtitle
         },
 
-        mapNavigation:
-        {
+        mapNavigation: {
             enabled: true,
-            buttonOptions:
-            {
+            buttonOptions: {
                 verticalAlign: 'middle'
             }
         },
 		
-        colorAxis: 
-        {
+        colorAxis: {
             min: source.min,
             max: source.max
         },
 
-        series: 
-        [{
+        series: [{
             data: source.data,
             mapData: Highcharts.maps['countries/tz/tz-all'],
             joinBy: 'hc-key',
-            name: $('#list-data option:selected').text(),
-            states:
-            {
-                hover:
-                {
+            name: $('#edp_mobile_data option:selected').text(),
+            states: {
+                hover: {
                     color: '#36B35B'
                 }
             },
-            dataLabels:
-            {
+            dataLabels: {
                 enabled: true,
                 format: '{point.name}'
             },
-            tooltip:
-            {
+            tooltip: {
                 pointFormat: '{point.name}: {point.value:.1f}%'
             }
         }]
     }
 
 	// Initiate the chart
-    $('#map').highcharts('Map', properties);
+    $('#edp_map').highcharts('Map', properties);
 }
 
+// -- EVENT HANDLERS --  
+    // MOBILE
 
-$(function()
+        // show menu button: click
+        $('#edp_mobile_show').click(function() {
+            $('#edp_mobile_menu').show();
+        });
+
+        // hide menu button: click
+        $('#edp_mobile_hide').click(function() {
+            $('#edp_mobile_menu').hide();
+        });
+
+        // year select: change
+        $('#edp_mobile_year').change(function() {
+            state.year = $(this).val();
+            $('#edp_desktop_year').val(state.year);
+            highlightSubmit();
+        });
+
+        // data select: change
+        $('#edp_mobile_data').change(function() {
+            state.data = $(this).val();
+            $('#edp_desktop_data').val(state.data);
+            highlightSubmit();
+        });
+
+        // gender select: change
+        $('#edp_mobile_gender').change(function() {
+            state.gender = $(this).val();
+            $('input[name="edp_desktop_gender"][value="' + state.gender + '"]').prop("checked",true);
+            highlightSubmit();
+        });
+
+        // ownership select: change
+        $('#edp_mobile_ownership').change(function() {
+            state.ownership = $(this).val();
+            $('input[name="edp_desktop_ownership"][value="' + state.ownership + '"]').prop("checked",true);
+            highlightSubmit();
+        });
+
+        // candidates select: change
+        $('#edp_mobile_filter').change(function() {
+            state.candidates = $(this).val();
+            $('input[name="edp_desktop_filter"][value="' + state.candidates + '"]').prop("checked",true);
+            highlightSubmit();
+        });
+
+        // submit button: click
+        $('#edp_mobile_submit').click(function() {
+            submit();
+        });
+    
+    // DESKTOP
+
+        // year select: change
+        $('#edp_desktop_year').change(function() {
+            state.year = $(this).val();
+            $('#edp_mobile_year').val(state.year);
+            highlightSubmit();
+        });
+
+        // data select: change
+        $('#edp_desktop_data').change(function() {
+            state.data = $(this).val();
+            $('#edp_mobile_data').val(state.data);
+            highlightSubmit();
+        });
+
+        // gender radio: change
+        $('input[name="edp_desktop_gender"]').change(function() {
+            state.gender = $('input[name="edp_desktop_gender"]:checked').val();
+            $('#edp_mobile_gender').val(state.gender);
+            highlightSubmit();
+        });
+
+        // ownership radio: change
+        $('input[name="edp_desktop_ownership"]').change(function() {
+            state.ownership = $('input[name="edp_desktop_ownership"]:checked').val();
+            $('#edp_mobile_ownership').val(state.ownership);
+            highlightSubmit();
+        });
+
+        // candidates radio: change
+        $('input[name="edp_desktop_filter"]').change(function() {
+            state.candidates = $('input[name="edp_desktop_filter"]:checked').val();
+            $('#edp_mobile_filter').val(state.candidates);
+            highlightSubmit();
+        });
+
+        // submit button: click
+        $('#edp_desktop_submit').click(function() {
+            submit();
+        });
+
+// -- EVENT HANDLERS --
+
+$(window).resize(function()
 {
-    load(make_log_entry = false);
+    var witdh;
+    var height;
+    if (isMobile()) {
+        var height = $('#wrapper').height();
+        var width = $('#wrapper').width();
+    }
+    else {
+        var height = $('#wrapper').height();
+        var width = $('#wrapper').width() - $('#input').width();
+    }
+    $('#map').highcharts().setSize(width, height, doAnimation = false);
+});
+
+$(function() {
+    // get starting state values
+    var params = getUrlParams();
+    if (params) {
+        if (params.year) state.year = params.year;
+        if (params.data) state.data = params.data;
+        if (params.gender) state.gender = params.gender;
+        if (params.ownership) state.ownership = params.ownership;
+        if (params.candidates) state.candidates = params.candidates;
+    }
+
+    // get list of years
+    $.getJSON('fetch-years.php', function(data) {
+        data.forEach(function(year) {
+            var option = $('<option value="' + year + '">' + year + '</option>');
+            $('#edp_desktop_year').append('<option value=' + year + '>' + year + '</option>');
+            $('#edp_mobile_year').append('<option value=' + year + '>' + year + '</option>');
+        });
+
+        $('#edp_desktop_year').val(state.year);
+        $('#edp_desktop_data').val(state.data);
+        $('input[name="edp_desktop_gender"][value="' + state.gender + '"]').prop("checked",true);
+        $('input[name="edp_desktop_ownership"][value="' + state.ownership + '"]').prop("checked",true);
+        $('input[name="edp_desktop_filter"][value="' + state.candidates + '"]').prop("checked",true);
+
+        $('#edp_mobile_year').val(state.year);
+        $('#edp_mobile_data').val(state.data);
+        $('#edp_mobile_gender').val(state.gender);
+        $('#edp_mobile_ownership').val(state.ownership);
+        $('#edp_mobile_filter').val(state.candidates);
+
+        loadMap(false);
+    });
 });
