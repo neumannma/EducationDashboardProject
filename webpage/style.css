@@ -6,7 +6,7 @@
     height: 30px;
     width: 70px;
     */
-  background-color: #cccccc;
+  background-color: #CCCCCC;
   transition: background-color 0.1s;
   border: none;
   text-align: center;
@@ -14,6 +14,9 @@
 }
 .edp_button:hover {
   background-color: #d9d9d9;
+}
+.edp_button:active {
+  background-color: #bfbfbf;
 }
 /*  Usage:
  *      <input type="radio" name="group" class="edp_radiobutton" id="group-1">
@@ -32,7 +35,7 @@ div.edp_radiobutton {
   line-height: 25px;
   height: 25px;
   width: 100px;
-  border: 2px solid #36b35b;
+  border: 2px solid #36B35B;
   border-radius: 25px;
   background-color: #777777;
   transition: background-color 0.1s;
@@ -45,7 +48,7 @@ div.edp_radiobutton:hover {
   background-color: #6a6a6a;
 }
 input[type="radio"].edp_radiobutton:checked + label .edp_radiobutton {
-  background-color: #36b35b;
+  background-color: #36B35B;
 }
 body {
   margin: 0;
@@ -56,14 +59,18 @@ button {
 }
 hr {
   margin: 10px;
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #CCCCCC;
   opacity: 0.2;
 }
+h1 {
+  font-size: 14pt;
+  margin: 0;
+}
 .highlight {
-  background-color: #36b35b;
+  background-color: #79d694;
 }
 .highlight:hover {
-  background-color: #51cb75;
+  background-color: #8cdca4;
 }
 .edp_mobile_select {
   margin: 0 0 10px 10px;
@@ -96,7 +103,7 @@ hr {
   width: 100%;
   display: flex;
   font-family: sans-serif;
-  color: #ffffff;
+  color: white;
   text-align: center;
   flex-direction: column;
 }
@@ -121,7 +128,14 @@ hr {
   width: 75px;
   border: none;
   border-radius: 50%;
-  background-color: #36b35b;
+  background-color: #36B35B;
+}
+#edp_mobile_logo {
+  position: fixed;
+  height: 75px;
+  width: 75px;
+  right: 10px;
+  bottom: 15px;
 }
 #edp_mobile_menu {
   display: none;

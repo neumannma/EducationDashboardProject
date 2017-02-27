@@ -212,7 +212,9 @@ $(window).resize(function() {
     var height;
     var wrapper = $('#EducationDashboardProject');
     if (isMobile()) {
-        height = wrapper.height();
+        // resize based on the viewport height and not the div height
+        // the div will stay as large as the map if allowed
+        height = $(window).height();
         width = wrapper.width();
     }
     else {
