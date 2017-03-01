@@ -210,6 +210,7 @@ function drawMap(source) {
 $(window).resize(function() {
     var width;
     var height;
+    var map = $('#edp_map');
     var wrapper = $('#EducationDashboardProject');
     if (isMobile()) {
         height = $(window).height() - $('#edp_mobile').height();
@@ -219,7 +220,7 @@ $(window).resize(function() {
         height = $(window).height();
         width = wrapper.width() - $('#edp_desktop').width();
     }
-    $('#edp_map').highcharts().setSize(width, height, doAnimation = false);
+    map.highcharts().setSize(width, height, doAnimation = false);
 });
 
 $(function() {
