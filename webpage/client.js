@@ -212,7 +212,7 @@ $(window).resize(function() {
     var height;
     var wrapper = $('#EducationDashboardProject');
     if (isMobile()) {
-        height = $(window).height();
+        height = $(window).height() - $('#edp_mobile').height();
         width = wrapper.width();
     }
     else {
