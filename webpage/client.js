@@ -217,9 +217,9 @@ $(window).resize(function() {
     }
     else {
         height = $(window).height();
-        width = wrapper.width() - $('#edp_desktop').width();
+        width = $(window).width() - $('#edp_desktop').width();
     }
-    map.highcharts().setSize(width, height, doAnimation = false);
+    $('#edp_map').highcharts().setSize(width, height, doAnimation = false);
 });
 
 $(function() {
