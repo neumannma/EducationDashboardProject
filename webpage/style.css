@@ -2,10 +2,6 @@
   top: 0;
   bottom: 0;
   margin: 5px auto;
-  /*
-    height: 30px;
-    width: 70px;
-    */
   background-color: #CCCCCC;
   transition: background-color 0.1s;
   border: none;
@@ -114,6 +110,7 @@ h1 {
 }
 #edp_map {
   flex: auto;
+  max-height: 100vh;
 }
 @media only screen and (min-aspect-ratio: 1/1) {
   #edp_mobile {

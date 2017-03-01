@@ -210,7 +210,6 @@ function drawMap(source) {
 $(window).resize(function() {
     var width;
     var height;
-    var map = $('#edp_map');
     var wrapper = $('#EducationDashboardProject');
     if (isMobile()) {
         height = $(window).height() - $('#edp_mobile').height();
