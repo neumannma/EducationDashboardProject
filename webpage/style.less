@@ -85,7 +85,7 @@ h1 {
 // Wrapper for all mobile UI elements
 #edp_mobile {
     // if landscape, hide mobile view
-    @media only screen and (min-aspect-ratio: 1/1) {
+    @media only screen and (min-aspect-ratio: 1/1)  {
         display: none;
     }
 }
@@ -124,6 +124,9 @@ h1 {
     // if portrait, hide desktop view
     @media only screen and (max-aspect-ratio: 1/1) {
         display: none;
+    }
+    @media only screen and (aspect-ratio: 1/1) {
+        display: block;
     }
     background-color: @color-dark;
 }

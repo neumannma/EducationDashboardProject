@@ -171,6 +171,11 @@ h1 {
     display: none;
   }
 }
+@media only screen and (aspect-ratio: 1/1) {
+  #edp_desktop {
+    display: block;
+  }
+}
 .edp_desktop_input {
   margin: 10px;
 }
