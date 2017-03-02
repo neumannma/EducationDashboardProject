@@ -1,0 +1,19 @@
+@import (reference) "colortheme.less";
+
+.edp_select {
+    color: white;
+    background-color: @color-dark;
+    min-width: 100px;
+    height: 25px;
+    padding: 0 5px;
+    border: 2px solid @color-active;
+    transition: background-color 0.1s;
+}
+
+.edp_select:hover {
+    background-color: darken(@color-dark, 5%);
+}
+
+.edp_select:focus {
+    outline: none;
+}

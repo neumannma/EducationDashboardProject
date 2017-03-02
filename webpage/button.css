@@ -1,16 +1,20 @@
+/*  Usage:
+ *      <button class=".edp_button"></button>
+ *
+ *  To change the height while keeping text centered vertically,
+ *  make sure that height = line-height, i.e.
+ *      @height: 32px;
+ *      height: @height;
+ *      line-height: @height;
+ */
 .edp_button {
   top: 0;
   bottom: 0;
   margin: 5px auto;
-  /*
-    height: 30px;
-    width: 70px;
-    */
-  background-color: #cccccc;
+  background-color: #CCCCCC;
   transition: background-color 0.1s;
   border: none;
   text-align: center;
-  line-height: 30px;
 }
 .edp_button:hover {
   background-color: #d9d9d9;

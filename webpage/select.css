@@ -1,0 +1,15 @@
+.edp_select {
+  color: white;
+  background-color: #777777;
+  min-width: 100px;
+  height: 25px;
+  padding: 0 5px;
+  border: 2px solid #36B35B;
+  transition: background-color 0.1s;
+}
+.edp_select:hover {
+  background-color: #6a6a6a;
+}
+.edp_select:focus {
+  outline: none;
+}

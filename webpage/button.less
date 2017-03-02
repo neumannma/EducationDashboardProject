@@ -1,3 +1,13 @@
+/*  Usage:
+ *      <button class=".edp_button"></button>
+ *
+ *  To change the height while keeping text centered vertically,
+ *  make sure that height = line-height, i.e.
+ *      @height: 32px;
+ *      height: @height;
+ *      line-height: @height;
+ */
+
 @import (reference) "colortheme.less";
 
 .edp_button {
@@ -6,12 +16,6 @@
     bottom: 0;
     margin: 5px auto;
 
-    // dimensions
-    /*
-    height: 30px;
-    width: 70px;
-    */
-
     // appearance
     background-color: @color-light;
     transition: background-color 0.1s;
@@ -19,13 +23,15 @@
 
     // text centering
     text-align: center; // center text horizontally
-    line-height: 30px;  // center text vertically (keep this value the same as 'height')
 }
 
+// button mouseover color
 .edp_button:hover {
     background-color: lighten(@color-light, 5%);
 }
 
+
+// button pressed color
 .edp_button:active {
     background-color: darken(@color-light, 5%);
 }
