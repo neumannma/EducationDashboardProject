@@ -60,7 +60,15 @@ if __name__ == '__main__':
             continue
         if not anchor.has_attr('href'):
             continue
-        name = anchor['href'].strip()                                           # get the text from the anchor
+        
+        # get the text from the anchor
+        href = anchor['href'].strip()
+        href = href.split('./')
+        if len(href) == 2:
+            name = href[1]
+        else:
+            name = href[0]
+            
         if re.search('^[p|s|P|S]\d{4}', name) and name not in ignore:           # execute if the text is formatted as a NECTA ID
             webpage = urllib2.urlopen(directory + name.replace(' ', '%20'))   # replace spaces with the URL escape sequence
             content = webpage.read()
