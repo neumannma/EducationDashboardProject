@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -- coding: utf-8 --
 """
 
 """
@@ -22,6 +23,9 @@ def table2csv(html, name):
     :param html: string containing webpage html
     :param name: string containing webpage filename
     """
+    # dict of unicode characters to be replaced (all others will be stripped)
+    replacements = {u"’": "'", }
+
     # parse the NECTA ID from the filename
     name = os.path.splitext(name)[0]    # remove the extension from the filename
     name = name.replace(' ', '')        # remove spaces from the filename
@@ -36,7 +40,10 @@ def table2csv(html, name):
         cells = row.findAll('td')               # find all <td> (data) tags
         print('"{}"'.format(name), end='')      # print the NECTA ID
         for cell in cells:
-            print(',"{}"'.format(cell.find('p').string.strip()), end='')    # print everything else
+            text = cell.find('p').string.strip()    # strip leading and trailing whitespace
+            text = text.replace(u"’", "'")          # replace unicode single quote with ASCII equivalent
+            text = text.encode('ascii', 'ignore').decode('ascii')   # strip any remaining unicode characters
+            print(',"{}"'.format(text), end='')     # print everything
         print()                                 # print a newline
 
 # check arguments
