@@ -16,8 +16,8 @@
 	$dict_select["top3div"] = "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_select["div1"] 	= "100 * COUNT( CASE WHEN (division = 'I' OR division = 'DISTINCTION') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_select["div2"] 	= "100 * COUNT( CASE WHEN (division = 'II' OR division = 'MERIT') THEN 1 END ) / COUNT(*) AS 'value'";
-	$dict_select["div3"] 	= "100 * COUNT( CASE WHEN (division = 'III' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
-	$dict_select["div4"] 	= "100 * COUNT( CASE WHEN (division = 'IV' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["div3"] 	= "100 * COUNT( CASE WHEN (division = 'III' OR division = 'PASS') THEN 1 END ) / COUNT(*) AS 'value'";
+	$dict_select["div4"] 	= "100 * COUNT( CASE WHEN (division = 'IV' OR division = 'CREDIT') THEN 1 END ) / COUNT(*) AS 'value'";
 	$dict_select["fail"] 	= "100 * COUNT( CASE WHEN (division = '0' OR division = 'FLD' OR division = 'FAIL') THEN 1 END ) / COUNT(*) AS 'value'";
 
 	// dictionary containing possible database where (filtering) clauses
@@ -27,7 +27,7 @@
 	$dict_where["public"] 			= "ownership = 'PUBLIC'";
 	$dict_where["private"] 			= "ownership = 'PRIVATE'";
 	$dict_where["unknown"] 			= "ownership IS NULL OR ownership=''";
-	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'CREDIT' OR division = 'IV' OR division = 'PASS' OR (division = '0' OR division = 'FLD' OR division = 'FAIL')";
+	$dict_where["exclude-absent"] 	= "division = 'I' OR division = 'DISTINCTION' OR division = 'II' OR division = 'MERIT' OR division = 'III' OR division = 'PASS' OR division = 'IV' OR division = 'CREDIT' OR (division = '0' OR division = 'FLD' OR division = 'FAIL')";
 	
 	// create connection to database
 	$connection = new mysqli($hostname, $username, $password, $database);
