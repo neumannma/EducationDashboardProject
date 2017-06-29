@@ -1,8 +1,15 @@
 #!/usr/bin/env python
 # -- coding: utf-8 --
-"""
 
-"""
+# TODO:
+#   automatically generate the column labels
+#   handle timeout exceptions
+#       - if webpage [p|s]XXXX.html fails to respond, keep retrying
+#   handle invalid data exceptions
+#       - if a particular row in a school fails, throw out the entire set for the school, print a message, and keep scraping
+#   modularity
+#       - function to scrape a single school from a single year
+
 from __future__ import print_function
 import sys
 import os.path
