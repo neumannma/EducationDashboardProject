@@ -1,0 +1,97 @@
+/*  Usage:
+ *      <input type="radio" name="group" class="edp_radiobutton" id="group-1">
+ *		<label for="group-1">
+ *			<div class="edp_radiobutton"> [Your Text Here] </div>
+ *		</label>
+ */
+input[type="radio"].edp_radiobutton {
+  display: none;
+}
+div.edp_radiobutton {
+  color: white;
+  top: 0;
+  bottom: 0;
+  margin: 5px auto;
+  text-align: center;
+  line-height: 25px;
+  height: 25px;
+  width: 100px;
+  border: 2px solid #36B35B;
+  border-radius: 25px;
+  background-color: #777777;
+  transition: background-color 0.1s;
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+}
+div.edp_radiobutton:hover {
+  background-color: #6a6a6a;
+}
+input[type="radio"].edp_radiobutton:checked + label .edp_radiobutton {
+  background-color: #36B35B;
+}
+body {
+  margin: 0;
+}
+.edp_mobile_flex {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.edp_mobile_inline {
+  margin: 0;
+  flex: auto;
+  display: flex;
+  flex-direction: row;
+}
+.edp_mobile_label {
+  color: white;
+  width: 25%;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.edp_mobile_select {
+  margin: 0 0 10px 10px;
+  flex: auto;
+  font-size: 4vh;
+}
+.edp_mobile_button {
+  margin: 0;
+  flex: auto;
+}
+#EDPBarchart {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  text-align: center;
+}
+#barchart {
+  flex: auto;
+  max-height: 100vh;
+}
+#barchart_menu_show {
+  float: left;
+  height: 75px;
+  width: 75px;
+  border: none;
+  border-radius: 50%;
+  margin: 0 0 5px 5px;
+  background-color: #36B35B;
+}
+#tetea_logo {
+  float: right;
+  height: 75px;
+  width: 75px;
+  margin: 0 5px 5px 0;
+}
+#barchart_menu {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  height: 25%;
+  width: 100%;
+  background-color: #777777;
+}
