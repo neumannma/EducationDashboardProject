@@ -1,3 +1,9 @@
+// for triggering vscode type acquisition
+// remove if this causes problems
+function require(str) {}
+require('jquery');
+require('highcharts');
+
 var state = {
     year: '2016',
     data: 'pass',
