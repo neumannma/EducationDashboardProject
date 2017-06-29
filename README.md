@@ -1,11 +1,19 @@
 # EducationDashboardProject
 
-### Dependencies
-  * Apache HTTP Server
-    * Access to configuration files over HTTP is denied by the `.htaccess` file
-    * If another server solution is used, this functionality will have to be implemented manually by the user
-  * MySQL-compatible database
-    * Created using MariaDB, other SQL databases not tested
+### TODO
+  * update this readme
+  * scraper.py
+    * handle timeout
+    * handle invalid data exceptions
+      * throw out the school & print a warning
+    * auto generate column labels
+    * more flexibility (e.g. scrape a single school from a given year at a time)
+  * barchart / map
+    * make shared folder for common stylesheet assets
+    * add loading spinners
+  * barchart
+    * finish mobile UI
+    * add message when school not found
 
 ### Installation
   1. Clone the repository
