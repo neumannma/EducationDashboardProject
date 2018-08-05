@@ -1,7 +1,7 @@
 # EducationDashboardProject
 
 ### TODO
-  * update this readme
+  * Update this readme
   * scraper.py
     * handle timeout
     * handle invalid data exceptions
