@@ -3,7 +3,7 @@
 ### TODO
   * Update this readme
   * scraper.py
-    * handle timeout
+    * Handle timeout
     * handle invalid data exceptions
       * throw out the school & print a warning
     * auto generate column labels
